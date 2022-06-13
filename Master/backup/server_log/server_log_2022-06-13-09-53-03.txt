@@ -1,0 +1,1882 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 35%
+	Available Physical Memory: 10544m/16317m
+	Available Page File: 9244m/18749m
+	Available Virtual Memory: 134213509m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 167k
+	Quota Page Pool Usage: 167k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Sun Jun 12 17:39:15 2022
+
+[00:00:00]: Don't Starve Together: 510124 WIN32
+[00:00:00]: Build Date: 1097
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (5076)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.29
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'Ping Job Thread' (9620)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: THREAD - started 'StreamInput' (4776)
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64 bits
+  CPU                       
+    clockSpeed                3600
+    name                      Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    name                      Radeon RX 570 Series
+    driverVersion             26.20.15002.61
+    driverDate                20191204000000.000000-000
+    refreshRate               60
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-1111658995	
+[00:00:03]: modoverrides.lua enabling workshop-1894295075	
+[00:00:03]: modoverrides.lua enabling workshop-1185229307	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-2528541304	
+[00:00:03]: modoverrides.lua enabling workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1894295075_CLIENT	
+[00:00:03]: Loading mod: workshop-1894295075 (Boss Announcement) Version:1.3.2 (Old API! (mod: nil game: 10) )	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:03]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:03]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2528541304_CLIENT	
+[00:00:03]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.7-a	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:03]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:57	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1111658995_CLIENT	
+[00:00:03]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1894295075	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:03]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:03]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:03]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:03]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:03]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:03]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:03]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:03]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:03]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2528541304	
+[00:00:03]: Overriding mod workshop-2528541304's option amount_given2 with value 4	
+[00:00:03]: Overriding mod workshop-2528541304's option planting_floor with value true	
+[00:00:03]: Overriding mod workshop-2528541304's option amount_given with value 4	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:03]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:03]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:03]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modworldgenmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2528541304/tile_adder.lua	
+[00:00:03]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfsstrings	
+[00:00:03]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfspostinits	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1894295075 (Boss Announcement)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1894295075 (Boss Announcement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1894295075 (Boss Announcement)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering Server mod namespace "workshop-378160973"
+[00:00:04]: Registering Server mod namespace "workshop-1111658995"
+[00:00:04]: Registering Client mod namespace "workshop-1111658995"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:06]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	Registering prefabs	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_terraformer	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer_placer	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_webcreep	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	    turf_webcreep	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_ground_webcreep	
+[00:00:06]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1894295075 (Boss Announcement)	Registering prefabs	
+[00:00:06]: Mod: workshop-1894295075 (Boss Announcement)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (10496)
+[00:00:07]: FilesExistAsyncThread started (19981 files)...
+[00:00:07]: Check for write access: TRUE
+[00:00:07]: Check for read access: TRUE
+[00:00:07]: Available disk space for save files: 411962 MB
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:08]: [200] Account Communication Success (6)
+[00:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[00:00:08]: Starting Dedicated Server Game	
+[00:00:08]: Network tick rate: U=15(2), D=0
+[00:00:08]: About to start a server with the following settings:
+[00:00:08]:   Dedicated: true
+[00:00:08]:   Online: true
+[00:00:08]:   Passworded: true
+[00:00:08]:   ServerPort: 10999
+[00:00:08]:   SteamAuthPort: 8766
+[00:00:08]:   SteamMasterServerPort: 27016
+[00:00:08]:   ClanID: false
+[00:00:08]:   ClanOnly: false
+[00:00:08]:   ClanAdmin: false
+[00:00:08]:   LanOnly: false
+[00:00:08]:   FriendsOnly: false
+[00:00:08]:   EnableAutosaver: true
+[00:00:08]:   EncodeUserPath: true
+[00:00:08]:   PVP: false
+[00:00:08]:   MaxPlayers: 6
+[00:00:08]:   GameMode: survival
+[00:00:08]:   OverridenDNS: 
+[00:00:08]:   PauseWhenEmpty: true
+[00:00:08]:   IdleTimeout: 1800s
+[00:00:08]:   VoteEnabled: true
+[00:00:08]:   InternetBroadcasting: true
+[00:00:08]:   Intent: cooperative
+[00:00:08]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2528541304	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:08]: Online Server Started on port: 10999
+[00:00:08]: SUCCESS: Loaded modoverrides.lua	
+[00:00:08]: Found a level data override file with these contents:	
+[00:00:09]: 	K: 	desc	 V: 	A experiência padrão de Don't Starve	
+[00:00:09]: 	K: 	hideminimap	 V: 	false	
+[00:00:09]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:09]: 	K: 	location	 V: 	forest	
+[00:00:09]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:09]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:09]: 	K: 	name	 V: 	Floresta Padrão	
+[00:00:09]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:09]: 	K: 	override_level_string	 V: 	false	
+[00:00:09]: 	K: 	overrides	 V: 	table: 00000000110D9770	
+[00:00:09]: 		K: 	alternatehunt	 V: 	default	
+[00:00:09]: 		K: 	angrybees	 V: 	default	
+[00:00:09]: 		K: 	antliontribute	 V: 	default	
+[00:00:09]: 		K: 	autumn	 V: 	default	
+[00:00:09]: 		K: 	bats_setting	 V: 	default	
+[00:00:09]: 		K: 	bearger	 V: 	default	
+[00:00:09]: 		K: 	beefalo	 V: 	default	
+[00:00:09]: 		K: 	beefaloheat	 V: 	default	
+[00:00:09]: 		K: 	beequeen	 V: 	default	
+[00:00:09]: 		K: 	bees	 V: 	default	
+[00:00:09]: 		K: 	bees_setting	 V: 	default	
+[00:00:09]: 		K: 	berrybush	 V: 	default	
+[00:00:09]: 		K: 	birds	 V: 	default	
+[00:00:09]: 		K: 	boons	 V: 	default	
+[00:00:09]: 		K: 	branching	 V: 	default	
+[00:00:09]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:09]: 		K: 	butterfly	 V: 	default	
+[00:00:09]: 		K: 	buzzard	 V: 	default	
+[00:00:09]: 		K: 	cactus	 V: 	default	
+[00:00:09]: 		K: 	carrot	 V: 	default	
+[00:00:09]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:09]: 		K: 	catcoon	 V: 	default	
+[00:00:09]: 		K: 	catcoons	 V: 	default	
+[00:00:09]: 		K: 	chess	 V: 	default	
+[00:00:09]: 		K: 	cookiecutters	 V: 	default	
+[00:00:09]: 		K: 	crabking	 V: 	default	
+[00:00:09]: 		K: 	crow_carnival	 V: 	default	
+[00:00:09]: 		K: 	day	 V: 	default	
+[00:00:09]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:09]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:09]: 		K: 	deerclops	 V: 	default	
+[00:00:09]: 		K: 	dragonfly	 V: 	default	
+[00:00:09]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:09]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:09]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:09]: 		K: 	eyeofterror	 V: 	default	
+[00:00:09]: 		K: 	fishschools	 V: 	default	
+[00:00:09]: 		K: 	flint	 V: 	default	
+[00:00:09]: 		K: 	flowers	 V: 	default	
+[00:00:09]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:09]: 		K: 	frograin	 V: 	default	
+[00:00:09]: 		K: 	frogs	 V: 	default	
+[00:00:09]: 		K: 	fruitfly	 V: 	default	
+[00:00:09]: 		K: 	gnarwail	 V: 	default	
+[00:00:09]: 		K: 	goosemoose	 V: 	default	
+[00:00:09]: 		K: 	grass	 V: 	default	
+[00:00:09]: 		K: 	grassgekkos	 V: 	default	
+[00:00:09]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:09]: 		K: 	has_ocean	 V: 	true	
+[00:00:09]: 		K: 	hound_mounds	 V: 	default	
+[00:00:09]: 		K: 	houndmound	 V: 	default	
+[00:00:09]: 		K: 	hounds	 V: 	default	
+[00:00:09]: 		K: 	hunt	 V: 	default	
+[00:00:09]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:09]: 		K: 	klaus	 V: 	default	
+[00:00:09]: 		K: 	krampus	 V: 	default	
+[00:00:09]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:09]: 		K: 	liefs	 V: 	default	
+[00:00:09]: 		K: 	lightning	 V: 	default	
+[00:00:09]: 		K: 	lightninggoat	 V: 	default	
+[00:00:09]: 		K: 	loop	 V: 	default	
+[00:00:09]: 		K: 	lureplants	 V: 	default	
+[00:00:09]: 		K: 	malbatross	 V: 	default	
+[00:00:09]: 		K: 	marshbush	 V: 	default	
+[00:00:09]: 		K: 	merm	 V: 	default	
+[00:00:09]: 		K: 	merms	 V: 	default	
+[00:00:09]: 		K: 	meteorshowers	 V: 	default	
+[00:00:09]: 		K: 	meteorspawner	 V: 	default	
+[00:00:09]: 		K: 	moles	 V: 	default	
+[00:00:09]: 		K: 	moles_setting	 V: 	default	
+[00:00:09]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:09]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:09]: 		K: 	moon_carrot	 V: 	default	
+[00:00:09]: 		K: 	moon_fissure	 V: 	default	
+[00:00:09]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:09]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:09]: 		K: 	moon_rock	 V: 	default	
+[00:00:09]: 		K: 	moon_sapling	 V: 	default	
+[00:00:09]: 		K: 	moon_spider	 V: 	default	
+[00:00:09]: 		K: 	moon_spiders	 V: 	default	
+[00:00:09]: 		K: 	moon_starfish	 V: 	default	
+[00:00:09]: 		K: 	moon_tree	 V: 	default	
+[00:00:09]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:09]: 		K: 	mosquitos	 V: 	default	
+[00:00:09]: 		K: 	mushroom	 V: 	default	
+[00:00:09]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:09]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:09]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:09]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:09]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:09]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:09]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:09]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:09]: 		K: 	penguins	 V: 	default	
+[00:00:09]: 		K: 	penguins_moon	 V: 	default	
+[00:00:09]: 		K: 	perd	 V: 	default	
+[00:00:09]: 		K: 	petrification	 V: 	default	
+[00:00:09]: 		K: 	pigs	 V: 	default	
+[00:00:09]: 		K: 	pigs_setting	 V: 	default	
+[00:00:09]: 		K: 	ponds	 V: 	default	
+[00:00:09]: 		K: 	prefabswaps_start	 V: 	classic	
+[00:00:09]: 		K: 	rabbits	 V: 	default	
+[00:00:09]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:09]: 		K: 	reeds	 V: 	default	
+[00:00:09]: 		K: 	regrowth	 V: 	default	
+[00:00:09]: 		K: 	roads	 V: 	default	
+[00:00:09]: 		K: 	rock	 V: 	default	
+[00:00:09]: 		K: 	rock_ice	 V: 	default	
+[00:00:09]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:09]: 		K: 	sapling	 V: 	default	
+[00:00:09]: 		K: 	season_start	 V: 	default	
+[00:00:09]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:09]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:09]: 		K: 	sharks	 V: 	default	
+[00:00:09]: 		K: 	spawnprotection	 V: 	default	
+[00:00:09]: 		K: 	specialevent	 V: 	default	
+[00:00:09]: 		K: 	spider_warriors	 V: 	default	
+[00:00:09]: 		K: 	spiderqueen	 V: 	default	
+[00:00:09]: 		K: 	spiders	 V: 	default	
+[00:00:09]: 		K: 	spiders_setting	 V: 	default	
+[00:00:09]: 		K: 	spring	 V: 	default	
+[00:00:09]: 		K: 	squid	 V: 	default	
+[00:00:09]: 		K: 	start_location	 V: 	default	
+[00:00:09]: 		K: 	summer	 V: 	default	
+[00:00:09]: 		K: 	summerhounds	 V: 	default	
+[00:00:09]: 		K: 	tallbirds	 V: 	default	
+[00:00:09]: 		K: 	task_set	 V: 	default	
+[00:00:09]: 		K: 	tentacles	 V: 	default	
+[00:00:09]: 		K: 	terrariumchest	 V: 	default	
+[00:00:09]: 		K: 	touchstone	 V: 	default	
+[00:00:09]: 		K: 	trees	 V: 	default	
+[00:00:09]: 		K: 	tumbleweed	 V: 	default	
+[00:00:09]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:09]: 		K: 	walrus	 V: 	default	
+[00:00:09]: 		K: 	walrus_setting	 V: 	default	
+[00:00:09]: 		K: 	wasps	 V: 	default	
+[00:00:09]: 		K: 	weather	 V: 	default	
+[00:00:09]: 		K: 	wildfires	 V: 	default	
+[00:00:09]: 		K: 	winter	 V: 	default	
+[00:00:09]: 		K: 	winterhounds	 V: 	default	
+[00:00:09]: 		K: 	winters_feast	 V: 	enabled	
+[00:00:09]: 		K: 	wobsters	 V: 	default	
+[00:00:09]: 		K: 	world_size	 V: 	huge	
+[00:00:09]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:09]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:09]: 	K: 	random_set_pieces	 V: 	table: 00000000110D97C0	
+[00:00:09]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:09]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:09]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:09]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:09]: 		K: 	5	 V: 	Chessy_1	
+[00:00:09]: 		K: 	6	 V: 	Chessy_2	
+[00:00:09]: 		K: 	7	 V: 	Chessy_3	
+[00:00:09]: 		K: 	8	 V: 	Chessy_4	
+[00:00:09]: 		K: 	9	 V: 	Chessy_5	
+[00:00:09]: 		K: 	10	 V: 	Chessy_6	
+[00:00:09]: 		K: 	11	 V: 	Maxwell1	
+[00:00:09]: 		K: 	12	 V: 	Maxwell2	
+[00:00:09]: 		K: 	13	 V: 	Maxwell3	
+[00:00:09]: 		K: 	14	 V: 	Maxwell4	
+[00:00:09]: 		K: 	15	 V: 	Maxwell6	
+[00:00:09]: 		K: 	16	 V: 	Maxwell7	
+[00:00:09]: 		K: 	17	 V: 	Warzone_1	
+[00:00:09]: 		K: 	18	 V: 	Warzone_2	
+[00:00:09]: 		K: 	19	 V: 	Warzone_3	
+[00:00:09]: 	K: 	required_prefabs	 V: 	table: 00000000110D94A0	
+[00:00:09]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:09]: 	K: 	required_setpieces	 V: 	table: 00000000110D9630	
+[00:00:09]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:09]: 		K: 	2	 V: 	Maxwell5	
+[00:00:09]: 	K: 	settings_desc	 V: 	A experiência padrão de Don't Starve	
+[00:00:09]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:09]: 	K: 	settings_name	 V: 	Floresta Padrão	
+[00:00:09]: 	K: 	substitutes	 V: 	table: 00000000110D9B30	
+[00:00:09]: 	K: 	version	 V: 	4	
+[00:00:09]: 	K: 	worldgen_desc	 V: 	A experiência padrão de Don't Starve	
+[00:00:09]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:09]: 	K: 	worldgen_name	 V: 	Floresta Padrão	
+[00:00:09]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:09]: Overwriting savedata with level data file.	
+[00:00:09]: Not applying world gen overrides.	
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.07 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~cEventLeaderboardProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: FilesExistAsyncThread aborted.
+[00:00:09]: ... FilesExistAsyncThread complete
+[00:00:09]: lua_close took 0.09 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: AppVersion::GetArchitecture() x64
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:10]:   taskgrouplist:	default	Together	
+[00:00:10]:   taskgrouplist:	classic	Classic	
+[00:00:10]:   taskgrouplist:	cave_default	Underground	
+[00:00:10]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:10]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:10]: Running main.lua
+	
+[00:00:10]: loaded modindex	
+[00:00:10]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:10]: SUCCESS: Loaded modoverrides.lua	
+[00:00:10]: modoverrides.lua enabling workshop-1111658995	
+[00:00:10]: modoverrides.lua enabling workshop-1894295075	
+[00:00:10]: modoverrides.lua enabling workshop-1185229307	
+[00:00:10]: modoverrides.lua enabling workshop-378160973	
+[00:00:10]: modoverrides.lua enabling workshop-2528541304	
+[00:00:10]: modoverrides.lua enabling workshop-466732225	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-1894295075	
+[00:00:10]: Loading mod: workshop-1894295075 (Boss Announcement) Version:1.3.2 (Old API! (mod: nil game: 10) )	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:10]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-2528541304	
+[00:00:10]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.7-a	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:10]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:10]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:10]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:57	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1894295075	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:10]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:10]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:10]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:10]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:10]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:10]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:10]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:10]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:10]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-2528541304	
+[00:00:10]: Overriding mod workshop-2528541304's option amount_given2 with value 4	
+[00:00:10]: Overriding mod workshop-2528541304's option planting_floor with value true	
+[00:00:10]: Overriding mod workshop-2528541304's option amount_given with value 4	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:10]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:10]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:10]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:10]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modworldgenmain.lua	
+[00:00:10]: modimport: ../mods/workshop-2528541304/tile_adder.lua	
+[00:00:10]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modmain.lua	
+[00:00:10]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfsstrings	
+[00:00:10]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfspostinits	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:10]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-1894295075 (Boss Announcement)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-1894295075 (Boss Announcement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-1894295075 (Boss Announcement)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:11]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:11]: LOADING LUA SUCCESS
+[00:00:11]: Registering Server mod namespace "workshop-378160973"
+[00:00:11]: Registering Server mod namespace "workshop-1111658995"
+[00:00:11]: Registering Client mod namespace "workshop-1111658995"
+[00:00:11]: PlayerDeaths could not load morgue	
+[00:00:11]: PlayerHistory could not load player_history	
+[00:00:11]: ServerPreferences could not load server_preferences	
+[00:00:11]: bloom_enabled	true	
+[00:00:11]: OnFilesLoaded()	
+[00:00:11]: OnUpdatePurchaseStateComplete	
+[00:00:11]: Loading world: session/6551680EE945D5AC/0000000338	
+[00:00:11]: Save file is at version 5.1	
+[00:00:11]: Klump load on boot started.	
+[00:00:11]: Klump files loaded: 	0	
+[00:00:11]: 	Unload FE	
+[00:00:11]: 	Unload FE done	
+[00:00:13]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:13]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:13]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:13]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:13]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	Registering prefabs	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_terraformer	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer_placer	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_webcreep	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	    turf_webcreep	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_ground_webcreep	
+[00:00:13]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:13]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-1894295075 (Boss Announcement)	Registering prefabs	
+[00:00:13]: Mod: workshop-1894295075 (Boss Announcement)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:13]: 	LOAD BE	
+[00:00:23]: 	LOAD BE: done	
+[00:00:23]: Begin Session: 6551680EE945D5AC
+[00:00:23]: saving to server_temp/server_save	
+[00:00:23]: Adding extra World Event: winters_feast	
+[00:00:23]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-2528541304/images/minimapimages/kyno_terraformer.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:23]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:23]: Loading 18 new character(s)	
+[00:00:24]: Total 18 character(s) loaded	
+[00:00:25]: Loading Nav Grid	
+[00:00:25]: World generated on build 506376 with save version: 5.1, using seed: 1651935727	
+[00:00:25]: setting 	summerlength	15	
+[00:00:25]: setting 	cavemoonphase	full	
+[00:00:25]: setting 	iscavefullmoon	false	
+[00:00:25]: setting 	isnightmaredawn	false	
+[00:00:25]: setting 	elapseddaysinseason	5	
+[00:00:25]: setting 	isfullmoon	false	
+[00:00:25]: setting 	moisture	6898.9584960938	
+[00:00:25]: setting 	cavephase	day	
+[00:00:25]: setting 	iscavewaxingmoon	false	
+[00:00:25]: setting 	isnightmarewild	false	
+[00:00:25]: setting 	nightmaretimeinphase	0	
+[00:00:25]: setting 	precipitationrate	0.23938070237637	
+[00:00:25]: setting 	iswet	false	
+[00:00:25]: setting 	isnewmoon	false	
+[00:00:25]: setting 	precipitation	snow	
+[00:00:25]: setting 	israining	false	
+[00:00:25]: setting 	isnightmarewarn	false	
+[00:00:25]: setting 	iswinter	true	
+[00:00:25]: setting 	season	winter	
+[00:00:25]: setting 	remainingdaysinseason	10	
+[00:00:25]: setting 	winterlength	15	
+[00:00:25]: setting 	iscaveday	true	
+[00:00:25]: setting 	moistureceil	10162.232421875	
+[00:00:25]: setting 	isday	true	
+[00:00:25]: setting 	springlength	20	
+[00:00:25]: setting 	wetness	0	
+[00:00:25]: setting 	iscavedusk	false	
+[00:00:25]: setting 	isalterawake	true	
+[00:00:25]: setting 	isnightmarecalm	false	
+[00:00:25]: setting 	isnight	false	
+[00:00:25]: setting 	isdusk	false	
+[00:00:25]: setting 	isspring	false	
+[00:00:25]: setting 	isautumn	false	
+[00:00:25]: setting 	issnowing	true	
+[00:00:25]: setting 	iswaxingmoon	false	
+[00:00:25]: setting 	phase	day	
+[00:00:25]: setting 	snowlevel	1	
+[00:00:25]: setting 	issnowcovered	true	
+[00:00:25]: setting 	autumnlength	20	
+[00:00:25]: setting 	pop	1	
+[00:00:25]: setting 	nightmaretime	0	
+[00:00:25]: setting 	seasonprogress	0.33333333333333	
+[00:00:25]: setting 	moonphase	full	
+[00:00:25]: setting 	nightmarephase	none	
+[00:00:25]: setting 	cycles	305	
+[00:00:25]: setting 	timeinphase	0.0072194417317708	
+[00:00:25]: setting 	iscavenight	false	
+[00:00:25]: setting 	iscavenewmoon	false	
+[00:00:25]: setting 	issummer	false	
+[00:00:25]: setting 	temperature	-19.985387841269	
+[00:00:25]: setting 	time	0.0022560755411784	
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:32]: Could not find anim build FROMNUM
+[00:00:36]: Reconstructing topology	
+[00:00:36]: 	...Sorting points	
+[00:00:36]: 	...Sorting edges	
+[00:00:36]: 	...Connecting nodes	
+[00:00:36]: 	...Validating connections	
+[00:00:36]: 	...Housekeeping	
+[00:00:36]: 	...Done!	
+[00:00:36]: Hound attack in 5(2861.7849289551) days.	
+[00:00:36]: 1 uploads added to server. From server_temp
+[00:00:36]: About to start a shard with these settings:
+[00:00:36]:   ShardName: [SHDMASTER]
+[00:00:36]:   ShardID: 1
+[00:00:36]:   ShardRole: MASTER
+[00:00:36]:   MasterHost: (null)
+[00:00:36]:   MasterBind: 127.0.0.1
+[00:00:36]:   MasterPort: 10888
+[00:00:36]: [Shard] Starting master server
+[00:00:36]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:36]: [Shard] Shard server started on port: 10888
+[00:00:36]: Telling Client our new session identifier: 6551680EE945D5AC
+[00:00:36]: Check for write access: TRUE
+[00:00:36]: Check for read access: TRUE
+[00:00:36]: Available disk space for save files: 411963 MB
+[00:00:36]: ModIndex: Load sequence finished successfully.	
+[00:00:42]: Reset() returning
+[00:00:42]: Validating portal[9] <-> 3758438912[9] (inactive)	
+[00:00:43]: Validating portal[3] <-> 3758438912[3] (inactive)	
+[00:00:43]: Validating portal[8] <-> 3758438912[8] (inactive)	
+[00:00:43]: Validating portal[1] <-> 3758438912[1] (inactive)	
+[00:00:43]: Validating portal[5] <-> 3758438912[5] (inactive)	
+[00:00:43]: Validating portal[2] <-> 3758438912[2] (inactive)	
+[00:00:43]: Validating portal[4] <-> 3758438912[4] (inactive)	
+[00:00:43]: Validating portal[6] <-> 3758438912[6] (inactive)	
+[00:00:43]: Retrofitting for Return Of Them: Turn of Tides - completed hermit house 1, 2, 3 friendship tasks.	
+[00:00:43]: Validating portal[7] <-> 3758438912[7] (inactive)	
+[00:00:43]: Hound attack in 5(2861.7849289551) days.	
+[00:00:43]: Server registered via geo DNS in US
+[00:00:43]: Sim paused
+[00:00:43]: [Shard] Secondary shar Caves(3758438912) connected: [LAN] 127.0.0.1
+[00:00:44]: [Shard] Secondary Caves(3758438912) ready!
+[00:00:44]: World 3758438912 is now connected	
+[00:00:44]: Validating portal[9] <-> 3758438912[9] (active)	
+[00:00:44]: Validating portal[3] <-> 3758438912[3] (active)	
+[00:00:44]: Validating portal[8] <-> 3758438912[8] (active)	
+[00:00:44]: Validating portal[1] <-> 3758438912[1] (active)	
+[00:00:44]: Validating portal[5] <-> 3758438912[5] (active)	
+[00:00:44]: Validating portal[2] <-> 3758438912[2] (active)	
+[00:00:44]: Validating portal[4] <-> 3758438912[4] (active)	
+[00:00:44]: Validating portal[6] <-> 3758438912[6] (disabled)	
+[00:00:44]: Validating portal[7] <-> 3758438912[7] (active)	
+[00:01:05]: [P2P] Session request for '76561198430621761'
+[00:01:09]: [P2P] Create session: 249.170.255.233|1 '76561198430621761'
+[00:01:09]: [P2P] Received from 249.170.255.233|1 '76561198430621761'
+[00:01:09]: [P2P] Sent to 249.170.255.233|1 '76561198430621761'
+[00:01:09]: New incoming connection 249.170.255.233|1 <2526622731186792521>
+[00:01:09]: Client connected from 249.170.255.233|1 <2526622731186792521>
+[00:01:09]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^MCrhuE/CjMLvWDUX6FxT+iDltUc6xt8PPBYje/bSihs= for <2526622731186792521>
+[00:01:10]: Client authenticated: (KU_jntKIE-z) Petrique
+[00:01:10]: [Steam] Authenticated host '76561198430621761'
+[00:01:12]: There is no active event to validate against.
+[00:01:12]: [Shard] Read save location file for (KU_jntKIE-z)
+[00:01:31]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000335
+[00:01:31]: Spawning player at: [Load] (340.64, 0.00, 311.12)	
+[00:01:31]: Sim unpaused
+[00:04:30]: Server Paused	
+[00:05:45]: Server Unpaused	
+[00:06:07]: [P2P] Session request for '76561198142791875'
+[00:06:10]: [P2P] Create session: 249.170.255.234|1 '76561198142791875'
+[00:06:10]: [P2P] Received from 249.170.255.234|1 '76561198142791875'
+[00:06:10]: [P2P] Sent to 249.170.255.234|1 '76561198142791875'
+[00:06:10]: New incoming connection 249.170.255.234|1 <138897081606551525>
+[00:06:10]: Client connected from 249.170.255.234|1 <138897081606551525>
+[00:06:10]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^bBgX0i7a1MQfYAh0GOuv2KhQfvaPyr2QBvxeEuoION0= for <138897081606551525>
+[00:06:11]: Client authenticated: (KU_HuDeJaXv) Triers
+[00:06:11]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[00:06:12]: [Steam] Authenticated client '76561198142791875'
+[00:06:13]: There is no active event to validate against.
+[00:06:13]: [Shard] Read save location file for (KU_HuDeJaXv)
+[00:06:29]: Resuming user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000338
+[00:06:29]: Spawning player at: [Load] (-126.97, 0.00, 40.71)	
+[00:07:05]: Could not find anim [dismount] in bank [wilson]
+[00:08:53]: Server Paused	
+[00:08:53]: Server Unpaused	
+[00:10:46]: Hound attack in 4(2382.9849039837) days.	
+[00:10:47]: Available disk space for save files: 411961 MB
+[00:10:47]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000339
+[00:10:47]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000339
+[00:10:47]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:10:48]: Serializing world: session/6551680EE945D5AC/0000000339
+[00:18:47]: Hound attack in 3(1903.0182122849) days.	
+[00:18:48]: Available disk space for save files: 411956 MB
+[00:18:48]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000340
+[00:18:48]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000340
+[00:18:48]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:18:49]: Serializing world: session/6551680EE945D5AC/0000000340
+[00:23:49]: Could not find anim [weremoose_transform] in bank [weremoose]
+[00:25:05]: Could not find anim [dismount] in bank [wilson]
+[00:26:48]: Hound attack in 2(1423.0181872509) days.	
+[00:26:48]: Available disk space for save files: 411953 MB
+[00:26:49]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000341
+[00:26:49]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000341
+[00:26:49]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:26:49]: Serializing world: session/6551680EE945D5AC/0000000341
+[00:30:08]: [200] Account Communication Success (6)
+[00:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[00:31:50]: Could not find anim [weremoose_transform] in bank [weremoose]
+[00:33:00]: KU_jntKIE-z	running text command:	fistshake	true	
+[00:33:03]: KU_jntKIE-z	running text command:	dance	true	
+[00:33:07]: Could not find anim [charge_lag_pre] in bank [wilson]
+[00:33:07]: Could not find anim [charge_pre] in bank [wilson]
+[00:33:10]: Could not find anim [charge_bash] in bank [wilson]
+[00:34:41]: Could not find anim [death_wanda] in bank [ghost]
+[00:34:41]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000342
+[00:34:48]: Hound attack in 1(943.05149555203) days.	
+[00:34:49]: Available disk space for save files: 411946 MB
+[00:34:50]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000342
+[00:34:50]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000342
+[00:34:50]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:34:50]: Serializing world: session/6551680EE945D5AC/0000000342
+[00:34:52]: Could not find anim [atk_petrify] in bank [FROMNUM]
+[00:34:53]: Could not find anim [atk_petrify] in bank [FROMNUM]
+[00:34:57]: Could not find anim [idle_loop] in bank [ghost]
+[00:35:00]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000343
+[00:39:51]: Could not find anim [weremoose_transform] in bank [weremoose]
+[00:39:55]: KU_jntKIE-z	running text command:	dance	true	
+[00:42:49]: Hound attack in 0(463.05147051807) days.	
+[00:42:50]: Available disk space for save files: 411941 MB
+[00:42:51]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000343
+[00:42:51]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000343
+[00:42:51]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:42:51]: Serializing world: session/6551680EE945D5AC/0000000343
+[00:44:47]: Activating portal[2] to 3758438912	
+[00:44:48]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000344
+[00:44:48]: [Shard] Migration request: (KU_HuDeJaXv) to Caves(3758438912)
+[00:44:48]: [Shard] Begin migration #1 for (KU_HuDeJaXv)
+[00:44:48]: [Shard] #1 [SHDMASTER](1) -> Caves(3758438912)
+[00:44:48]: [Shard] #1 <- session/6551680EE945D5AC/A7I7GDK4SI3P/0000000344
+[00:44:48]: [Shard] Writing save location file for (KU_HuDeJaXv)
+[00:44:48]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:44:48]: [Steam] SendUserDisconnect for '76561198142791875'
+[00:44:48]: [Shard] (KU_HuDeJaXv) disconnected from [SHDMASTER](1)
+[00:44:57]: [Shard] Completed migration #1 for player (KU_HuDeJaXv)
+[00:46:27]: [Shard] Begin migration #2 for (KU_HuDeJaXv)
+[00:46:27]: [Shard] #2 Caves(3758438912) -> [SHDMASTER](1)
+[00:46:27]: [Shard] #2 -> session/6551680EE945D5AC/A7I7GDK4SI3P/0000000344
+[00:46:27]: [Shard] Received migration #2 data for (KU_HuDeJaXv)
+[00:46:27]: [Shard] Writing save location file for (KU_HuDeJaXv)
+[00:46:27]: [Shard] (KU_HuDeJaXv) disconnected from Caves(3758438912)
+[00:46:29]: [P2P] Received from 249.170.255.234|1 '76561198142791875'
+[00:46:29]: [P2P] Sent to 249.170.255.234|1 '76561198142791875'
+[00:46:30]: New incoming connection 249.170.255.234|1 <8265858704142464870>
+[00:46:30]: Client connected from 249.170.255.234|1 <8265858704142464870>
+[00:46:30]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^8XAqDTfYMf+qGSeW35Jn/UMcVujkjJOuYhbXbTvOivU= for <8265858704142464870>
+[00:46:31]: Client authenticated: (KU_HuDeJaXv) Triers
+[00:46:31]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[00:46:31]: [Steam] Authenticated client '76561198142791875'
+[00:46:31]: [Shard] Completed incoming migration #2 for (KU_HuDeJaXv)
+[00:46:31]: [Shard] Completed migration #2 for player (KU_HuDeJaXv)
+[00:46:38]: Resuming user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000344
+[00:46:38]: Player will spawn close to portal #2	
+[00:46:38]: Spawning player at: [Load] (122.71, 0.00, 57.06)	
+[00:47:51]: Could not find anim [transform_weregoose_pre] in bank [FROMNUM]
+[00:48:07]: KU_jntKIE-z	running text command:	dance	true	
+[00:48:25]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[00:50:26]: Activating portal[7] to 3758438912	
+[00:50:26]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000344
+[00:50:26]: [Shard] Migration request: (KU_jntKIE-z) to Caves(3758438912)
+[00:50:26]: [Shard] Begin migration #3 for (KU_jntKIE-z)
+[00:50:26]: [Shard] #3 [SHDMASTER](1) -> Caves(3758438912)
+[00:50:26]: [Shard] #3 <- session/6551680EE945D5AC/A7LN3NA4HRTT/0000000344
+[00:50:26]: [Shard] Writing save location file for (KU_jntKIE-z)
+[00:50:26]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:50:26]: [Steam] SendUserDisconnect for '76561198430621761'
+[00:50:26]: [Shard] (KU_jntKIE-z) disconnected from [SHDMASTER](1)
+[00:50:36]: [Shard] Completed migration #3 for player (KU_jntKIE-z)
+[00:50:50]: Hound attack in 11(5473.4649809187) days.	
+[00:50:51]: Available disk space for save files: 411939 MB
+[00:50:52]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000344
+[00:50:52]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:50:52]: Serializing world: session/6551680EE945D5AC/0000000344
+[00:51:17]: [Shard] Begin migration #4 for (KU_jntKIE-z)
+[00:51:17]: [Shard] #4 Caves(3758438912) -> [SHDMASTER](1)
+[00:51:17]: [Shard] #4 -> session/6551680EE945D5AC/A7LN3NA4HRTT/0000000345
+[00:51:17]: [Shard] Received migration #4 data for (KU_jntKIE-z)
+[00:51:17]: [Shard] Writing save location file for (KU_jntKIE-z)
+[00:51:17]: [Shard] (KU_jntKIE-z) disconnected from Caves(3758438912)
+[00:51:21]: [P2P] Received from 249.170.255.233|1 '76561198430621761'
+[00:51:21]: [P2P] Sent to 249.170.255.233|1 '76561198430621761'
+[00:51:21]: New incoming connection 249.170.255.233|1 <7345105541543840513>
+[00:51:21]: Client connected from 249.170.255.233|1 <7345105541543840513>
+[00:51:21]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^Z5hKntpMIDYVao+l9PHbUNK4WfmRT1EbZ1ayNt+8Dcg= for <7345105541543840513>
+[00:51:22]: Client authenticated: (KU_jntKIE-z) Petrique
+[00:51:22]: [Steam] Authenticated host '76561198430621761'
+[00:51:22]: [Shard] Completed incoming migration #4 for (KU_jntKIE-z)
+[00:51:22]: [Shard] Completed migration #4 for player (KU_jntKIE-z)
+[00:51:30]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000345
+[00:51:30]: Player will spawn close to portal #7	
+[00:51:30]: Spawning player at: [Load] (33.87, 0.00, -238.99)	
+[00:51:50]: Server Paused	
+[00:52:05]: Server Unpaused	
+[00:56:10]: [P2P] Session request for '76561198986608383'
+[00:56:13]: [P2P] Create session: 249.170.255.235|1 '76561198986608383'
+[00:56:13]: [P2P] Received from 249.170.255.235|1 '76561198986608383'
+[00:56:13]: [P2P] Sent to 249.170.255.235|1 '76561198986608383'
+[00:56:14]: New incoming connection 249.170.255.235|1 <5242767479200687532>
+[00:56:14]: Client connected from 249.170.255.235|1 <5242767479200687532>
+[00:56:14]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^1kDH2S7NAbJ4XQRIkNxF4ehFaG8eAVW7ihsyG5CEGZo= for <5242767479200687532>
+[00:56:14]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[00:56:14]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[00:56:15]: [Steam] Authenticated client '76561198986608383'
+[00:56:16]: There is no active event to validate against.
+[00:56:16]: [Shard] Read save location file for (KU_XmwUs4ho)
+[00:56:33]: Resuming user: session/6551680EE945D5AC/A7K71QFDGINI/0000000315
+[00:56:33]: Spawning player at: [Load] (348.54, 0.00, 322.94)	
+[00:57:07]: Could not find anim [were_atk_petrify] in bank [FROMNUM]
+[00:57:08]: Could not find anim [were_atk_petrify] in bank [FROMNUM]
+[00:57:08]: Could not find anim [were_atk_petrify] in bank [FROMNUM]
+[00:57:11]: Could not find anim [atk_petrify] in bank [FROMNUM]
+[00:59:07]: Hound attack in 10(4993.4649558848) days.	
+[00:59:07]: Available disk space for save files: 411928 MB
+[00:59:08]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000345
+[00:59:08]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000345
+[00:59:08]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000345
+[00:59:08]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[00:59:08]: Serializing world: session/6551680EE945D5AC/0000000345
+[01:00:08]: [200] Account Communication Success (6)
+[01:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[01:04:38]: Could not find anim [transform_weregoose_pre] in bank [weregoose]
+[01:05:19]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[01:07:08]: Hound attack in 9(4513.4982641859) days.	
+[01:07:09]: Available disk space for save files: 411932 MB
+[01:07:09]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000346
+[01:07:09]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000346
+[01:07:09]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000346
+[01:07:09]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:07:10]: Serializing world: session/6551680EE945D5AC/0000000346
+[01:15:09]: Hound attack in 8(4033.4649058169) days.	
+[01:15:10]: Available disk space for save files: 411928 MB
+[01:15:10]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000347
+[01:15:10]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000347
+[01:15:10]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000347
+[01:15:10]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:15:11]: Serializing world: session/6551680EE945D5AC/0000000347
+[01:20:35]: Activating portal[7] to 3758438912	
+[01:20:35]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000348
+[01:20:35]: [Shard] Migration request: (KU_jntKIE-z) to Caves(3758438912)
+[01:20:35]: [Shard] Begin migration #5 for (KU_jntKIE-z)
+[01:20:35]: [Shard] #5 [SHDMASTER](1) -> Caves(3758438912)
+[01:20:35]: [Shard] #5 <- session/6551680EE945D5AC/A7LN3NA4HRTT/0000000348
+[01:20:35]: [Shard] Writing save location file for (KU_jntKIE-z)
+[01:20:35]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:20:35]: [Steam] SendUserDisconnect for '76561198430621761'
+[01:20:35]: [Shard] (KU_jntKIE-z) disconnected from [SHDMASTER](1)
+[01:20:45]: [Shard] Completed migration #5 for player (KU_jntKIE-z)
+[01:21:31]: [Shard] Begin migration #6 for (KU_jntKIE-z)
+[01:21:31]: [Shard] #6 Caves(3758438912) -> [SHDMASTER](1)
+[01:21:31]: [Shard] #6 -> session/6551680EE945D5AC/A7LN3NA4HRTT/0000000348
+[01:21:31]: [Shard] Received migration #6 data for (KU_jntKIE-z)
+[01:21:31]: [Shard] Writing save location file for (KU_jntKIE-z)
+[01:21:31]: [Shard] (KU_jntKIE-z) disconnected from Caves(3758438912)
+[01:21:34]: [P2P] Received from 249.170.255.233|1 '76561198430621761'
+[01:21:34]: [P2P] Sent to 249.170.255.233|1 '76561198430621761'
+[01:21:35]: New incoming connection 249.170.255.233|1 <3398885961547919747>
+[01:21:35]: Client connected from 249.170.255.233|1 <3398885961547919747>
+[01:21:35]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^Oiou9diJWpjdK8KVa9e4HwF8PEwR+HpGxbjjBDMCvDk= for <3398885961547919747>
+[01:21:35]: Client authenticated: (KU_jntKIE-z) Petrique
+[01:21:36]: [Steam] Authenticated host '76561198430621761'
+[01:21:36]: [Shard] Completed incoming migration #6 for (KU_jntKIE-z)
+[01:21:36]: [Shard] Completed migration #6 for player (KU_jntKIE-z)
+[01:21:44]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000348
+[01:21:44]: Player will spawn close to portal #7	
+[01:21:44]: Spawning player at: [Load] (35.02, 0.00, -236.83)	
+[01:21:46]: Could not find anim [weremoose_transform] in bank [weremoose]
+[01:23:10]: Hound attack in 7(3553.498214118) days.	
+[01:23:11]: Available disk space for save files: 411921 MB
+[01:23:11]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000348
+[01:23:11]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000348
+[01:23:11]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000348
+[01:23:11]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:23:12]: Serializing world: session/6551680EE945D5AC/0000000348
+[01:28:43]: Could not find anim [weremoose_transform] in bank [weremoose]
+[01:29:11]: KU_jntKIE-z	running text command:	dance	true	
+[01:30:08]: [200] Account Communication Success (6)
+[01:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[01:31:11]: Hound attack in 6(3073.498189084) days.	
+[01:31:12]: Available disk space for save files: 411919 MB
+[01:31:12]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000349
+[01:31:12]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000349
+[01:31:12]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000349
+[01:31:13]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:31:13]: Serializing world: session/6551680EE945D5AC/0000000349
+[01:37:17]: KU_jntKIE-z	running text command:	dance	true	
+[01:37:28]: KU_jntKIE-z	running text command:	dance	true	
+[01:39:12]: Hound attack in 5(2593.5314973852) days.	
+[01:39:13]: Available disk space for save files: 411916 MB
+[01:39:14]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000350
+[01:39:14]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000350
+[01:39:14]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000350
+[01:39:14]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:39:14]: Serializing world: session/6551680EE945D5AC/0000000350
+[01:45:14]: Could not find anim [transform_weregoose_pre] in bank [weregoose]
+[01:45:15]: KU_jntKIE-z	running text command:	swoon	true	
+[01:45:17]: KU_jntKIE-z	running text command:	dance	true	
+[01:47:08]: KU_jntKIE-z	running text command:	dance	true	
+[01:47:13]: Hound attack in 4(2113.5314723512) days.	
+[01:47:14]: Available disk space for save files: 411912 MB
+[01:47:14]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000351
+[01:47:14]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000351
+[01:47:14]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000351
+[01:47:14]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:47:15]: Serializing world: session/6551680EE945D5AC/0000000351
+[01:47:19]: Could not find anim [revert_weregoose_pre] in bank [wilson]
+[01:47:57]: Deleting user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000352
+[01:47:57]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000352
+[01:55:14]: Hound attack in 3(1633.5647806523) days.	
+[01:55:15]: Available disk space for save files: 411909 MB
+[01:55:15]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000352
+[01:55:15]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000352
+[01:55:15]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[01:55:16]: Serializing world: session/6551680EE945D5AC/0000000352
+[01:57:32]: Spawn request: winona from Petrique
+[01:57:32]: Skin request: (winona_factory) (body_winona_rosep) (hand_wanda_steampunk) () ()
+[01:57:32]: Spawning player at: [Fixed] (-132.00, 0.00, 36.00)	
+[01:57:32]: Enabling Spawn Protection for 	100029 - world	
+[01:57:32]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000353
+[02:00:08]: [200] Account Communication Success (6)
+[02:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[02:03:15]: Hound attack in 2(1153.5647556184) days.	
+[02:03:16]: Available disk space for save files: 411903 MB
+[02:03:16]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000353
+[02:03:16]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000353
+[02:03:16]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000353
+[02:03:16]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:03:17]: Serializing world: session/6551680EE945D5AC/0000000353
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:04]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:05]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:06]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:07]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:04:08]: Stale Component Reference: GUID 135008, scripts/entityscript.lua:1167
+[02:06:24]: Could not find anim [death_wanda] in bank [ghost]
+[02:06:24]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000354
+[02:10:00]: Could not find anim [idle_loop] in bank [ghost]
+[02:10:02]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000354
+[02:11:16]: Hound attack in 1(673.59806391949) days.	
+[02:11:17]: Available disk space for save files: 411901 MB
+[02:11:17]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000354
+[02:11:17]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000354
+[02:11:17]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000354
+[02:11:17]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:11:18]: Serializing world: session/6551680EE945D5AC/0000000354
+[02:18:08]: [Steam] SendUserDisconnect for '76561198430621761'
+[02:18:08]: Connection lost to 249.170.255.233|1 <3398885961547919747>
+[02:18:08]: [Shard] (KU_jntKIE-z) disconnected from [SHDMASTER](1)
+[02:18:08]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000355
+[02:19:17]: Hound attack in 0(193.63137222061) days.	
+[02:19:18]: Available disk space for save files: 411886 MB
+[02:19:18]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000355
+[02:19:18]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000355
+[02:19:18]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:19:19]: Serializing world: session/6551680EE945D5AC/0000000355
+[02:20:01]: [P2P] Connection failed for '76561198430621761'
+[02:21:11]: [P2P] Received from 249.170.255.233|1 '76561198430621761'
+[02:21:11]: [P2P] Sent to 249.170.255.233|1 '76561198430621761'
+[02:21:11]: New incoming connection 249.170.255.233|1 <974529748553833346>
+[02:21:11]: Client connected from 249.170.255.233|1 <974529748553833346>
+[02:21:11]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^LBYiM1lak3r0EMQKBo+F+HWS995gmX5gkNlNb0aBFoM= for <974529748553833346>
+[02:21:12]: Client authenticated: (KU_jntKIE-z) Petrique
+[02:21:12]: [Steam] Authenticated host '76561198430621761'
+[02:21:13]: There is no active event to validate against.
+[02:21:13]: [Shard] Read save location file for (KU_jntKIE-z)
+[02:21:30]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000355
+[02:21:30]: Spawning player at: [Load] (421.53, 0.00, 375.41)	
+[02:22:01]: [Steam] SendUserDisconnect for '76561198430621761'
+[02:22:01]: Connection lost to 249.170.255.233|1 <974529748553833346>
+[02:22:01]: [Shard] (KU_jntKIE-z) disconnected from [SHDMASTER](1)
+[02:22:02]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000356
+[02:22:59]: [P2P] Received from 249.170.255.233|1 '76561198430621761'
+[02:22:59]: [P2P] Sent to 249.170.255.233|1 '76561198430621761'
+[02:22:59]: New incoming connection 249.170.255.233|1 <7485588709760032934>
+[02:22:59]: Client connected from 249.170.255.233|1 <7485588709760032934>
+[02:22:59]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^sk7fjIwWWRv385kDPsTIauXtQ9yMaXmuAk9CZ0eQsIw= for <7485588709760032934>
+[02:23:00]: Client authenticated: (KU_jntKIE-z) Petrique
+[02:23:00]: [Steam] Authenticated host '76561198430621761'
+[02:23:02]: There is no active event to validate against.
+[02:23:02]: [Shard] Read save location file for (KU_jntKIE-z)
+[02:23:19]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000356
+[02:23:19]: Spawning player at: [Load] (421.99, 0.00, 374.51)	
+[02:23:39]: KU_jntKIE-z	running text command:	wave	true	
+[02:23:41]: KU_jntKIE-z	running text command:	joy	true	
+[02:23:44]: KU_jntKIE-z	running text command:	joy	true	
+[02:23:46]: KU_jntKIE-z	running text command:	joy	true	
+[02:23:49]: KU_jntKIE-z	running text command:	joy	true	
+[02:24:42]: Server Paused	
+[02:24:43]: Server Unpaused	
+[02:27:19]: Hound attack in 13(6664.0470738966) days.	
+[02:27:20]: Available disk space for save files: 411866 MB
+[02:27:20]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000356
+[02:27:20]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000356
+[02:27:20]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000356
+[02:27:20]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:27:21]: Serializing world: session/6551680EE945D5AC/0000000356
+[02:28:49]: Stale Component Reference: GUID 177243, scripts/entityscript.lua:1167
+[02:30:08]: [200] Account Communication Success (6)
+[02:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[02:35:20]: Hound attack in 12(6184.0803821977) days.	
+[02:35:21]: Available disk space for save files: 411860 MB
+[02:35:21]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000357
+[02:35:21]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000357
+[02:35:21]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000357
+[02:35:21]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:35:21]: Serializing world: session/6551680EE945D5AC/0000000357
+[02:36:11]: FOUND PLAYER	wanda	
+[02:36:11]: FOUND PLAYER	wolfgang	
+[02:36:11]: FOUND PLAYER	winona	
+[02:43:20]: Hound attack in 11(5704.1136904989) days.	
+[02:43:21]: Available disk space for save files: 411855 MB
+[02:43:22]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000358
+[02:43:22]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000358
+[02:43:22]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000358
+[02:43:22]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:43:22]: Serializing world: session/6551680EE945D5AC/0000000358
+[02:46:17]: KU_jntKIE-z	running text command:	dance	true	
+[02:51:21]: Hound attack in 10(5224.1469988) days.	
+[02:51:22]: Available disk space for save files: 411850 MB
+[02:51:23]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000359
+[02:51:23]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000359
+[02:51:23]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000359
+[02:51:23]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:51:23]: Serializing world: session/6551680EE945D5AC/0000000359
+[02:51:35]: KU_jntKIE-z	running text command:	joy	true	
+[02:53:59]: KU_jntKIE-z	running text command:	sit	true	
+[02:54:06]: KU_jntKIE-z	running text command:	sit	true	
+[02:59:22]: Hound attack in 9(4744.146973766) days.	
+[02:59:23]: Available disk space for save files: 411848 MB
+[02:59:24]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000360
+[02:59:24]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000360
+[02:59:24]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000360
+[02:59:24]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[02:59:24]: Serializing world: session/6551680EE945D5AC/0000000360
+[03:00:08]: [200] Account Communication Success (6)
+[03:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[03:07:23]: Hound attack in 8(4264.1802820672) days.	
+[03:07:24]: Available disk space for save files: 411840 MB
+[03:07:25]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000361
+[03:07:25]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000361
+[03:07:25]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000361
+[03:07:25]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:07:25]: Serializing world: session/6551680EE945D5AC/0000000361
+[03:10:03]: FOUND PLAYER	wanda	
+[03:10:03]: FOUND PLAYER	wolfgang	
+[03:10:03]: FOUND PLAYER	winona	
+[03:10:08]: FOUND PLAYER	wanda	
+[03:10:08]: FOUND PLAYER	wolfgang	
+[03:10:08]: FOUND PLAYER	winona	
+[03:10:14]: FOUND PLAYER	wanda	
+[03:10:14]: FOUND PLAYER	wolfgang	
+[03:10:14]: FOUND PLAYER	winona	
+[03:10:20]: FOUND PLAYER	wanda	
+[03:10:20]: FOUND PLAYER	wolfgang	
+[03:10:20]: FOUND PLAYER	winona	
+[03:12:55]: static:	true	
+[03:12:55]: static:	true	
+[03:14:43]: FOUND PLAYER	wanda	
+[03:14:43]: FOUND PLAYER	wolfgang	
+[03:14:43]: FOUND PLAYER	winona	
+[03:14:49]: FOUND PLAYER	wanda	
+[03:14:49]: FOUND PLAYER	wolfgang	
+[03:14:49]: FOUND PLAYER	winona	
+[03:14:55]: FOUND PLAYER	wanda	
+[03:14:55]: FOUND PLAYER	wolfgang	
+[03:14:55]: FOUND PLAYER	winona	
+[03:15:01]: FOUND PLAYER	wanda	
+[03:15:01]: FOUND PLAYER	wolfgang	
+[03:15:01]: FOUND PLAYER	winona	
+[03:15:24]: Hound attack in 7(3784.2135903683) days.	
+[03:15:25]: Available disk space for save files: 411834 MB
+[03:15:25]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000362
+[03:15:25]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000362
+[03:15:25]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000362
+[03:15:25]: Missing reference:	189226 - bird_mutant_spitter	->	189108	189108 - moonstorm_static	
+[03:15:26]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:15:26]: Serializing world: session/6551680EE945D5AC/0000000362
+[03:17:22]: static:	true	
+[03:17:22]: static:	true	
+[03:18:42]: Stale Component Reference: GUID 169765, scripts/entityscript.lua:1167
+[03:19:10]: FOUND PLAYER	wanda	
+[03:19:10]: FOUND PLAYER	wolfgang	
+[03:19:10]: FOUND PLAYER	winona	
+[03:19:16]: FOUND PLAYER	wanda	
+[03:19:16]: FOUND PLAYER	wolfgang	
+[03:19:16]: FOUND PLAYER	winona	
+[03:19:22]: FOUND PLAYER	wanda	
+[03:19:22]: FOUND PLAYER	wolfgang	
+[03:19:22]: FOUND PLAYER	winona	
+[03:19:27]: FOUND PLAYER	wanda	
+[03:19:27]: FOUND PLAYER	wolfgang	
+[03:19:27]: FOUND PLAYER	winona	
+[03:22:10]: static:	true	
+[03:22:10]: static:	true	
+[03:23:25]: Hound attack in 6(3304.2468986694) days.	
+[03:23:26]: Available disk space for save files: 411827 MB
+[03:23:26]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000363
+[03:23:26]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000363
+[03:23:26]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000363
+[03:23:26]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:23:27]: Serializing world: session/6551680EE945D5AC/0000000363
+[03:30:08]: [200] Account Communication Success (6)
+[03:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[03:31:26]: Hound attack in 5(2824.2468736354) days.	
+[03:31:27]: Available disk space for save files: 411820 MB
+[03:31:27]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000364
+[03:31:27]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000364
+[03:31:27]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000364
+[03:31:27]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:31:28]: Serializing world: session/6551680EE945D5AC/0000000364
+[03:32:54]: KU_jntKIE-z	running text command:	sit	true	
+[03:35:42]: FOUND PLAYER	wanda	
+[03:35:42]: FOUND PLAYER	wolfgang	
+[03:35:42]: FOUND PLAYER	winona	
+[03:35:48]: FOUND PLAYER	wanda	
+[03:35:48]: FOUND PLAYER	wolfgang	
+[03:35:48]: FOUND PLAYER	winona	
+[03:36:04]: FOUND PLAYER	wanda	
+[03:36:04]: FOUND PLAYER	wolfgang	
+[03:36:04]: FOUND PLAYER	winona	
+[03:36:10]: FOUND PLAYER	wanda	
+[03:36:10]: FOUND PLAYER	wolfgang	
+[03:36:10]: FOUND PLAYER	winona	
+[03:38:16]: static:	true	
+[03:38:16]: static:	true	
+[03:39:27]: Hound attack in 4(2344.2801819366) days.	
+[03:39:28]: Available disk space for save files: 411818 MB
+[03:39:28]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000365
+[03:39:28]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000365
+[03:39:28]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000365
+[03:39:28]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:39:28]: Serializing world: session/6551680EE945D5AC/0000000365
+[03:41:08]: FOUND PLAYER	wanda	
+[03:41:08]: FOUND PLAYER	wolfgang	
+[03:41:08]: FOUND PLAYER	winona	
+[03:41:17]: FOUND PLAYER	wanda	
+[03:41:17]: FOUND PLAYER	wolfgang	
+[03:41:17]: FOUND PLAYER	winona	
+[03:41:24]: FOUND PLAYER	wanda	
+[03:41:24]: FOUND PLAYER	wolfgang	
+[03:41:24]: FOUND PLAYER	winona	
+[03:41:32]: FOUND PLAYER	wanda	
+[03:41:32]: FOUND PLAYER	wolfgang	
+[03:41:32]: FOUND PLAYER	winona	
+[03:44:03]: static:	true	
+[03:44:03]: static:	true	
+[03:46:00]: FOUND PLAYER	wanda	
+[03:46:00]: FOUND PLAYER	wolfgang	
+[03:46:00]: FOUND PLAYER	winona	
+[03:46:06]: FOUND PLAYER	wanda	
+[03:46:06]: FOUND PLAYER	wolfgang	
+[03:46:06]: FOUND PLAYER	winona	
+[03:46:11]: FOUND PLAYER	wanda	
+[03:46:11]: FOUND PLAYER	wolfgang	
+[03:46:11]: FOUND PLAYER	winona	
+[03:46:17]: FOUND PLAYER	wanda	
+[03:46:17]: FOUND PLAYER	wolfgang	
+[03:46:17]: FOUND PLAYER	winona	
+[03:47:27]: Hound attack in 3(1864.3134902377) days.	
+[03:47:28]: Available disk space for save files: 411811 MB
+[03:47:29]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000366
+[03:47:29]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000366
+[03:47:29]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000366
+[03:47:29]: Missing reference:	201483 - bird_mutant	->	201127	201127 - moonstorm_static	
+[03:47:29]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:47:29]: Serializing world: session/6551680EE945D5AC/0000000366
+[03:48:58]: static:	true	
+[03:48:58]: static:	true	
+[03:52:49]: FOUND PLAYER	wanda	
+[03:52:49]: FOUND PLAYER	wolfgang	
+[03:52:49]: FOUND PLAYER	winona	
+[03:52:55]: FOUND PLAYER	wanda	
+[03:52:55]: FOUND PLAYER	wolfgang	
+[03:52:55]: FOUND PLAYER	winona	
+[03:53:01]: FOUND PLAYER	wanda	
+[03:53:01]: FOUND PLAYER	wolfgang	
+[03:53:01]: FOUND PLAYER	winona	
+[03:53:06]: FOUND PLAYER	wanda	
+[03:53:06]: FOUND PLAYER	wolfgang	
+[03:53:06]: FOUND PLAYER	winona	
+[03:55:28]: Hound attack in 2(1384.3134652037) days.	
+[03:55:29]: Available disk space for save files: 411802 MB
+[03:55:30]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000367
+[03:55:30]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000367
+[03:55:30]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000367
+[03:55:30]: Missing reference:	204060 - bird_mutant_spitter	->	202856	202856 - moonstorm_static	
+[03:55:30]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[03:55:30]: Serializing world: session/6551680EE945D5AC/0000000367
+[03:55:49]: static:	true	
+[03:55:49]: static:	true	
+[04:00:08]: [200] Account Communication Success (6)
+[04:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[04:03:29]: Hound attack in 1(904.34677350486) days.	
+[04:03:30]: Available disk space for save files: 411794 MB
+[04:03:31]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000368
+[04:03:31]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000368
+[04:03:31]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000368
+[04:03:31]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:03:31]: Serializing world: session/6551680EE945D5AC/0000000368
+[04:10:54]: Deleting user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000369
+[04:10:55]: Resuming user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000369
+[04:11:06]: Spawn request: wormwood from Petrique
+[04:11:06]: Skin request: (wormwood_rose) (body_wathgrithr_victorian) (hand_woodie_victorian) (legs_winona_yule) ()
+[04:11:06]: Spawning player at: [Fixed] (-132.00, 0.00, 36.00)	
+[04:11:06]: Enabling Spawn Protection for 	100029 - world	
+[04:11:06]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000369
+[04:11:30]: Hound attack in 0(424.38008180598) days.	
+[04:11:31]: Available disk space for save files: 411790 MB
+[04:11:32]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000369
+[04:11:32]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000369
+[04:11:32]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000369
+[04:11:32]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:11:32]: Serializing world: session/6551680EE945D5AC/0000000369
+[04:13:17]: KU_jntKIE-z	running text command:	yawn	true	
+[04:18:03]: [Steam] SendUserDisconnect for '76561198986608383'
+[04:18:03]: Connection lost to 249.170.255.235|1 <5242767479200687532>
+[04:18:03]: [Shard] (KU_XmwUs4ho) disconnected from [SHDMASTER](1)
+[04:18:03]: Serializing user: session/6551680EE945D5AC/A7K71QFDGINI/0000000370
+[04:18:29]: [P2P] Connection failed for '76561198986608383'
+[04:18:37]: KU_jntKIE-z	running text command:	carol	true	
+[04:19:31]: Hound attack in 15(7598.8965525245) days.	
+[04:19:32]: Available disk space for save files: 411784 MB
+[04:19:33]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000370
+[04:19:33]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000370
+[04:19:33]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:19:33]: Serializing world: session/6551680EE945D5AC/0000000370
+[04:27:32]: Hound attack in 14(7118.9298608256) days.	
+[04:27:33]: Available disk space for save files: 411777 MB
+[04:27:33]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000371
+[04:27:33]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000371
+[04:27:33]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:27:34]: Serializing world: session/6551680EE945D5AC/0000000371
+[04:28:03]: [P2P] Session timed out for '76561198986608383'
+[04:28:03]: [P2P] Remove session: 249.170.255.235|1 '76561198986608383'
+[04:28:35]: Stale Component Reference: GUID 177618, scripts/entityscript.lua:1167
+[04:30:08]: [200] Account Communication Success (6)
+[04:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[04:35:33]: Hound attack in 13(6638.9298357916) days.	
+[04:35:34]: Available disk space for save files: 411777 MB
+[04:35:34]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000372
+[04:35:34]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000372
+[04:35:34]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:35:35]: Serializing world: session/6551680EE945D5AC/0000000372
+[04:43:34]: Hound attack in 12(6158.9631440928) days.	
+[04:43:35]: Available disk space for save files: 411771 MB
+[04:43:35]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000373
+[04:43:35]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000373
+[04:43:35]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:43:36]: Serializing world: session/6551680EE945D5AC/0000000373
+[04:47:39]: KU_jntKIE-z	running text command:	dance	true	
+[04:51:35]: Hound attack in 11(5678.9631190588) days.	
+[04:51:36]: Available disk space for save files: 411767 MB
+[04:51:36]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000374
+[04:51:36]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000374
+[04:51:36]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:51:37]: Serializing world: session/6551680EE945D5AC/0000000374
+[04:54:43]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000375
+[04:54:43]: [Shard] Migration request: (KU_HuDeJaXv) to Caves(3758438912)
+[04:54:43]: [Shard] Begin migration #7 for (KU_HuDeJaXv)
+[04:54:43]: [Shard] #7 [SHDMASTER](1) -> Caves(3758438912)
+[04:54:43]: [Shard] #7 <- session/6551680EE945D5AC/A7I7GDK4SI3P/0000000375
+[04:54:43]: [Shard] Writing save location file for (KU_HuDeJaXv)
+[04:54:43]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:54:43]: [Steam] SendUserDisconnect for '76561198142791875'
+[04:54:43]: [Shard] (KU_HuDeJaXv) disconnected from [SHDMASTER](1)
+[04:54:53]: [Shard] Completed migration #7 for player (KU_HuDeJaXv)
+[04:55:39]: [Shard] (KU_HuDeJaXv) disconnected from Caves(3758438912)
+[04:59:36]: Hound attack in 10(5198.9630940249) days.	
+[04:59:37]: Available disk space for save files: 411762 MB
+[04:59:37]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000375
+[04:59:37]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[04:59:38]: Serializing world: session/6551680EE945D5AC/0000000375
+[05:00:08]: [200] Account Communication Success (6)
+[05:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[05:00:35]: [P2P] Received from 249.170.255.234|1 '76561198142791875'
+[05:00:35]: [P2P] Sent to 249.170.255.234|1 '76561198142791875'
+[05:00:35]: New incoming connection 249.170.255.234|1 <6967462847138489220>
+[05:00:35]: Client connected from 249.170.255.234|1 <6967462847138489220>
+[05:00:35]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^XpfssLdFQKW0JwROVdXp1VaxxzPLNFOh7WQVKamQetQ= for <6967462847138489220>
+[05:00:36]: Client authenticated: (KU_HuDeJaXv) Triers
+[05:00:36]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[05:00:36]: [Steam] Authenticated client '76561198142791875'
+[05:00:37]: There is no active event to validate against.
+[05:00:37]: [Shard] Read save location file for (KU_HuDeJaXv)
+[05:00:37]: [Shard] Forwarding player to Caves(3758438912)
+[05:00:37]: [Shard] Begin migration #8 for (KU_HuDeJaXv)
+[05:00:37]: [Shard] #8 [SHDMASTER](1) -> Caves(3758438912)
+[05:00:37]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[05:00:37]: [Steam] SendUserDisconnect for '76561198142791875'
+[05:00:37]: [Shard] (KU_HuDeJaXv) disconnected from [SHDMASTER](1)
+[05:00:46]: [Shard] Completed migration #8 for player (KU_HuDeJaXv)
+[05:07:37]: Hound attack in 9(4718.9630689909) days.	
+[05:07:38]: Available disk space for save files: 411758 MB
+[05:07:38]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000376
+[05:07:38]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:07:38]: Serializing world: session/6551680EE945D5AC/0000000376
+[05:10:38]: [P2P] Session timed out for '76561198142791875'
+[05:10:38]: [P2P] Remove session: 249.170.255.234|1 '76561198142791875'
+[05:15:37]: Hound attack in 8(4238.963043957) days.	
+[05:15:38]: Available disk space for save files: 411748 MB
+[05:15:39]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000377
+[05:15:39]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:15:39]: Serializing world: session/6551680EE945D5AC/0000000377
+[05:16:10]: Stale Component Reference: GUID 150600, scripts/entityscript.lua:1167
+[05:23:38]: Hound attack in 7(3758.9963522581) days.	
+[05:23:39]: Available disk space for save files: 411740 MB
+[05:23:40]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000378
+[05:23:40]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:23:40]: Serializing world: session/6551680EE945D5AC/0000000378
+[05:30:08]: [200] Account Communication Success (6)
+[05:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[05:31:39]: Hound attack in 6(3278.9963272241) days.	
+[05:31:40]: Available disk space for save files: 411731 MB
+[05:31:41]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000379
+[05:31:41]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:31:41]: Serializing world: session/6551680EE945D5AC/0000000379
+[05:39:40]: Hound attack in 5(2798.9963021902) days.	
+[05:39:41]: Available disk space for save files: 411721 MB
+[05:39:42]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000380
+[05:39:42]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:39:42]: Serializing world: session/6551680EE945D5AC/0000000380
+[05:46:48]: [Shard] Begin migration #9 for (KU_HuDeJaXv)
+[05:46:48]: [Shard] #9 Caves(3758438912) -> [SHDMASTER](1)
+[05:46:48]: [Shard] #9 -> session/6551680EE945D5AC/A7I7GDK4SI3P/0000000381
+[05:46:48]: [Shard] Received migration #9 data for (KU_HuDeJaXv)
+[05:46:48]: [Shard] Writing save location file for (KU_HuDeJaXv)
+[05:46:48]: [Shard] (KU_HuDeJaXv) disconnected from Caves(3758438912)
+[05:46:54]: [P2P] Create session: 249.170.255.236|1 '76561198142791875'
+[05:46:54]: [P2P] Received from 249.170.255.236|1 '76561198142791875'
+[05:46:54]: [P2P] Sent to 249.170.255.236|1 '76561198142791875'
+[05:46:55]: New incoming connection 249.170.255.236|1 <6061949005863424159>
+[05:46:55]: Client connected from 249.170.255.236|1 <6061949005863424159>
+[05:46:55]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^SopYaKUH/mc/z34ib8N4N49UkKp0TjMuG3XimCHwc/0= for <6061949005863424159>
+[05:46:56]: Client authenticated: (KU_HuDeJaXv) Triers
+[05:46:56]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[05:46:56]: [Steam] Authenticated client '76561198142791875'
+[05:46:56]: [Shard] Completed incoming migration #9 for (KU_HuDeJaXv)
+[05:46:56]: [Shard] Completed migration #9 for player (KU_HuDeJaXv)
+[05:47:03]: Resuming user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000381
+[05:47:03]: Player will spawn near (371.65, 0.00, 303.61)	
+[05:47:03]: Spawning player at: [Load] (369.65, 0.00, 303.54)	
+[05:47:24]: KU_jntKIE-z	running text command:	fistshake	true	
+[05:47:26]: KU_jntKIE-z	running text command:	dance	true	
+[05:47:29]: KU_jntKIE-z	running text command:	dance	true	
+[05:47:41]: Hound attack in 4(2318.9962771562) days.	
+[05:47:42]: Available disk space for save files: 411713 MB
+[05:47:43]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000381
+[05:47:43]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000381
+[05:47:43]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:47:43]: Serializing world: session/6551680EE945D5AC/0000000381
+[05:51:44]: [Steam] SendUserDisconnect for '76561198142791875'
+[05:51:44]: Connection lost to 249.170.255.236|1 <6061949005863424159>
+[05:51:44]: [Shard] (KU_HuDeJaXv) disconnected from [SHDMASTER](1)
+[05:51:44]: Serializing user: session/6551680EE945D5AC/A7I7GDK4SI3P/0000000382
+[05:51:56]: [P2P] Connection failed for '76561198142791875'
+[05:53:25]: Server Paused	
+[05:53:56]: Server Unpaused	
+[05:56:13]: Hound attack in 3(1839.0295854574) days.	
+[05:56:14]: Available disk space for save files: 411729 MB
+[05:56:15]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000382
+[05:56:15]: Missing reference:	135498 - beef_bell	->	135500	135500 - beefalo	
+[05:56:15]: Serializing world: session/6551680EE945D5AC/0000000382
+[05:58:30]: [Steam] SendUserDisconnect for '76561198430621761'
+[05:58:30]: Connection lost to 249.170.255.233|1 <7485588709760032934>
+[05:58:30]: [Shard] (KU_jntKIE-z) disconnected from [SHDMASTER](1)
+[05:58:31]: Serializing user: session/6551680EE945D5AC/A7LN3NA4HRTT/0000000383
+[05:58:31]: Sim paused
+[06:00:08]: [200] Account Communication Success (6)
+[06:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[06:01:44]: [P2P] Session timed out for '76561198142791875'
+[06:01:44]: [P2P] Remove session: 249.170.255.236|1 '76561198142791875'

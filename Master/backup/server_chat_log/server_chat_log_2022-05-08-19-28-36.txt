@@ -1,0 +1,44 @@
+[00:00:53]: [Join Announcement] Petrique
+[00:01:06]: [Join Announcement] Triers
+[00:05:06]: [Join Announcement] mhat2001
+[00:12:57]: [Skin Announcement] Petrique legs_swing_pants_brown_umber
+[00:24:29]: [Join Announcement] AlanBida
+[00:30:19]: [Skin Announcement] mhat2001 legs_wurt_cave
+[00:32:18]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 35 rocha lunars.
+[00:32:22]: [Say] (KU_HuDeJaXv) Triers:  I have 52 thulecite fragments.
+[00:35:33]: [Say] (KU_XmwUs4ho) mhat2001: TO COM O MAP SCROLL
+[00:36:36]: [Say] (KU_HuDeJaXv) Triers:  I have 80 thulecite fragments.
+[00:36:46]: [Say] (KU_HuDeJaXv) Triers:  I have 17 moon rocks.
+[00:36:47]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 37 rocha lunars.
+[00:38:01]: [Say] (KU_HuDeJaXv) Triers:  I have 94 thulecite fragments.
+[00:38:08]: [Say] (KU_HuDeJaXv) Triers:  I have 17 thulecites.
+[00:39:27]: [Say] (KU_HuDeJaXv) Triers:  I have 3 living logs.
+[00:49:20]: [Say] (KU_HuDeJaXv) Triers:  I have 2 beefalo horns, and this one has 100% durability.
+[00:50:43]: [Say] (KU_HuDeJaXv) Triers:  I have 3 beefalo horns, and this one has 100% durability.
+[00:52:59]: [Say] (KU_HuDeJaXv) Triers:  I have 34 meats, and this one has 98% freshness.
+[01:05:16]: [Say] (KU_HuDeJaXv) Triers:  I have 3 ageless watchs, and this one has 100% charge.
+[01:08:56]: [Say] (KU_HuDeJaXv) Triers:  I have 3 ageless watchs, and this one has 100% charge.
+[01:12:58]: [Skin Announcement] Petrique feet_woodie_hockey
+[01:13:26]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[01:14:50]: [Death Announcement] mhat2001 teve a vida tirada por Passaralto. Ela se transformou em uma fantasma assustadora!
+[01:15:40]: [Resurrect Announcement] Triers foi ressuscitado(a) por Amuleto da vida.
+[01:18:43]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 29 pétalas, e este tem 100% de frescura.
+[01:19:01]: [Resurrect Announcement] mhat2001 foi ressuscitado(a) por Pedra de toque.
+[01:19:10]: [Say] (KU_HuDeJaXv) Triers:  I have a second chance watch with 100% charge.
+[01:27:23]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 traje de grama com 52% de durabilidade.
+[01:37:44]: [Skin Announcement] AlanBida body_polo_green_pistachio
+[01:38:05]: [Leave Announcement] AlanBida
+[01:41:13]: [Skin Announcement] mhat2001 webber_survivorp
+[01:57:41]: [Say] (KU_XmwUs4ho) mhat2001: khrampus's sac
+[01:58:04]: [Announcement] 1
+[01:58:21]: [Announcement] 24
+[02:17:58]: [Skin Announcement] Petrique feet_willow_haunteddoll
+[02:29:52]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 3 carne assadas, e este tem 96% de frescura.
+[02:35:25]: [Skin Announcement] mhat2001 body_cardigan_teal_jade
+[02:49:46]: [Leave Announcement] mhat2001
+[02:53:23]: [Join Announcement] mhat2001
+[02:54:57]: [Say] (KU_HuDeJaXv) Triers:  I have 2 life giving amulets, and this one has 100% durability.
+[03:08:17]: [Say] (KU_HuDeJaXv) Triers:  I have a pan flute with 100% durability.
+[03:10:49]: [Leave Announcement] Petrique
+[03:10:50]: [Leave Announcement] Triers
+[03:10:50]: [Leave Announcement] mhat2001

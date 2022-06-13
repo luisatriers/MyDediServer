@@ -1,0 +1,51 @@
+[00:00:50]: [Join Announcement] Petrique
+[00:03:41]: [Join Announcement] mhat2001
+[00:04:05]: [Leave Announcement] mhat2001
+[00:04:22]: [Join Announcement] Triers
+[00:05:49]: [Join Announcement] mhat2001
+[00:06:04]: [Say] (KU_XmwUs4ho) mhat2001:  I have a miner hat with 83% durability.
+[00:24:56]: [Say] (KU_HuDeJaXv) Triers:  I have 41 silks.
+[00:28:24]: [Say] (KU_HuDeJaXv) Triers:  I have 64 silks.
+[00:30:55]: [Leave Announcement] mhat2001
+[00:33:01]: [Join Announcement] mhat2001
+[00:54:54]: [Skin Announcement] Petrique feet_woodie_hippie
+[00:55:13]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[00:55:18]: [Skin Announcement] mhat2001 feet_willow_haunteddoll
+[00:56:09]: [Resurrect Announcement] Triers foi ressuscitado(a) por Pedra de toque.
+[01:00:46]: [Say] (KU_HuDeJaXv) Triers:  I have 5 tallbird eggs.
+[01:01:35]: [Say] (KU_HuDeJaXv) Triers:  I have 6 tallbird eggs.
+[01:13:43]: [Say] (KU_HuDeJaXv) Triers:  I have 33 silks.
+[01:17:43]: [Leave Announcement] Triers
+[01:21:29]: [Join Announcement] Triers
+[01:25:08]: [Say] (KU_HuDeJaXv) Triers:  I have 9 spider eggs.
+[01:25:10]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 broto de fruta rochosa.
+[01:37:18]: [Say] (KU_XmwUs4ho) mhat2001:  I have 138 flints.
+[02:00:54]: [Skin Announcement] Petrique hand_wickerbottom_ice
+[02:10:02]: [Skin Announcement] mhat2001 hand_workgloves_tan_grass
+[02:48:15]: [Say] (KU_XmwUs4ho) mhat2001:  I have 5 fireflies.
+[02:51:10]: [Say] (KU_XmwUs4ho) mhat2001:  I have 20 cooked cactus fleshs, and this one has 85% freshness.
+[02:53:48]: [Say] (KU_HuDeJaXv) Triers:  I have 34 cut grass.
+[02:59:15]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[03:01:15]: [Resurrect Announcement] Triers foi ressuscitado(a) por Amuleto da vida.
+[03:31:30]: [Say] (KU_HuDeJaXv) Triers:  I have 3 orange gems.
+[03:31:32]: [Say] (KU_HuDeJaXv) Triers:  I have 5 yellow gems.
+[03:31:33]: [Say] (KU_HuDeJaXv) Triers:  I have 5 green gems.
+[03:31:34]: [Say] (KU_HuDeJaXv) Triers:  I have 15 purple gems.
+[03:31:36]: [Say] (KU_HuDeJaXv) Triers:  I have 4 blue gems.
+[03:31:37]: [Say] (KU_HuDeJaXv) Triers:  I have 11 red gems.
+[03:35:56]: [Say] (KU_HuDeJaXv) Triers:  I have a night armor with  1% durability.
+[03:59:14]: [Leave Announcement] Triers
+[04:10:39]: [Join Announcement] Triers
+[04:22:48]: [Say] (KU_XmwUs4ho) mhat2001:  I have a melty marbles.
+[05:00:58]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 espada negra com 100% de durabilidade.
+[05:26:35]: [Say] (KU_XmwUs4ho) mhat2001:  We have 10 nightmare fuels in this chester.
+[05:29:29]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 47 toras vivas.
+[06:23:00]: [Leave Announcement] mhat2001
+[06:24:41]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 50 carne de monstros, e este tem 87% de frescura.
+[06:24:43]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 38 glândula de aranhas.
+[06:24:44]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 95 sedas.
+[06:24:46]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 11 ovos de aranhas.
+[06:29:08]: [Say] (KU_HuDeJaXv) Triers:  We have 63 monster meats in this ice box, and this one has 58% freshness.
+[06:31:12]: [Say] (KU_HuDeJaXv) Triers:  I have 9 nightmare fuels.
+[06:46:00]: [Leave Announcement] Triers
+[06:46:27]: [Leave Announcement] Petrique

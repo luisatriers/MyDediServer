@@ -1,0 +1,22 @@
+[00:00:53]: [Join Announcement] Petrique
+[00:01:28]: [Join Announcement] mhat2001
+[00:01:34]: [Join Announcement] Triers
+[00:02:39]: [Announcement] 4
+[00:07:21]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 2 engrenagens.
+[00:12:07]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 29 toras.
+[00:26:12]: [Leave Announcement] mhat2001
+[00:27:17]: [Join Announcement] mhat2001
+[00:28:22]: [Announcement] 4
+[00:37:07]: [Skin Announcement] mhat2001 body_sweatervest_grey_silver
+[00:38:58]: [Skin Announcement] Petrique wx78_rhinorook_p
+[00:43:40]: [Say] (KU_HuDeJaXv) Triers:  I have 4 red gems.
+[00:50:09]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 125 toras.
+[00:50:10]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 62 noz de vidoeiros, e este tem 96% de frescura.
+[00:53:44]: [Leave Announcement] mhat2001
+[00:53:55]: [Announcement] 24
+[00:57:44]: [Join Announcement] mhat2001
+[01:09:50]: [Say] (KU_HuDeJaXv) Triers:  I have 15 nightmare fuels.
+[01:30:31]: [Say] (KU_HuDeJaXv) Triers: clean sweeper
+[01:55:32]: [Leave Announcement] Petrique
+[01:55:33]: [Leave Announcement] mhat2001
+[01:55:33]: [Leave Announcement] Triers

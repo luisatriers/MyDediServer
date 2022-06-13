@@ -1,0 +1,1496 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 35%
+	Available Physical Memory: 10544m/16317m
+	Available Page File: 9501m/18749m
+	Available Virtual Memory: 134213486m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 210k
+	Quota Page Pool Usage: 206k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/470356033/Cluster_1/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 506376
+[00:00:00]: Current time: Mon May 09 14:57:54 2022
+
+[00:00:00]: Don't Starve Together: 506376 WIN32
+[00:00:00]: Build Date: 1035
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 9184 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198430621761 -ownerdir 470356033 -clouddir 470356033 -backup_log_count 25 -backup_log_period 0 -ugc_directory C:\\Program Files (x86)\\Steam\\steamapps\\workshop -shard Caves -secondary_log_prefix caves -sigprefix DST_Secondary -token *********************************************************************************** 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (10684)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.02
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (8668)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/470356033/client_save/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (7936)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/470356033/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/470356033/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198430621761
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64 bits
+  CPU                       
+    clockSpeed                3600
+    name                      Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    name                      Radeon RX 570 Series
+    driverVersion             26.20.15002.61
+    driverDate                20191204000000.000000-000
+    refreshRate               60
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/portuguese_br.po	
+[00:00:02]:   taskgrouplist:	default	Juntos	
+[00:00:02]:   taskgrouplist:	classic	Clássico	
+[00:00:02]:   taskgrouplist:	cave_default	Subterrâneo	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	A Forja	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	A Garganta	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-1111658995	
+[00:00:02]: modoverrides.lua enabling workshop-926178831	
+[00:00:02]: modoverrides.lua enabling workshop-378160973	
+[00:00:02]: modoverrides.lua enabling workshop-1185229307	
+[00:00:02]: modoverrides.lua enabling workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-926178831	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:02]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-926178831_CLIENT	
+[00:00:02]: Loading mod: workshop-926178831 (Force Biomes) Version:2.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:02]: Loading mod: workshop-1185229307 (Barra de Vida Épica) Version:57	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1111658995_CLIENT	
+[00:00:02]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-926178831	
+[00:00:02]: Overriding mod workshop-926178831's option MOOSEBREEDINGTASK with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option MOREALTARS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option KILLTHESPIDERS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option RABBITTOWN with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option KILLERBEES with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option SPIDERLAND with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:02]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:02]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:02]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:02]: Overriding mod workshop-926178831's option MAKEABEEHAT with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option SACREDDANGER with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option FUNGALNOISEMEADOW with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option CAVEJUNGLE with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option THEHUNTERS with value ON	
+[00:00:02]: Overriding mod workshop-926178831's option CAVESWAMP with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option MOLECOLONYDECIDUOUS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option MAGICMEADOW with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option RABBITSPIDERWAR with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option BEFRIENDTHEPIGS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option SWAMPYSINKHOLE with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option RESIDENTIAL3 with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option MUDDYSACRED with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option UNDERGROUNDFOREST with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option RESIDENTIAL2 with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option FROGSANDBUGS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option RABBITCITY with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option PLEASANTSINKHOLE with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option MILITARYPITS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option MOLECOLONYROCKS with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option BATCLOISTER with value OFF	
+[00:00:02]: Overriding mod workshop-926178831's option FUNGALNOISEFOREST with value OFF	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:02]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:02]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:02]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:02]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:02]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:02]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:02]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:02]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:02]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:02]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-926178831	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:02]: Mod: workshop-926178831 (Force Biomes)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-926178831 (Force Biomes)	Loading modmain.lua	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering Server mod namespace "workshop-378160973"
+[00:00:04]: Registering Server mod namespace "workshop-1111658995"
+[00:00:04]: Registering Client mod namespace "workshop-1111658995"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-1185229307 (Barra de Vida Épica)	Registering prefabs	
+[00:00:05]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:05]: Mod: workshop-1185229307 (Barra de Vida Épica)	    epichealth_proxy	
+[00:00:05]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:05]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:05]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-926178831 (Force Biomes)	Registering prefabs	
+[00:00:05]: Mod: workshop-926178831 (Force Biomes)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (10564)
+[00:00:06]: FilesExistAsyncThread started (19542 files)...
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 529841 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: [IPC] Signal 'DST_Secondary_Kill' opened  #000000000000095C
+[00:00:06]: [IPC] Registering handler for signal #000000000000095C
+[00:00:06]: [IPC] Handle #000000000000095C added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Secondary_ShutdownNoSave' opened  #0000000000000954
+[00:00:06]: [IPC] Registering handler for signal #0000000000000954
+[00:00:06]: [IPC] Handle #0000000000000954 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Secondary_Starting' opened  #0000000000000958
+[00:00:06]: [IPC] Sending signal... #0000000000000958
+[00:00:07]: [200] Account Communication Success (6)
+[00:00:07]: Received (KU_jntKIE-z) from TokenPurpose
+[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Network tick rate: U=15(2), D=0
+[00:00:07]: About to start a server with the following settings:
+[00:00:07]:   Dedicated: true
+[00:00:07]:   Online: true
+[00:00:07]:   Passworded: false
+[00:00:07]:   ServerPort: 10998
+[00:00:07]:   SteamAuthPort: 8767
+[00:00:07]:   SteamMasterServerPort: 27017
+[00:00:07]:   ClanID: false
+[00:00:07]:   ClanOnly: false
+[00:00:07]:   ClanAdmin: false
+[00:00:07]:   LanOnly: false
+[00:00:07]:   FriendsOnly: false
+[00:00:07]:   EnableAutosaver: true
+[00:00:07]:   EncodeUserPath: true
+[00:00:07]:   PVP: false
+[00:00:07]:   MaxPlayers: 6
+[00:00:07]:   GameMode: survival
+[00:00:07]:   OverridenDNS: 
+[00:00:07]:   PauseWhenEmpty: true
+[00:00:07]:   IdleTimeout: 1800s
+[00:00:07]:   VoteEnabled: false
+[00:00:07]:   InternetBroadcasting: true
+[00:00:07]:   Intent: cooperative
+[00:00:07]: [Warning] Could not confirm port 10998 is open in the firewall. 
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:07]: Online Server Started on port: 10998
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: Found a level data override file with these contents:	
+[00:00:07]: 	K: 	background_node_range	 V: 	table: 00000000141D36A0	
+[00:00:07]: 		K: 	1	 V: 	0	
+[00:00:07]: 		K: 	2	 V: 	1	
+[00:00:07]: 	K: 	desc	 V: 	Explorem as cavernas... Juntos!	
+[00:00:07]: 	K: 	hideminimap	 V: 	false	
+[00:00:07]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:07]: 	K: 	location	 V: 	cave	
+[00:00:07]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:07]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:07]: 	K: 	name	 V: 	As Cavernas	
+[00:00:07]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:07]: 	K: 	override_level_string	 V: 	false	
+[00:00:07]: 	K: 	overrides	 V: 	table: 00000000141D36F0	
+[00:00:07]: 		K: 	atriumgate	 V: 	default	
+[00:00:07]: 		K: 	banana	 V: 	default	
+[00:00:07]: 		K: 	bats	 V: 	default	
+[00:00:07]: 		K: 	bats_setting	 V: 	default	
+[00:00:07]: 		K: 	beefaloheat	 V: 	default	
+[00:00:07]: 		K: 	berrybush	 V: 	default	
+[00:00:07]: 		K: 	boons	 V: 	default	
+[00:00:07]: 		K: 	branching	 V: 	default	
+[00:00:07]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:07]: 		K: 	bunnymen	 V: 	default	
+[00:00:07]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:07]: 		K: 	cave_ponds	 V: 	default	
+[00:00:07]: 		K: 	cave_spiders	 V: 	default	
+[00:00:07]: 		K: 	cavelight	 V: 	default	
+[00:00:07]: 		K: 	chess	 V: 	default	
+[00:00:07]: 		K: 	crow_carnival	 V: 	default	
+[00:00:07]: 		K: 	day	 V: 	default	
+[00:00:07]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:07]: 		K: 	dustmoths	 V: 	default	
+[00:00:07]: 		K: 	earthquakes	 V: 	default	
+[00:00:07]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:07]: 		K: 	fern	 V: 	default	
+[00:00:07]: 		K: 	fissure	 V: 	default	
+[00:00:07]: 		K: 	flint	 V: 	default	
+[00:00:07]: 		K: 	flower_cave	 V: 	default	
+[00:00:07]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:07]: 		K: 	fruitfly	 V: 	default	
+[00:00:07]: 		K: 	grass	 V: 	default	
+[00:00:07]: 		K: 	grassgekkos	 V: 	default	
+[00:00:07]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:07]: 		K: 	krampus	 V: 	default	
+[00:00:07]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:07]: 		K: 	lichen	 V: 	default	
+[00:00:07]: 		K: 	liefs	 V: 	default	
+[00:00:07]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:07]: 		K: 	lightfliers	 V: 	default	
+[00:00:07]: 		K: 	loop	 V: 	default	
+[00:00:07]: 		K: 	marshbush	 V: 	default	
+[00:00:07]: 		K: 	merms	 V: 	default	
+[00:00:07]: 		K: 	molebats	 V: 	default	
+[00:00:07]: 		K: 	moles_setting	 V: 	default	
+[00:00:07]: 		K: 	monkey	 V: 	default	
+[00:00:07]: 		K: 	monkey_setting	 V: 	default	
+[00:00:07]: 		K: 	mushgnome	 V: 	default	
+[00:00:07]: 		K: 	mushroom	 V: 	default	
+[00:00:07]: 		K: 	mushtree	 V: 	default	
+[00:00:07]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:07]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:07]: 		K: 	pigs_setting	 V: 	default	
+[00:00:07]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:07]: 		K: 	reeds	 V: 	default	
+[00:00:07]: 		K: 	regrowth	 V: 	default	
+[00:00:07]: 		K: 	roads	 V: 	never	
+[00:00:07]: 		K: 	rock	 V: 	default	
+[00:00:07]: 		K: 	rocky	 V: 	default	
+[00:00:07]: 		K: 	rocky_setting	 V: 	default	
+[00:00:07]: 		K: 	sapling	 V: 	default	
+[00:00:07]: 		K: 	season_start	 V: 	default	
+[00:00:07]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:07]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:07]: 		K: 	slurper	 V: 	default	
+[00:00:07]: 		K: 	slurtles	 V: 	default	
+[00:00:07]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:07]: 		K: 	snurtles	 V: 	default	
+[00:00:07]: 		K: 	spawnprotection	 V: 	default	
+[00:00:07]: 		K: 	specialevent	 V: 	default	
+[00:00:07]: 		K: 	spider_dropper	 V: 	default	
+[00:00:07]: 		K: 	spider_hider	 V: 	default	
+[00:00:07]: 		K: 	spider_spitter	 V: 	default	
+[00:00:07]: 		K: 	spider_warriors	 V: 	default	
+[00:00:07]: 		K: 	spiderqueen	 V: 	default	
+[00:00:07]: 		K: 	spiders	 V: 	default	
+[00:00:07]: 		K: 	spiders_setting	 V: 	default	
+[00:00:07]: 		K: 	start_location	 V: 	caves	
+[00:00:07]: 		K: 	task_set	 V: 	cave_default	
+[00:00:07]: 		K: 	tentacles	 V: 	default	
+[00:00:07]: 		K: 	toadstool	 V: 	default	
+[00:00:07]: 		K: 	touchstone	 V: 	default	
+[00:00:07]: 		K: 	trees	 V: 	default	
+[00:00:07]: 		K: 	weather	 V: 	default	
+[00:00:07]: 		K: 	winters_feast	 V: 	enabled	
+[00:00:07]: 		K: 	world_size	 V: 	default	
+[00:00:07]: 		K: 	wormattacks	 V: 	default	
+[00:00:07]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:07]: 		K: 	wormlights	 V: 	default	
+[00:00:07]: 		K: 	worms	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:07]: 	K: 	required_prefabs	 V: 	table: 00000000141D4AF0	
+[00:00:07]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:07]: 	K: 	settings_desc	 V: 	Explorem as cavernas... Juntos!	
+[00:00:07]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:07]: 	K: 	settings_name	 V: 	As Cavernas	
+[00:00:07]: 	K: 	substitutes	 V: 	table: 00000000141D4190	
+[00:00:07]: 	K: 	version	 V: 	4	
+[00:00:07]: 	K: 	worldgen_desc	 V: 	Explorem as cavernas... Juntos!	
+[00:00:07]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:07]: 	K: 	worldgen_name	 V: 	As Cavernas	
+[00:00:07]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:07]: Overwriting savedata with level data file.	
+[00:00:07]: Not applying world gen overrides.	
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.07 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: FilesExistAsyncThread aborted.
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:07]: lua_close took 0.07 seconds
+[00:00:07]: ReleaseAll
+[00:00:07]: ReleaseAll Finished
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: AppVersion::GetArchitecture() x64
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]: Translator:LoadPOFile - loading file: scripts/languages/portuguese_br.po	
+[00:00:09]:   taskgrouplist:	default	Juntos	
+[00:00:09]:   taskgrouplist:	classic	Clássico	
+[00:00:09]:   taskgrouplist:	cave_default	Subterrâneo	
+[00:00:09]:   taskgrouplist:	lavaarena_taskset	A Forja	
+[00:00:09]:   taskgrouplist:	quagmire_taskset	A Garganta	
+[00:00:09]: Running main.lua
+	
+[00:00:09]: loaded modindex	
+[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:09]: SUCCESS: Loaded modoverrides.lua	
+[00:00:09]: modoverrides.lua enabling workshop-1111658995	
+[00:00:09]: modoverrides.lua enabling workshop-926178831	
+[00:00:09]: modoverrides.lua enabling workshop-378160973	
+[00:00:09]: modoverrides.lua enabling workshop-1185229307	
+[00:00:09]: modoverrides.lua enabling workshop-466732225	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-926178831	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:09]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-926178831	
+[00:00:09]: Loading mod: workshop-926178831 (Force Biomes) Version:2.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:09]: Loading mod: workshop-1185229307 (Barra de Vida Épica) Version:57	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:09]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-926178831	
+[00:00:09]: Overriding mod workshop-926178831's option MOOSEBREEDINGTASK with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option MOREALTARS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option KILLTHESPIDERS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option RABBITTOWN with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option KILLERBEES with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option SPIDERLAND with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:09]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:09]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:09]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:09]: Overriding mod workshop-926178831's option MAKEABEEHAT with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option SACREDDANGER with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option FUNGALNOISEMEADOW with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option CAVEJUNGLE with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option THEHUNTERS with value ON	
+[00:00:09]: Overriding mod workshop-926178831's option CAVESWAMP with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option MOLECOLONYDECIDUOUS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option MAGICMEADOW with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option RABBITSPIDERWAR with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option BEFRIENDTHEPIGS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option SWAMPYSINKHOLE with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option RESIDENTIAL3 with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option MUDDYSACRED with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option UNDERGROUNDFOREST with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option RESIDENTIAL2 with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option FROGSANDBUGS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option RABBITCITY with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option PLEASANTSINKHOLE with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option MILITARYPITS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option MOLECOLONYROCKS with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option BATCLOISTER with value OFF	
+[00:00:09]: Overriding mod workshop-926178831's option FUNGALNOISEFOREST with value OFF	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:09]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:09]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:09]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:09]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:09]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:09]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:09]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:09]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:09]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:09]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:09]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:09]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:09]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-926178831	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:09]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:09]: Mod: workshop-926178831 (Force Biomes)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-926178831 (Force Biomes)	Loading modmain.lua	
+[00:00:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: Registering Server mod namespace "workshop-378160973"
+[00:00:10]: Registering Server mod namespace "workshop-1111658995"
+[00:00:10]: Registering Client mod namespace "workshop-1111658995"
+[00:00:10]: PlayerDeaths could not load morgue	
+[00:00:10]: PlayerHistory could not load player_history	
+[00:00:10]: ServerPreferences could not load server_preferences	
+[00:00:10]: bloom_enabled	true	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Loading world: session/244834188104A82F/0000000111	
+[00:00:10]: Save file is at version 5.1	
+[00:00:10]: Klump load on boot started.	
+[00:00:10]: Klump files loaded: 	0	
+[00:00:10]: 	Unload FE	
+[00:00:10]: 	Unload FE done	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	Registering prefabs	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	    epichealth_proxy	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-926178831 (Force Biomes)	Registering prefabs	
+[00:00:11]: Mod: workshop-926178831 (Force Biomes)	  Registering default mod prefab	
+[00:00:11]: 	LOAD BE	
+[00:00:19]: 	LOAD BE: done	
+[00:00:19]: Begin Session: 244834188104A82F
+[00:00:19]: saving to server_temp/server_save	
+[00:00:19]: Adding extra World Event: winters_feast	
+[00:00:19]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:19]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:19]: Loading 18 new character(s)	
+[00:00:20]: Total 18 character(s) loaded	
+[00:00:23]: Loading Nav Grid	
+[00:00:23]: World generated on build 506376 with save version: 5.1, using seed: 1651935727	
+[00:00:23]: setting 	summerlength	15	
+[00:00:23]: setting 	cavemoonphase	half	
+[00:00:23]: setting 	iscavefullmoon	false	
+[00:00:23]: setting 	isnightmaredawn	false	
+[00:00:23]: setting 	elapseddaysinseason	14	
+[00:00:23]: setting 	isfullmoon	false	
+[00:00:23]: setting 	moisture	1864.9473876953	
+[00:00:23]: setting 	cavephase	dusk	
+[00:00:23]: setting 	iscavewaxingmoon	true	
+[00:00:23]: setting 	isnightmarewild	false	
+[00:00:23]: setting 	nightmaretimeinphase	0.93827892702497	
+[00:00:23]: setting 	precipitationrate	0	
+[00:00:23]: setting 	iswet	true	
+[00:00:23]: setting 	isnewmoon	false	
+[00:00:23]: setting 	precipitation	none	
+[00:00:23]: setting 	israining	false	
+[00:00:23]: setting 	isnightmarewarn	false	
+[00:00:23]: setting 	iswinter	true	
+[00:00:23]: setting 	season	winter	
+[00:00:23]: setting 	remainingdaysinseason	1	
+[00:00:23]: setting 	winterlength	15	
+[00:00:23]: setting 	iscaveday	false	
+[00:00:23]: setting 	moistureceil	2075.5307617188	
+[00:00:23]: setting 	isday	false	
+[00:00:23]: setting 	springlength	20	
+[00:00:23]: setting 	wetness	45.286838531494	
+[00:00:23]: setting 	iscavedusk	true	
+[00:00:23]: setting 	isalterawake	false	
+[00:00:23]: setting 	isnightmarecalm	true	
+[00:00:23]: setting 	isnight	true	
+[00:00:23]: setting 	isdusk	false	
+[00:00:23]: setting 	isspring	false	
+[00:00:23]: setting 	isautumn	false	
+[00:00:23]: setting 	issnowing	false	
+[00:00:23]: setting 	iswaxingmoon	true	
+[00:00:23]: setting 	phase	night	
+[00:00:23]: setting 	snowlevel	0	
+[00:00:23]: setting 	issnowcovered	false	
+[00:00:23]: setting 	autumnlength	20	
+[00:00:23]: setting 	pop	0.73888252067894	
+[00:00:23]: setting 	nightmaretime	337.78041372899	
+[00:00:23]: setting 	seasonprogress	0.93333333333333	
+[00:00:23]: setting 	moonphase	new	
+[00:00:23]: setting 	nightmarephase	calm	
+[00:00:23]: setting 	cycles	104	
+[00:00:23]: setting 	timeinphase	0.66528570387099	
+[00:00:23]: setting 	iscavenight	false	
+[00:00:23]: setting 	iscavenewmoon	false	
+[00:00:23]: setting 	issummer	false	
+[00:00:23]: setting 	temperature	-0.75265879711937	
+[00:00:23]: setting 	time	0.56198213895162	
+[00:00:23]: [Shard] Secondary shard is waiting for LUA...
+[00:00:26]: SWITCHING 	false	
+[00:00:26]: Reconstructing topology	
+[00:00:26]: 	...Sorting points	
+[00:00:26]: 	...Sorting edges	
+[00:00:26]: 	...Connecting nodes	
+[00:00:26]: 	...Validating connections	
+[00:00:26]: 	...Housekeeping	
+[00:00:26]: 	...Done!	
+[00:00:26]: 1 uploads added to server. From server_temp
+[00:00:26]: About to start a shard with these settings:
+[00:00:26]:   ShardName: Caves
+[00:00:26]:   ShardID: 3758438912
+[00:00:26]:   ShardRole: SECONDARY
+[00:00:26]:   MasterHost: 127.0.0.1
+[00:00:26]:   MasterBind: (null)
+[00:00:26]:   MasterPort: 10888
+[00:00:27]: [Shard] Connecting to master...
+[00:00:27]: Telling Client our new session identifier: 244834188104A82F
+[00:00:27]: Check for write access: TRUE
+[00:00:27]: Check for read access: TRUE
+[00:00:27]: Available disk space for save files: 529840 MB
+[00:00:27]: ModIndex: Load sequence finished successfully.	
+[00:00:27]: Reset() returning
+[00:00:27]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:27]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:27]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:27]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:27]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:27]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:27]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:27]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:27]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:27]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:27]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:32]: About to start a shard with these settings:
+[00:00:32]:   ShardName: Caves
+[00:00:32]:   ShardID: 3758438912
+[00:00:32]:   ShardRole: SECONDARY
+[00:00:32]:   MasterHost: 127.0.0.1
+[00:00:32]:   MasterBind: (null)
+[00:00:32]:   MasterPort: 10888
+[00:00:32]: [Shard] Connecting to master...
+[00:00:32]: [Shard] Sending secondary shard information to master...
+[00:00:32]: Received MasterInfoPacket row c1016b0d7ef03f5c3a6f3b9ea127ef48 region US
+[00:00:32]: Registering secondary shard in US lobby
+[00:00:33]: [Shard] secondary shard is now ready!
+[00:00:33]: World 1 is now connected	
+[00:00:33]: Validating portal[10] <-> 1[10] (active)	
+[00:00:33]: Validating portal[9] <-> 1[9] (active)	
+[00:00:33]: Validating portal[5] <-> 1[5] (active)	
+[00:00:33]: Validating portal[2] <-> 1[2] (active)	
+[00:00:33]: Validating portal[3] <-> 1[3] (active)	
+[00:00:33]: Validating portal[1] <-> 1[1] (active)	
+[00:00:33]: Validating portal[4] <-> 1[4] (active)	
+[00:00:33]: Validating portal[7] <-> 1[7] (active)	
+[00:00:33]: Validating portal[8] <-> 1[8] (active)	
+[00:00:33]: Validating portal[6] <-> 1[6] (active)	
+[00:00:34]: [Shard] secondary shard LUA is now ready!
+[00:00:34]: [IPC] Signal 'DST_Secondary_Ready' opened  #00000000000008A4
+[00:00:34]: [IPC] Sending signal... #00000000000008A4
+[00:00:34]: Sim paused
+[00:00:52]: Sim unpaused
+[00:00:54]: Server Paused	
+[00:05:32]: Registering secondary shard in US lobby
+[00:10:32]: Registering secondary shard in US lobby
+[00:12:12]: Server Unpaused	
+[00:13:45]: Sim paused
+[00:14:02]: Sim unpaused
+[00:14:16]: Server Paused	
+[00:15:32]: Registering secondary shard in US lobby
+[00:20:11]: Server Unpaused	
+[00:20:32]: Registering secondary shard in US lobby
+[00:21:54]: Available disk space for save files: 529878 MB
+[00:21:55]: Serializing world: session/244834188104A82F/0000000112
+[00:21:55]: Truncating to snapshot #112...
+[00:21:55]:  - session/244834188104A82F/0000000106
+[00:21:55]:    1 file(s) removed
+[00:25:32]: Registering secondary shard in US lobby
+[00:29:55]: Available disk space for save files: 529876 MB
+[00:29:55]: Serializing world: session/244834188104A82F/0000000113
+[00:29:55]: Truncating to snapshot #113...
+[00:29:55]:  - session/244834188104A82F/0000000107
+[00:29:55]:    1 file(s) removed
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_jntKIE-z) from TokenPurpose
+[00:30:32]: Registering secondary shard in US lobby
+[00:35:32]: Registering secondary shard in US lobby
+[00:37:56]: Available disk space for save files: 529871 MB
+[00:37:56]: Serializing world: session/244834188104A82F/0000000114
+[00:37:56]: Truncating to snapshot #114...
+[00:37:56]:  - session/244834188104A82F/0000000108
+[00:37:56]:    1 file(s) removed
+[00:40:32]: Registering secondary shard in US lobby
+[00:45:32]: Registering secondary shard in US lobby
+[00:45:56]: Available disk space for save files: 529869 MB
+[00:45:57]: Serializing world: session/244834188104A82F/0000000115
+[00:45:57]: Truncating to snapshot #115...
+[00:45:57]:  - session/244834188104A82F/0000000109
+[00:45:57]:    1 file(s) removed
+[00:50:18]: Server Paused	
+[00:50:20]: Server Unpaused	
+[00:50:32]: Registering secondary shard in US lobby
+[00:53:59]: Available disk space for save files: 529816 MB
+[00:53:59]: Serializing world: session/244834188104A82F/0000000116
+[00:53:59]: Truncating to snapshot #116...
+[00:53:59]:  - session/244834188104A82F/0000000110
+[00:53:59]:    1 file(s) removed
+[00:55:32]: Registering secondary shard in US lobby
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_jntKIE-z) from TokenPurpose
+[01:00:32]: Registering secondary shard in US lobby
+[01:01:59]: Available disk space for save files: 529886 MB
+[01:02:00]: Serializing world: session/244834188104A82F/0000000117
+[01:02:00]: Truncating to snapshot #117...
+[01:02:00]:  - session/244834188104A82F/0000000111
+[01:02:00]:    1 file(s) removed
+[01:05:32]: Registering secondary shard in US lobby
+[01:10:00]: Available disk space for save files: 529873 MB
+[01:10:00]: Serializing world: session/244834188104A82F/0000000118
+[01:10:00]: Truncating to snapshot #118...
+[01:10:00]:  - session/244834188104A82F/0000000112
+[01:10:00]:    1 file(s) removed
+[01:10:32]: Registering secondary shard in US lobby
+[01:10:51]: [Shard] #1 -> session/244834188104A82F/A7K71QFDGINI/0000000119
+[01:10:51]: [Shard] Received migration #1 data for (KU_XmwUs4ho)
+[01:10:57]: [P2P] Session request for '76561198986608383'
+[01:11:01]: [P2P] Create session: 47.97.212.197|1 '76561198986608383'
+[01:11:01]: [P2P] Received from 47.97.212.197|1 '76561198986608383'
+[01:11:01]: [P2P] Sent to 47.97.212.197|1 '76561198986608383'
+[01:11:02]: New incoming connection 47.97.212.197|1 <7472658319473478962>
+[01:11:02]: Client connected from 47.97.212.197|1 <7472658319473478962>
+[01:11:02]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^6bJ7uXD+pvL9MIWkaN/HsfYysnZSuYcq6U4Zrr9ycJ4= for <7472658319473478962>
+[01:11:02]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[01:11:03]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[01:11:03]: [Steam] Authenticated client '76561198986608383'
+[01:11:03]: [Shard] Completed incoming migration #1 for (KU_XmwUs4ho)
+[01:11:16]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000119
+[01:11:16]: Player will spawn close to portal #2	
+[01:11:16]: Spawning player at: [Load] (195.15, 0.00, 318.15)	
+[01:15:32]: Registering secondary shard in US lobby
+[01:18:01]: Available disk space for save files: 529871 MB
+[01:18:01]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000119
+[01:18:01]: Serializing world: session/244834188104A82F/0000000119
+[01:20:32]: Registering secondary shard in US lobby
+[01:24:54]: Activating portal[2] to 1	
+[01:24:54]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000120
+[01:24:54]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[01:24:54]: [Shard] #2 <- session/244834188104A82F/A7K71QFDGINI/0000000120
+[01:24:54]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:24:54]: [Steam] SendUserDisconnect for '76561198986608383'
+[01:25:32]: Registering secondary shard in US lobby
+[01:26:02]: Available disk space for save files: 529850 MB
+[01:26:02]: Serializing world: session/244834188104A82F/0000000120
+[01:26:02]: Truncating to snapshot #120...
+[01:26:02]:  - session/244834188104A82F/0000000113
+[01:26:02]:  - session/244834188104A82F/0000000114
+[01:26:02]:    2 file(s) removed
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_jntKIE-z) from TokenPurpose
+[01:30:32]: Registering secondary shard in US lobby
+[01:34:02]: Available disk space for save files: 529855 MB
+[01:34:03]: Serializing world: session/244834188104A82F/0000000121
+[01:34:03]: Truncating to snapshot #121...
+[01:34:03]:  - session/244834188104A82F/0000000115
+[01:34:03]:    1 file(s) removed
+[01:34:57]: [P2P] Session timed out for '76561198986608383'
+[01:34:57]: [P2P] Remove session: 47.97.212.197|1 '76561198986608383'
+[01:35:32]: Registering secondary shard in US lobby
+[01:37:18]: [Shard] #3 -> session/244834188104A82F/A7K71QFDGINI/0000000122
+[01:37:18]: [Shard] Received migration #3 data for (KU_XmwUs4ho)
+[01:37:25]: [P2P] Create session: 47.97.212.198|1 '76561198986608383'
+[01:37:25]: [P2P] Received from 47.97.212.198|1 '76561198986608383'
+[01:37:25]: [P2P] Sent to 47.97.212.198|1 '76561198986608383'
+[01:37:26]: New incoming connection 47.97.212.198|1 <8641412485625037629>
+[01:37:26]: Client connected from 47.97.212.198|1 <8641412485625037629>
+[01:37:26]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^aLZDHLuhSjzCmc0sq6+IdUwZBq9pPDtAl4SPxmgvxP4= for <8641412485625037629>
+[01:37:27]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[01:37:27]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[01:37:27]: [Steam] Authenticated client '76561198986608383'
+[01:37:27]: [Shard] Completed incoming migration #3 for (KU_XmwUs4ho)
+[01:37:41]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000122
+[01:37:41]: Player will spawn close to portal #2	
+[01:37:41]: Spawning player at: [Load] (197.63, 0.00, 316.99)	
+[01:40:32]: Registering secondary shard in US lobby
+[01:42:03]: Available disk space for save files: 529841 MB
+[01:42:03]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000122
+[01:42:04]: Serializing world: session/244834188104A82F/0000000122
+[01:43:44]: Activating portal[2] to 1	
+[01:43:45]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000123
+[01:43:45]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[01:43:45]: [Shard] #4 <- session/244834188104A82F/A7K71QFDGINI/0000000123
+[01:43:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:43:45]: [Steam] SendUserDisconnect for '76561198986608383'
+[01:44:06]: [Shard] #5 -> session/244834188104A82F/A7K71QFDGINI/0000000123
+[01:44:06]: [Shard] Received migration #5 data for (KU_XmwUs4ho)
+[01:44:09]: [P2P] Received from 47.97.212.198|1 '76561198986608383'
+[01:44:09]: [P2P] Sent to 47.97.212.198|1 '76561198986608383'
+[01:44:09]: New incoming connection 47.97.212.198|1 <7548080581104664686>
+[01:44:09]: Client connected from 47.97.212.198|1 <7548080581104664686>
+[01:44:09]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^IjETOD4oLfVjF+FQPLCn2Bl1dYfbW8/xSojC3icVjzc= for <7548080581104664686>
+[01:44:10]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[01:44:10]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[01:44:10]: [Steam] Authenticated client '76561198986608383'
+[01:44:10]: [Shard] Completed incoming migration #5 for (KU_XmwUs4ho)
+[01:44:24]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000123
+[01:44:24]: Player will spawn close to portal #2	
+[01:44:24]: Spawning player at: [Load] (196.65, 0.00, 313.46)	
+[01:45:00]: [Shard] #6 -> session/244834188104A82F/A7LN3NA4HRTT/0000000123
+[01:45:00]: [Shard] Received migration #6 data for (KU_jntKIE-z)
+[01:45:04]: New incoming connection 127.0.0.1|53523 <1934595899514665412>
+[01:45:04]: Client connected from [LAN] 127.0.0.1|53523 <1934595899514665412>
+[01:45:04]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^Mlj4M+03TsiusXGr1l8IRU0k6IlLEE5fQmMJBx33szs= for <1934595899514665412>
+[01:45:05]: Client authenticated: (KU_jntKIE-z) Petrique
+[01:45:05]: [Steam] Authenticated host '76561198430621761'
+[01:45:05]: [Shard] Completed incoming migration #6 for (KU_jntKIE-z)
+[01:45:13]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000123
+[01:45:14]: Player will spawn close to portal #2	
+[01:45:14]: Spawning player at: [Load] (196.86, 0.00, 317.77)	
+[01:45:32]: Registering secondary shard in US lobby
+[01:49:16]: Activating portal[2] to 1	
+[01:49:17]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000123
+[01:49:17]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[01:49:17]: [Shard] #7 <- session/244834188104A82F/A7LN3NA4HRTT/0000000123
+[01:49:17]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:49:17]: [Steam] SendUserDisconnect for '76561198430621761'
+[01:50:04]: Available disk space for save files: 529832 MB
+[01:50:05]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000123
+[01:50:05]: Serializing world: session/244834188104A82F/0000000123
+[01:50:32]: Registering secondary shard in US lobby
+[01:50:41]: Activating portal[2] to 1	
+[01:50:42]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000124
+[01:50:42]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[01:50:42]: [Shard] #8 <- session/244834188104A82F/A7K71QFDGINI/0000000124
+[01:50:42]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:50:42]: [Steam] SendUserDisconnect for '76561198986608383'
+[01:54:39]: [Shard] #9 -> session/244834188104A82F/A7K71QFDGINI/0000000124
+[01:54:39]: [Shard] Received migration #9 data for (KU_XmwUs4ho)
+[01:54:46]: [P2P] Received from 47.97.212.198|1 '76561198986608383'
+[01:54:46]: [P2P] Sent to 47.97.212.198|1 '76561198986608383'
+[01:54:47]: New incoming connection 47.97.212.198|1 <5411366762185804816>
+[01:54:47]: Client connected from 47.97.212.198|1 <5411366762185804816>
+[01:54:47]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^PLuz5pK8ivMnmJ3eS+4gy6L+lmxRW6uuTwzsWmwKgV8= for <5411366762185804816>
+[01:54:48]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[01:54:48]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[01:54:48]: [Steam] Authenticated client '76561198986608383'
+[01:54:48]: [Shard] Completed incoming migration #9 for (KU_XmwUs4ho)
+[01:55:01]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000124
+[01:55:01]: Player will spawn close to portal #9	
+[01:55:01]: Spawning player at: [Load] (-37.26, 0.00, -149.10)	
+[01:55:32]: Registering secondary shard in US lobby
+[01:58:05]: Available disk space for save files: 529804 MB
+[01:58:05]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000124
+[01:58:06]: Serializing world: session/244834188104A82F/0000000124
+[02:00:07]: [200] Account Communication Success (6)
+[02:00:07]: Received (KU_jntKIE-z) from TokenPurpose
+[02:00:32]: Registering secondary shard in US lobby
+[02:05:15]: Could not find anim [death] in bank [ghost]
+[02:05:15]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000125
+[02:05:32]: Registering secondary shard in US lobby
+[02:06:06]: Available disk space for save files: 529793 MB
+[02:06:06]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000125
+[02:06:06]: Serializing world: session/244834188104A82F/0000000125
+[02:09:07]: Activating portal[2] to 1	
+[02:09:07]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000126
+[02:09:07]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[02:09:07]: [Shard] #10 <- session/244834188104A82F/A7K71QFDGINI/0000000126
+[02:09:07]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:09:07]: [Steam] SendUserDisconnect for '76561198986608383'
+[02:10:32]: Registering secondary shard in US lobby
+[02:13:36]: [Shard] #11 -> session/244834188104A82F/A7K71QFDGINI/0000000126
+[02:13:36]: [Shard] Received migration #11 data for (KU_XmwUs4ho)
+[02:13:43]: [P2P] Received from 47.97.212.198|1 '76561198986608383'
+[02:13:43]: [P2P] Sent to 47.97.212.198|1 '76561198986608383'
+[02:13:44]: New incoming connection 47.97.212.198|1 <3166045621308858194>
+[02:13:44]: Client connected from 47.97.212.198|1 <3166045621308858194>
+[02:13:44]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^u4g4PRRe5/MxKhJWVLn5L1qxnHFTvPtDUYDHxeJ7pJM= for <3166045621308858194>
+[02:13:45]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[02:13:45]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[02:13:45]: [Steam] Authenticated client '76561198986608383'
+[02:13:45]: [Shard] Completed incoming migration #11 for (KU_XmwUs4ho)
+[02:13:59]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000126
+[02:13:59]: Could not find anim [idle_loop] in bank [ghost]
+[02:13:59]: Player will spawn near (36.92, -0.00, -205.07)	
+[02:13:59]: Spawning player at: [Load] (38.10, -0.00, -206.68)	
+[02:13:59]: Could not find anim [idle_loop] in bank [ghost]
+[02:14:01]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000126
+[02:14:07]: Available disk space for save files: 529790 MB
+[02:14:07]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000126
+[02:14:07]: Serializing world: session/244834188104A82F/0000000126
+[02:15:32]: Registering secondary shard in US lobby
+[02:20:21]: Activating portal[2] to 1	
+[02:20:21]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000127
+[02:20:21]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[02:20:21]: [Shard] #12 <- session/244834188104A82F/A7K71QFDGINI/0000000127
+[02:20:21]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:20:21]: [Steam] SendUserDisconnect for '76561198986608383'
+[02:20:32]: Registering secondary shard in US lobby
+[02:22:08]: Available disk space for save files: 529772 MB
+[02:22:08]: Serializing world: session/244834188104A82F/0000000127
+[02:22:08]: Truncating to snapshot #127...
+[02:22:08]:  - session/244834188104A82F/0000000116
+[02:22:08]:  - session/244834188104A82F/0000000117
+[02:22:08]:  - session/244834188104A82F/0000000118
+[02:22:08]:  - session/244834188104A82F/0000000119
+[02:22:08]:  - session/244834188104A82F/0000000120
+[02:22:08]:  - session/244834188104A82F/0000000121
+[02:22:08]:  - session/244834188104A82F/A7K71QFDGINI/0000000120
+[02:22:08]:  - session/244834188104A82F/A7K71QFDGINI/0000000119
+[02:22:08]:  - session/244834188104A82F/A7K71QFDGINI/0000000105
+[02:22:08]:    9 file(s) removed
+[02:25:32]: Registering secondary shard in US lobby
+[02:30:07]: [200] Account Communication Success (6)
+[02:30:07]: Received (KU_jntKIE-z) from TokenPurpose
+[02:30:09]: Available disk space for save files: 529774 MB
+[02:30:09]: Serializing world: session/244834188104A82F/0000000128
+[02:30:09]: Truncating to snapshot #128...
+[02:30:09]:  - session/244834188104A82F/0000000122
+[02:30:09]:  - session/244834188104A82F/A7K71QFDGINI/0000000122
+[02:30:09]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000086
+[02:30:09]:    3 file(s) removed
+[02:30:24]: [P2P] Session timed out for '76561198986608383'
+[02:30:24]: [P2P] Remove session: 47.97.212.198|1 '76561198986608383'
+[02:30:32]: Registering secondary shard in US lobby
+[02:35:32]: Registering secondary shard in US lobby
+[02:38:09]: Available disk space for save files: 529769 MB
+[02:38:10]: Serializing world: session/244834188104A82F/0000000129
+[02:38:10]: Truncating to snapshot #129...
+[02:38:10]:  - session/244834188104A82F/0000000123
+[02:38:10]:  - session/244834188104A82F/A7K71QFDGINI/0000000123
+[02:38:10]:    2 file(s) removed
+[02:39:16]: [Shard] #13 -> session/244834188104A82F/A7K71QFDGINI/0000000130
+[02:39:16]: [Shard] Received migration #13 data for (KU_XmwUs4ho)
+[02:39:23]: [P2P] Create session: 47.97.212.199|1 '76561198986608383'
+[02:39:23]: [P2P] Received from 47.97.212.199|1 '76561198986608383'
+[02:39:23]: [P2P] Sent to 47.97.212.199|1 '76561198986608383'
+[02:39:24]: New incoming connection 47.97.212.199|1 <8889658177825050770>
+[02:39:24]: Client connected from 47.97.212.199|1 <8889658177825050770>
+[02:39:24]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^D9rXo6VelRr6QXY+tInG6wlfxFFG1OxHwz3si782Dqs= for <8889658177825050770>
+[02:39:25]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[02:39:25]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[02:39:26]: [Steam] Authenticated client '76561198986608383'
+[02:39:26]: [Shard] Completed incoming migration #13 for (KU_XmwUs4ho)
+[02:39:39]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000130
+[02:39:39]: Player will spawn close to portal #2	
+[02:39:39]: Spawning player at: [Load] (193.07, 0.00, 315.08)	
+[02:40:32]: Registering secondary shard in US lobby
+[02:43:04]: Activating portal[2] to 1	
+[02:43:05]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000130
+[02:43:05]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[02:43:05]: [Shard] #14 <- session/244834188104A82F/A7K71QFDGINI/0000000130
+[02:43:05]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:43:05]: [Steam] SendUserDisconnect for '76561198986608383'
+[02:45:32]: Registering secondary shard in US lobby
+[02:46:10]: Available disk space for save files: 529754 MB
+[02:46:10]: Serializing world: session/244834188104A82F/0000000130
+[02:46:10]: Truncating to snapshot #130...
+[02:46:10]:  - session/244834188104A82F/0000000124
+[02:46:10]:  - session/244834188104A82F/A7K71QFDGINI/0000000124
+[02:46:10]:    2 file(s) removed
+[02:50:32]: Registering secondary shard in US lobby
+[02:51:59]: [Shard] #15 -> session/244834188104A82F/A7K71QFDGINI/0000000131
+[02:51:59]: [Shard] Received migration #15 data for (KU_XmwUs4ho)
+[02:52:07]: [P2P] Received from 47.97.212.199|1 '76561198986608383'
+[02:52:07]: [P2P] Sent to 47.97.212.199|1 '76561198986608383'
+[02:52:08]: New incoming connection 47.97.212.199|1 <4914305362173758102>
+[02:52:08]: Client connected from 47.97.212.199|1 <4914305362173758102>
+[02:52:08]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^aZWgqn0J7PCjCbFK76GFzHeGCkOvcM+/zVk5T0iFxCQ= for <4914305362173758102>
+[02:52:08]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[02:52:08]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[02:52:09]: [Steam] Authenticated client '76561198986608383'
+[02:52:09]: [Shard] Completed incoming migration #15 for (KU_XmwUs4ho)
+[02:52:22]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000131
+[02:52:22]: Player will spawn close to portal #2	
+[02:52:22]: Spawning player at: [Load] (193.89, 0.00, 317.59)	
+[02:54:11]: Available disk space for save files: 529753 MB
+[02:54:11]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000131
+[02:54:11]: Serializing world: session/244834188104A82F/0000000131
+[02:55:32]: Registering secondary shard in US lobby
+[02:57:34]: Activating portal[2] to 1	
+[02:57:35]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000132
+[02:57:35]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[02:57:35]: [Shard] #16 <- session/244834188104A82F/A7K71QFDGINI/0000000132
+[02:57:35]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:57:35]: [Steam] SendUserDisconnect for '76561198986608383'
+[03:00:07]: [200] Account Communication Success (6)
+[03:00:07]: Received (KU_jntKIE-z) from TokenPurpose
+[03:00:32]: Registering secondary shard in US lobby
+[03:02:12]: Available disk space for save files: 529737 MB
+[03:02:12]: Serializing world: session/244834188104A82F/0000000132
+[03:02:12]: Truncating to snapshot #132...
+[03:02:12]:  - session/244834188104A82F/0000000125
+[03:02:12]:  - session/244834188104A82F/0000000126
+[03:02:12]:  - session/244834188104A82F/A7K71QFDGINI/0000000126
+[03:02:12]:  - session/244834188104A82F/A7K71QFDGINI/0000000125
+[03:02:12]:    4 file(s) removed
+[03:03:54]: [Shard] #17 -> session/244834188104A82F/A7K71QFDGINI/0000000133
+[03:03:54]: [Shard] Received migration #17 data for (KU_XmwUs4ho)
+[03:04:01]: [P2P] Received from 47.97.212.199|1 '76561198986608383'
+[03:04:01]: [P2P] Sent to 47.97.212.199|1 '76561198986608383'
+[03:04:02]: New incoming connection 47.97.212.199|1 <8362675063667370175>
+[03:04:02]: Client connected from 47.97.212.199|1 <8362675063667370175>
+[03:04:02]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^Z/96W75+RhdK8aapx/4bYeQnRtZqBzAcaWiXSpelmKk= for <8362675063667370175>
+[03:04:03]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[03:04:03]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[03:04:03]: [Steam] Authenticated client '76561198986608383'
+[03:04:03]: [Shard] Completed incoming migration #17 for (KU_XmwUs4ho)
+[03:04:16]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000133
+[03:04:16]: Player will spawn close to portal #2	
+[03:04:16]: Spawning player at: [Load] (197.87, 0.00, 314.89)	
+[03:05:32]: Registering secondary shard in US lobby
+[03:10:12]: Available disk space for save files: 529726 MB
+[03:10:13]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000133
+[03:10:13]: Serializing world: session/244834188104A82F/0000000133
+[03:10:32]: Registering secondary shard in US lobby
+[03:14:42]: Activating portal[2] to 1	
+[03:14:43]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000134
+[03:14:43]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[03:14:43]: [Shard] #18 <- session/244834188104A82F/A7K71QFDGINI/0000000134
+[03:14:43]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:14:43]: [Steam] SendUserDisconnect for '76561198986608383'
+[03:15:32]: Registering secondary shard in US lobby
+[03:16:01]: [Shard] #19 -> session/244834188104A82F/A7I7GDK4SI3P/0000000134
+[03:16:01]: [Shard] Received migration #19 data for (KU_HuDeJaXv)
+[03:16:03]: [P2P] Session request for '76561198142791875'
+[03:16:07]: [P2P] Create session: 47.97.212.200|1 '76561198142791875'
+[03:16:07]: [P2P] Received from 47.97.212.200|1 '76561198142791875'
+[03:16:07]: [P2P] Sent to 47.97.212.200|1 '76561198142791875'
+[03:16:08]: New incoming connection 47.97.212.200|1 <6565797039224378561>
+[03:16:08]: Client connected from 47.97.212.200|1 <6565797039224378561>
+[03:16:08]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^hyuY+pIkb9eAP5qgeF6dnhLmsgngRbqEvmzmhb73KLY= for <6565797039224378561>
+[03:16:09]: Client authenticated: (KU_HuDeJaXv) Triers
+[03:16:09]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[03:16:09]: [Steam] Authenticated client '76561198142791875'
+[03:16:09]: [Shard] Completed incoming migration #19 for (KU_HuDeJaXv)
+[03:16:16]: Resuming user: session/244834188104A82F/A7I7GDK4SI3P/0000000134
+[03:16:16]: Player will spawn close to portal #1	
+[03:16:16]: Spawning player at: [Load] (430.97, 0.00, -245.88)	
+[03:17:11]: [Shard] #20 -> session/244834188104A82F/A7LN3NA4HRTT/0000000134
+[03:17:11]: [Shard] Received migration #20 data for (KU_jntKIE-z)
+[03:17:15]: New incoming connection 127.0.0.1|54287 <1828202721806536210>
+[03:17:15]: Client connected from [LAN] 127.0.0.1|54287 <1828202721806536210>
+[03:17:15]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^tFsSN5QhkNjbxDw8jOVXWXVoRBNlkamndlr2er58VGc= for <1828202721806536210>
+[03:17:16]: Client authenticated: (KU_jntKIE-z) Petrique
+[03:17:16]: [Steam] Authenticated host '76561198430621761'
+[03:17:16]: [Shard] Completed incoming migration #20 for (KU_jntKIE-z)
+[03:17:25]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000134
+[03:17:25]: Player will spawn close to portal #1	
+[03:17:25]: Spawning player at: [Load] (431.97, 0.00, -245.87)	
+[03:18:13]: Available disk space for save files: 529710 MB
+[03:18:13]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000134
+[03:18:13]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000134
+[03:18:13]: Serializing world: session/244834188104A82F/0000000134
+[03:20:32]: Registering secondary shard in US lobby
+[03:20:49]: Remote right click out of range	
+[03:20:50]: Remote right click out of range	
+[03:20:52]: Remote right click out of range	
+[03:20:53]: Remote right click out of range	
+[03:20:55]: Remote right click out of range	
+[03:22:08]: [Shard] #21 -> session/244834188104A82F/A7K71QFDGINI/0000000135
+[03:22:08]: [Shard] Received migration #21 data for (KU_XmwUs4ho)
+[03:22:15]: [P2P] Received from 47.97.212.199|1 '76561198986608383'
+[03:22:15]: [P2P] Sent to 47.97.212.199|1 '76561198986608383'
+[03:22:16]: New incoming connection 47.97.212.199|1 <8617703596598527998>
+[03:22:16]: Client connected from 47.97.212.199|1 <8617703596598527998>
+[03:22:16]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^ad8AtoywBjnKIqT1X5Mj2b5231y5yI7E4z1BEkm82ac= for <8617703596598527998>
+[03:22:17]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[03:22:17]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[03:22:17]: [Steam] Authenticated client '76561198986608383'
+[03:22:17]: [Shard] Completed incoming migration #21 for (KU_XmwUs4ho)
+[03:22:31]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000135
+[03:22:31]: Player will spawn close to portal #4	
+[03:22:31]: Spawning player at: [Load] (-129.61, 0.00, -206.35)	
+[03:22:52]: Activating portal[4] to 1	
+[03:22:53]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000135
+[03:22:53]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[03:22:53]: [Shard] #22 <- session/244834188104A82F/A7K71QFDGINI/0000000135
+[03:22:53]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:22:53]: [Steam] SendUserDisconnect for '76561198986608383'
+[03:25:32]: Registering secondary shard in US lobby
+[03:26:14]: Available disk space for save files: 529699 MB
+[03:26:14]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000135
+[03:26:14]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000135
+[03:26:14]: Serializing world: session/244834188104A82F/0000000135
+[03:28:16]: [Shard] #23 -> session/244834188104A82F/A7K71QFDGINI/0000000136
+[03:28:16]: [Shard] Received migration #23 data for (KU_XmwUs4ho)
+[03:28:24]: [P2P] Received from 47.97.212.199|1 '76561198986608383'
+[03:28:24]: [P2P] Sent to 47.97.212.199|1 '76561198986608383'
+[03:28:25]: New incoming connection 47.97.212.199|1 <8407215194564366188>
+[03:28:25]: Client connected from 47.97.212.199|1 <8407215194564366188>
+[03:28:25]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^7nwmN5jwja4cs0DIXHXiR2EbGmjeHuFD7jI9X5NuidA= for <8407215194564366188>
+[03:28:26]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[03:28:26]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[03:28:26]: [Steam] Authenticated client '76561198986608383'
+[03:28:26]: [Shard] Completed incoming migration #23 for (KU_XmwUs4ho)
+[03:28:39]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000136
+[03:28:39]: Player will spawn close to portal #2	
+[03:28:39]: Spawning player at: [Load] (193.43, 0.00, 317.07)	
+[03:30:07]: [200] Account Communication Success (6)
+[03:30:07]: Received (KU_jntKIE-z) from TokenPurpose
+[03:30:32]: Registering secondary shard in US lobby
+[03:34:14]: Available disk space for save files: 529683 MB
+[03:34:15]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000136
+[03:34:15]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000136
+[03:34:15]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000136
+[03:34:15]: Serializing world: session/244834188104A82F/0000000136
+[03:35:32]: Registering secondary shard in US lobby
+[03:35:45]: Activating portal[2] to 1	
+[03:35:46]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000137
+[03:35:46]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[03:35:46]: [Shard] #24 <- session/244834188104A82F/A7K71QFDGINI/0000000137
+[03:35:46]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:35:46]: [Steam] SendUserDisconnect for '76561198986608383'
+[03:40:32]: Registering secondary shard in US lobby
+[03:42:15]: Available disk space for save files: 529769 MB
+[03:42:15]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000137
+[03:42:15]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000137
+[03:42:15]: Serializing world: session/244834188104A82F/0000000137
+[03:45:32]: Registering secondary shard in US lobby
+[03:45:48]: [P2P] Session timed out for '76561198986608383'
+[03:45:48]: [P2P] Remove session: 47.97.212.199|1 '76561198986608383'
+[03:45:56]: [Shard] #25 -> session/244834188104A82F/A7K71QFDGINI/0000000138
+[03:45:56]: [Shard] Received migration #25 data for (KU_XmwUs4ho)
+[03:46:03]: [P2P] Create session: 47.97.212.201|1 '76561198986608383'
+[03:46:03]: [P2P] Received from 47.97.212.201|1 '76561198986608383'
+[03:46:03]: [P2P] Sent to 47.97.212.201|1 '76561198986608383'
+[03:46:04]: New incoming connection 47.97.212.201|1 <8779821939370784716>
+[03:46:04]: Client connected from 47.97.212.201|1 <8779821939370784716>
+[03:46:04]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^7tcsoDQgWheaFClmBKXtDePwvZ+pELWgq1rgnp2z3I0= for <8779821939370784716>
+[03:46:04]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[03:46:05]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[03:46:05]: [Steam] Authenticated client '76561198986608383'
+[03:46:05]: [Shard] Completed incoming migration #25 for (KU_XmwUs4ho)
+[03:46:18]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000138
+[03:46:18]: Player will spawn close to portal #2	
+[03:46:18]: Spawning player at: [Load] (195.57, 0.00, 313.18)	
+[03:46:53]: Server Paused	
+[03:50:32]: Registering secondary shard in US lobby
+[03:52:21]: Server Unpaused	
+[03:55:32]: Registering secondary shard in US lobby
+[03:55:44]: Available disk space for save files: 529764 MB
+[03:55:44]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000138
+[03:55:44]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000138
+[03:55:44]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000138
+[03:55:44]: Serializing world: session/244834188104A82F/0000000138
+[04:00:07]: [200] Account Communication Success (6)
+[04:00:07]: Received (KU_jntKIE-z) from TokenPurpose
+[04:00:32]: Registering secondary shard in US lobby
+[04:03:45]: Available disk space for save files: 529759 MB
+[04:03:45]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000139
+[04:03:45]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000139
+[04:03:45]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000139
+[04:03:45]: Serializing world: session/244834188104A82F/0000000139
+[04:05:32]: Registering secondary shard in US lobby
+[04:10:32]: Registering secondary shard in US lobby
+[04:11:45]: Available disk space for save files: 529740 MB
+[04:11:45]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000140
+[04:11:45]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000140
+[04:11:45]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000140
+[04:11:46]: Serializing world: session/244834188104A82F/0000000140
+[04:12:46]: Activating portal[1] to 1	
+[04:12:46]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:12:46]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[04:12:46]: [Shard] #26 <- session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:12:46]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:12:46]: [Steam] SendUserDisconnect for '76561198430621761'
+[04:13:01]: Activating portal[2] to 1	
+[04:13:01]: [Shard] #27 -> session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:13:01]: [Shard] Received migration #27 data for (KU_jntKIE-z)
+[04:13:01]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000141
+[04:13:01]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[04:13:01]: [Shard] #28 <- session/244834188104A82F/A7K71QFDGINI/0000000141
+[04:13:01]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:13:01]: [Steam] SendUserDisconnect for '76561198986608383'
+[04:13:04]: New incoming connection 127.0.0.1|59519 <1963120944462867728>
+[04:13:04]: Client connected from [LAN] 127.0.0.1|59519 <1963120944462867728>
+[04:13:04]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^MAtIR/e/q0K9WO7q8Z8nOwd7udr9a7UO/cjS7diI6PY= for <1963120944462867728>
+[04:13:05]: Client authenticated: (KU_jntKIE-z) Petrique
+[04:13:05]: [Steam] Authenticated host '76561198430621761'
+[04:13:05]: [Shard] Completed incoming migration #27 for (KU_jntKIE-z)
+[04:13:14]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:13:14]: Player will spawn close to portal #1	
+[04:13:14]: Spawning player at: [Load] (432.73, 0.00, -250.50)	
+[04:13:25]: Activating portal[1] to 1	
+[04:13:25]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:13:25]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[04:13:25]: [Shard] #29 <- session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:13:25]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:13:25]: [Steam] SendUserDisconnect for '76561198430621761'
+[04:13:38]: [Shard] #30 -> session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:13:38]: [Shard] Received migration #30 data for (KU_jntKIE-z)
+[04:13:42]: New incoming connection 127.0.0.1|56319 <3959260049711056732>
+[04:13:42]: Client connected from [LAN] 127.0.0.1|56319 <3959260049711056732>
+[04:13:42]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^CKSswYVAm6KnrShoYDpPeQ4t8tuwFfdMsXmuV6sDWAY= for <3959260049711056732>
+[04:13:42]: Client authenticated: (KU_jntKIE-z) Petrique
+[04:13:42]: [Steam] Authenticated host '76561198430621761'
+[04:13:42]: [Shard] Completed incoming migration #30 for (KU_jntKIE-z)
+[04:13:51]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:13:51]: Player will spawn close to portal #1	
+[04:13:51]: Spawning player at: [Load] (431.56, 0.00, -250.82)	
+[04:14:11]: Activating portal[1] to 1	
+[04:14:12]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000141
+[04:14:12]: [Shard] Migration request: (KU_HuDeJaXv) to [SHDMASTER](1)
+[04:14:12]: [Shard] #31 <- session/244834188104A82F/A7I7GDK4SI3P/0000000141
+[04:14:12]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:14:12]: [Steam] SendUserDisconnect for '76561198142791875'
+[04:14:51]: Activating portal[1] to 1	
+[04:14:52]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:14:52]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[04:14:52]: [Shard] #32 <- session/244834188104A82F/A7LN3NA4HRTT/0000000141
+[04:14:52]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:14:52]: [Steam] SendUserDisconnect for '76561198430621761'
+[04:15:32]: Registering secondary shard in US lobby
+[04:19:46]: Available disk space for save files: 529731 MB
+[04:19:46]: Serializing world: session/244834188104A82F/0000000141
+[04:19:46]: Truncating to snapshot #141...
+[04:19:46]:  - session/244834188104A82F/0000000127
+[04:19:46]:  - session/244834188104A82F/0000000128
+[04:19:46]:  - session/244834188104A82F/0000000129
+[04:19:46]:  - session/244834188104A82F/0000000130
+[04:19:46]:  - session/244834188104A82F/0000000131
+[04:19:46]:  - session/244834188104A82F/0000000132
+[04:19:46]:  - session/244834188104A82F/0000000133
+[04:19:46]:  - session/244834188104A82F/0000000134
+[04:19:46]:  - session/244834188104A82F/0000000135
+[04:19:46]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000135
+[04:19:46]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000134
+[04:19:46]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000072
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000135
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000134
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000133
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000132
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000131
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000130
+[04:19:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000127
+[04:19:46]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000135
+[04:19:46]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000134
+[04:19:46]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000123
+[04:19:46]:    22 file(s) removed
+[04:20:32]: Registering secondary shard in US lobby
+[04:23:04]: [P2P] Session timed out for '76561198986608383'
+[04:23:04]: [P2P] Remove session: 47.97.212.201|1 '76561198986608383'
+[04:24:05]: [Shard] #33 -> session/244834188104A82F/A7LN3NA4HRTT/0000000142
+[04:24:05]: [Shard] Received migration #33 data for (KU_jntKIE-z)
+[04:24:05]: [Shard] #34 -> session/244834188104A82F/A7I7GDK4SI3P/0000000142
+[04:24:05]: [Shard] Received migration #34 data for (KU_HuDeJaXv)
+[04:24:05]: [Shard] #35 -> session/244834188104A82F/A7K71QFDGINI/0000000142
+[04:24:05]: [Shard] Received migration #35 data for (KU_XmwUs4ho)
+[04:24:08]: New incoming connection 127.0.0.1|58099 <5084862466207895632>
+[04:24:08]: Client connected from [LAN] 127.0.0.1|58099 <5084862466207895632>
+[04:24:08]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^M6yQTdhUCuVKThjDQJX3tTbmOsexTPH/CkRXGaFET94= for <5084862466207895632>
+[04:24:09]: Client authenticated: (KU_jntKIE-z) Petrique
+[04:24:09]: [Steam] Authenticated host '76561198430621761'
+[04:24:09]: [Shard] Completed incoming migration #33 for (KU_jntKIE-z)
+[04:24:11]: [P2P] Received from 47.97.212.200|1 '76561198142791875'
+[04:24:11]: [P2P] Sent to 47.97.212.200|1 '76561198142791875'
+[04:24:12]: [P2P] Create session: 47.97.212.202|1 '76561198986608383'
+[04:24:12]: [P2P] Received from 47.97.212.202|1 '76561198986608383'
+[04:24:12]: [P2P] Sent to 47.97.212.202|1 '76561198986608383'
+[04:24:12]: New incoming connection 47.97.212.200|1 <2413775816244832932>
+[04:24:12]: Client connected from 47.97.212.200|1 <2413775816244832932>
+[04:24:12]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^4vEa3Mgw8zs4Hr+T5GS+dTBv8nFP4mY7XQw0IV7PjCk= for <2413775816244832932>
+[04:24:13]: Client authenticated: (KU_HuDeJaXv) Triers
+[04:24:13]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[04:24:13]: New incoming connection 47.97.212.202|1 <711368317886294568>
+[04:24:13]: Client connected from 47.97.212.202|1 <711368317886294568>
+[04:24:13]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^/6CJZksIr7okjjaPUuihRZBfzy+dFQb9AWStAgx73pU= for <711368317886294568>
+[04:24:13]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[04:24:13]: [Steam] Authenticated client '76561198142791875'
+[04:24:13]: [Shard] Completed incoming migration #34 for (KU_HuDeJaXv)
+[04:24:13]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[04:24:14]: [Steam] Authenticated client '76561198986608383'
+[04:24:14]: [Shard] Completed incoming migration #35 for (KU_XmwUs4ho)
+[04:24:18]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000142
+[04:24:18]: Player will spawn near (355.73, 0.00, -328.04)	
+[04:24:18]: Spawning player at: [Load] (356.45, 0.00, -329.91)	
+[04:24:21]: Resuming user: session/244834188104A82F/A7I7GDK4SI3P/0000000142
+[04:24:21]: Player will spawn near (355.73, 0.00, -328.04)	
+[04:24:21]: Spawning player at: [Load] (357.34, 0.00, -329.23)	
+[04:24:27]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000142
+[04:24:27]: Player will spawn near (355.73, 0.00, -328.04)	
+[04:24:27]: Spawning player at: [Load] (355.13, 0.00, -329.95)	
+[04:25:32]: Registering secondary shard in US lobby
+[04:27:17]: [(KU_jntKIE-z) Petrique] ReceiveRemoteExecute(c_save()) @(73.58, -687.17)
+[04:27:18]: Available disk space for save files: 529741 MB
+[04:27:19]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000142
+[04:27:19]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000142
+[04:27:19]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000142
+[04:27:19]: Serializing world: session/244834188104A82F/0000000142
+[04:27:47]: Available disk space for save files: 529742 MB
+[04:27:48]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000143
+[04:27:48]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000143
+[04:27:48]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000143
+[04:27:48]: Serializing world: session/244834188104A82F/0000000143
+[04:29:52]: KU_jntKIE-z	running text command:	kiss	true	
+[04:29:54]: KU_jntKIE-z	running text command:	joy	true	
+[04:30:07]: [200] Account Communication Success (6)
+[04:30:07]: Received (KU_jntKIE-z) from TokenPurpose
+[04:30:32]: Registering secondary shard in US lobby
+[04:31:12]: KU_jntKIE-z	running text command:	fistshake	true	
+[04:31:47]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000144
+[04:31:47]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[04:31:47]: [Shard] #36 <- session/244834188104A82F/A7LN3NA4HRTT/0000000144
+[04:31:47]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:31:47]: [Steam] SendUserDisconnect for '76561198430621761'
+[04:31:49]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000144
+[04:31:49]: [Shard] Migration request: (KU_HuDeJaXv) to [SHDMASTER](1)
+[04:31:49]: [Shard] #37 <- session/244834188104A82F/A7I7GDK4SI3P/0000000144
+[04:31:49]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:31:49]: [Steam] SendUserDisconnect for '76561198142791875'
+[04:31:49]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000144
+[04:31:49]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[04:31:49]: [Shard] #38 <- session/244834188104A82F/A7K71QFDGINI/0000000144
+[04:31:49]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:31:49]: [Steam] SendUserDisconnect for '76561198986608383'
+[04:35:32]: Registering secondary shard in US lobby
+[04:35:34]: [Shard] #39 -> session/244834188104A82F/A7LN3NA4HRTT/0000000144
+[04:35:34]: [Shard] Received migration #39 data for (KU_jntKIE-z)
+[04:35:35]: [Shard] #40 -> session/244834188104A82F/A7I7GDK4SI3P/0000000144
+[04:35:35]: [Shard] Received migration #40 data for (KU_HuDeJaXv)
+[04:35:38]: New incoming connection 127.0.0.1|53210 <892675466746865656>
+[04:35:38]: Client connected from [LAN] 127.0.0.1|53210 <892675466746865656>
+[04:35:38]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^iDZdSmK+qCgVBl4hrFjioBKjvrVuVnxwIz7SnBvwu7o= for <892675466746865656>
+[04:35:39]: Client authenticated: (KU_jntKIE-z) Petrique
+[04:35:39]: [Steam] Authenticated host '76561198430621761'
+[04:35:39]: [Shard] Completed incoming migration #39 for (KU_jntKIE-z)
+[04:35:41]: [P2P] Received from 47.97.212.200|1 '76561198142791875'
+[04:35:41]: [P2P] Sent to 47.97.212.200|1 '76561198142791875'
+[04:35:42]: New incoming connection 47.97.212.200|1 <4174025811107407517>
+[04:35:42]: Client connected from 47.97.212.200|1 <4174025811107407517>
+[04:35:42]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^Fb2996/6SYpSC5a9nyvCKjE8COQEKpcchnEcNePKw/A= for <4174025811107407517>
+[04:35:43]: Client authenticated: (KU_HuDeJaXv) Triers
+[04:35:43]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[04:35:43]: [Steam] Authenticated client '76561198142791875'
+[04:35:43]: [Shard] Completed incoming migration #40 for (KU_HuDeJaXv)
+[04:35:47]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000144
+[04:35:47]: Player will spawn near (670.22, -0.00, -596.14)	
+[04:35:47]: Spawning player at: [Load] (670.87, -0.00, -594.25)	
+[04:35:48]: Available disk space for save files: 529739 MB
+[04:35:48]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000144
+[04:35:48]: Serializing world: session/244834188104A82F/0000000144
+[04:35:50]: Resuming user: session/244834188104A82F/A7I7GDK4SI3P/0000000144
+[04:35:50]: Player will spawn near (670.22, -0.00, -596.14)	
+[04:35:50]: Spawning player at: [Load] (671.60, -0.00, -594.70)	
+[04:36:04]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:04]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:04]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:04]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:04]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:05]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:05]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:10]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:10]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:11]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:11]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:11]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:11]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:11]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:12]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:12]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:12]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:12]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:15]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:15]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:15]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:16]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:16]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:20]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:20]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:20]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:20]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:20]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:21]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:21]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:25]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:25]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:32]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:33]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:33]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:33]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:38]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:38]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:38]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:38]: A timer with the name 	endstun	 already exists on 	134184 - minotaur	!	
+[04:36:47]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:47]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:47]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:56]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:36:56]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:37:00]: A timer with the name 	endstun	 already exists on 	134184 - minotaur	!	
+[04:37:13]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:37:14]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:37:14]: A timer with the name 	endstun	 already exists on 	134184 - minotaur	!	
+[04:37:21]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:37:21]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:37:22]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:37:22]: A timer with the name 	endstun	 already exists on 	134184 - minotaur	!	
+[04:37:22]: A timer with the name 	endstun	 already exists on 	134184 - minotaur	!	
+[04:37:30]: A timer with the name 	rammed	 already exists on 	134184 - minotaur	!	
+[04:38:58]: KU_jntKIE-z	running text command:	kiss	true	
+[04:39:03]: KU_jntKIE-z	running text command:	kiss	true	
+[04:39:56]: KU_jntKIE-z	running text command:	toast	true	
+[04:40:06]: KU_jntKIE-z	running text command:	toast	true	
+[04:40:09]: KU_HuDeJaXv	running text command:	toast	true	
+[04:40:24]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000145
+[04:40:24]: [Shard] Migration request: (KU_HuDeJaXv) to [SHDMASTER](1)
+[04:40:24]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000145
+[04:40:24]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[04:40:24]: [Shard] #41 <- session/244834188104A82F/A7I7GDK4SI3P/0000000145
+[04:40:24]: [Shard] #42 <- session/244834188104A82F/A7LN3NA4HRTT/0000000145
+[04:40:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:40:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:40:24]: [Steam] SendUserDisconnect for '76561198430621761'
+[04:40:24]: [Steam] SendUserDisconnect for '76561198142791875'
+[04:40:32]: Registering secondary shard in US lobby
+[04:41:51]: [P2P] Session timed out for '76561198986608383'
+[04:41:51]: [P2P] Remove session: 47.97.212.202|1 '76561198986608383'
+[04:42:53]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[04:42:53]: Sim paused
+[04:42:56]: [IPC] Received shutdown signal.
+[04:42:56]: Available disk space for save files: 529738 MB
+[04:42:56]: Serializing world: session/244834188104A82F/0000000145
+[04:42:56]: Truncating to snapshot #145...
+[04:42:56]:  - session/244834188104A82F/0000000136
+[04:42:56]:  - session/244834188104A82F/0000000137
+[04:42:56]:  - session/244834188104A82F/0000000138
+[04:42:56]:  - session/244834188104A82F/0000000139
+[04:42:56]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000139
+[04:42:56]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000138
+[04:42:56]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000137
+[04:42:56]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000136
+[04:42:56]:  - session/244834188104A82F/A7K71QFDGINI/0000000139
+[04:42:56]:  - session/244834188104A82F/A7K71QFDGINI/0000000138
+[04:42:56]:  - session/244834188104A82F/A7K71QFDGINI/0000000137
+[04:42:56]:  - session/244834188104A82F/A7K71QFDGINI/0000000136
+[04:42:56]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000139
+[04:42:56]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000138
+[04:42:56]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000137
+[04:42:56]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000136
+[04:42:56]:    16 file(s) removed
+[04:42:56]: [Shard] Stopping shard mode
+[04:42:56]: [Steam] SendUserDisconnect for ''
+[04:42:56]: Collecting garbage...
+[04:42:57]: lua_gc took 0.25 seconds
+[04:42:57]: ~ShardLuaProxy()
+[04:42:57]: ~cEventLeaderboardProxy()
+[04:42:57]: ~ItemServerLuaProxy()
+[04:42:57]: ~InventoryLuaProxy()
+[04:42:57]: ~NetworkLuaProxy()
+[04:42:57]: ~SimLuaProxy()
+[04:42:57]: lua_close took 0.34 seconds
+[04:42:57]: CurlRequestManager::ClientThread::Main() complete
+[04:42:57]: HttpClient2 discarded 0 callbacks.
+[04:42:57]: Shutting down

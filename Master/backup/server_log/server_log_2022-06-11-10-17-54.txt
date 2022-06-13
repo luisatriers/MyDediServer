@@ -1,0 +1,195 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 56%
+	Available Physical Memory: 7148m/16317m
+	Available Page File: 3689m/18749m
+	Available Virtual Memory: 134213509m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 167k
+	Quota Page Pool Usage: 167k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Sat Jun 11 10:10:21 2022
+
+[00:00:00]: Don't Starve Together: 510124 WIN32
+[00:00:00]: Build Date: 1097
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (11624)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.28
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (7620)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (10928)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64 bits
+  CPU                       
+    clockSpeed                3600
+    name                      Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    name                      Radeon RX 570 Series
+    driverVersion             26.20.15002.61
+    driverDate                20191204000000.000000-000
+    refreshRate               60
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-466732225	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:01]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:01]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering Server mod namespace "workshop-378160973"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: bloom_enabled	true	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:04]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (2024)
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: FilesExistAsyncThread started (19600 files)...
+[00:00:05]: Available disk space for save files: 412407 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:06]: [200] Account Failed (6): "E_INVALID_TOKEN"
+[00:00:06]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:00:06]: !!!! Your Server Will Not Start !!!!
+[00:00:06]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:00:06]: No auth token could be found.
+[00:00:06]: Please visit https://accounts.klei.com/account/game/servers?game=DontStarveTogether
+[00:00:06]: to generate server configuration files
+[00:00:06]: 
+[00:00:06]: Alternatively generate a cluster_token you can
+[00:00:06]: open the console from a logged-in game
+[00:00:06]: client with the tilda key (~ / ù) and type:
+[00:00:06]: TheNet:GenerateClusterToken()
+[00:00:06]: This will create 'cluster_token.txt' in
+[00:00:06]: your client settings directory. Copy this
+[00:00:06]: into your cluster settings directory.
+[00:00:06]: [Connect] PendingConnection::Reset(true)
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:33]: Collecting garbage...
+[00:00:33]: lua_gc took 0.05 seconds
+[00:00:33]: ~ShardLuaProxy()
+[00:00:33]: ~cEventLeaderboardProxy()
+[00:00:33]: ~ItemServerLuaProxy()
+[00:00:33]: ~InventoryLuaProxy()
+[00:00:33]: ~NetworkLuaProxy()
+[00:00:33]: ~SimLuaProxy()
+[00:00:33]: lua_close took 0.05 seconds
+[00:00:33]: CurlRequestManager::ClientThread::Main() complete
+[00:00:33]: HttpClient2 discarded 0 callbacks.
+[00:00:33]: Shutting down

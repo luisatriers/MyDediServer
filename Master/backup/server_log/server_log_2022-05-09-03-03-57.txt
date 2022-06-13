@@ -1,0 +1,103 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 32%
+	Available Physical Memory: 11032m/16317m
+	Available Page File: 9885m/18749m
+	Available Virtual Memory: 4013m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 13m
+	Working Set Size: 13m
+	Quota Peak Page Pool Usage: 152k
+	Quota Page Pool Usage: 152k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 2m
+	Peak Page File Usage: 2m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 506376
+[00:00:00]: Current time: Mon May 09 03:03:53 2022
+
+[00:00:00]: Don't Starve Together: 506376 WIN32
+[00:00:00]: Build Date: 7696
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -only_update_server_mods 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (11472)
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.01
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (11092)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is disabled in the firewall.
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is now enabled in the firewall.
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (12060)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    architecture              64 bits
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3600
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Radeon RX 570 Series
+    driverDate                20191204000000.000000-000
+    megsOfRam                 4095
+    refreshRate               59
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    driverVersion             26.20.15002.61
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/portuguese_br.po	
+[00:00:03]:   taskgrouplist:	default	Juntos	
+[00:00:03]:   taskgrouplist:	classic	Clássico	
+[00:00:03]:   taskgrouplist:	cave_default	Subterrâneo	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	A Forja	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	A Garganta	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: FinishDownloadingServerMods Complete!

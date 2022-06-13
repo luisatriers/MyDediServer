@@ -1,0 +1,38 @@
+[00:02:51]: [Join Announcement] mhat2001
+[00:03:00]: [Join Announcement] Petrique
+[00:09:29]: [Skin Announcement] mhat2001 legs_checkered_pleats_grey_slate
+[00:20:24]: [Leave Announcement] Petrique
+[00:24:29]: [Join Announcement] Petrique
+[00:24:58]: [Say] (KU_XmwUs4ho) mhat2001: qual dia era pra mim voltar no final do 80
+[00:25:01]: [Say] (KU_XmwUs4ho) mhat2001: ?
+[00:25:15]: [Say] (KU_jntKIE-z) Petrique: final do 80
+[00:25:24]: [Say] (KU_XmwUs4ho) mhat2001: nm vo sai entao
+[00:25:32]: [Say] (KU_XmwUs4ho) mhat2001: dps eu vopras ruinas lá
+[00:25:36]: [Say] (KU_jntKIE-z) Petrique: Blz
+[00:27:07]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 6 pierogis, e este tem 87% de frescura.
+[00:27:12]: [Say] (KU_jntKIE-z) Petrique: é isso
+[00:27:21]: [Say] (KU_XmwUs4ho) mhat2001: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkK 87% DE FRESCURA
+[00:27:25]: [Say] (KU_jntKIE-z) Petrique: kkkk
+[00:49:11]: [Death Announcement] mhat2001 was killed by Blue Hound. He became a spooky ghost!
+[00:51:22]: [Resurrect Announcement] mhat2001 was resurrected by Life Giving Amulet.
+[01:07:29]: [Roll Announcement] (KU_jntKIE-z) Petrique 46 (1-100)
+[01:07:36]: [Roll Announcement] (KU_XmwUs4ho) mhat2001 21 (1-100)
+[01:30:34]: [Skin Announcement] mhat2001 feet_wx78_ice
+[01:32:48]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 480 gravetos.
+[01:43:58]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 760 grama cortadas.
+[01:45:11]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1033 gravetos.
+[01:45:25]: [Leave Announcement] mhat2001
+[01:46:09]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 5 sedas.
+[01:46:46]: [Join Announcement] mhat2001
+[01:47:20]: [Say] (KU_XmwUs4ho) mhat2001: o registro de agua tava fechdo ai a Isa disse que minha vó deu um cagão e n deu descarga
+[01:59:24]: [Leave Announcement] mhat2001
+[02:07:12]: [Say] (KU_jntKIE-z) Petrique:  Nós temos 360 grama cortadas neste baú.
+[02:09:45]: [Leave Announcement] Petrique
+[02:33:45]: [Join Announcement] Petrique
+[02:34:02]: [Leave Announcement] Petrique
+[02:40:51]: [Join Announcement] mhat2001
+[02:44:11]: [Join Announcement] Petrique
+[02:53:17]: [Leave Announcement] mhat2001
+[02:54:40]: [Join Announcement] mhat2001
+[03:01:01]: [Leave Announcement] Petrique
+[03:04:10]: [Leave Announcement] mhat2001

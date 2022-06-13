@@ -1,0 +1,45 @@
+[00:02:49]: [Join Announcement] Petrique
+[00:02:53]: [Announcement] 󰀏〖 Molhado(a) Rei Caranguejo 〗is Available Now󰀏
+[00:02:53]: [Announcement] 󰀏〖 Molhado(a) Esconderijo de saques 〗is Available Now󰀏
+[00:04:21]: [Join Announcement] Triers
+[00:05:07]: [Join Announcement] mhat2001
+[00:08:23]: [Leave Announcement] mhat2001
+[00:10:01]: [Join Announcement] mhat2001
+[00:11:03]: [Leave Announcement] Petrique
+[00:14:27]: [Join Announcement] Petrique
+[00:20:04]: [Death Announcement] mhat2001 teve a vida tirada por Aranha. Ele se transformou em um fantasma assustador!
+[00:20:15]: [Resurrect Announcement] mhat2001 foi ressuscitado(a) por Amuleto da vida.
+[00:24:18]: [Death Announcement] mhat2001 teve a vida tirada por Cão de caça. Ele se transformou em um fantasma assustador!
+[00:27:05]: [Resurrect Announcement] mhat2001 foi ressuscitado(a) por Relógio de Segunda Chance.
+[00:31:27]: [Skin Announcement] mhat2001 feet_wolfgang_ice
+[00:32:32]: [Skin Announcement] Petrique hand_wathgrithr_yule
+[00:33:00]: [Announcement] 󰀭〖 Leormigo 〗Got Killed By󰀍〖 Triers 〗󰀘
+[00:39:59]: [Say] (KU_HuDeJaXv) Triers:  I have a luxury fan with 100% durability.
+[00:43:37]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[00:44:15]: [Resurrect Announcement] Triers foi ressuscitado(a) por Amuleto da vida.
+[00:45:02]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[00:46:16]: [Say] (KU_HuDeJaXv) Triers: c_rollback(')
+[00:47:54]: [Announcement] 󰀏〖 Rei Caranguejo 〗is Available Now󰀏
+[00:47:54]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[00:53:56]: [Announcement] 󰀏〖 Rei Caranguejo 〗is Available Now󰀏
+[00:53:56]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[01:00:44]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[01:00:44]: [Announcement] 󰀏〖 Rei Caranguejo 〗is Available Now󰀏
+[01:01:41]: [Announcement] 󰀏〖 Rei Caranguejo 〗is Available Now󰀏
+[01:01:41]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[01:02:07]: [Skin Announcement] Triers hand_longgloves_black_scribble
+[01:05:05]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[01:05:05]: [Announcement] 󰀏〖 Rei Caranguejo 〗is Available Now󰀏
+[01:08:18]: [Announcement] 󰀭〖 Rei Caranguejo 〗Got Killed By󰀍〖 Triers 〗󰀘
+[01:09:00]: [Say] (KU_jntKIE-z) Petrique:  (-10�) Eu estou congelando, que frio!!
+[01:15:10]: [Leave Announcement] mhat2001
+[01:18:10]: [Leave Announcement] Triers
+[01:25:57]: [Join Announcement] mhat2001
+[01:34:23]: [Join Announcement] Triers
+[01:35:54]: [Say] (KU_jntKIE-z) Petrique: Tru
+[01:36:05]: [Say] (KU_jntKIE-z) Petrique: Tri* kk
+[01:36:08]: [Say] (KU_HuDeJaXv) Triers: oi
+[01:36:12]: [Say] (KU_jntKIE-z) Petrique: Vo desconectar pra colocar o global
+[01:36:16]: [Say] (KU_HuDeJaXv) Triers: ok!!
+[01:36:28]: [Leave Announcement] Petrique
+[01:36:28]: [Leave Announcement] Triers

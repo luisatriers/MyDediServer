@@ -1,0 +1,1519 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 41%
+	Available Physical Memory: 9603m/16317m
+	Available Page File: 7643m/18749m
+	Available Virtual Memory: 134213509m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 167k
+	Quota Page Pool Usage: 167k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Sat Jun 11 13:29:24 2022
+
+[00:00:00]: Don't Starve Together: 510124 WIN32
+[00:00:00]: Build Date: 1097
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Caves 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4616)
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:3.42
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'Ping Job Thread' (11564)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (8228)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64 bits
+  CPU                       
+    clockSpeed                3600
+    name                      Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    name                      Radeon RX 570 Series
+    driverVersion             26.20.15002.61
+    driverDate                20191204000000.000000-000
+    refreshRate               60
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/portuguese_br.po	
+[00:00:03]:   taskgrouplist:	default	Juntos	
+[00:00:03]:   taskgrouplist:	classic	Clássico	
+[00:00:03]:   taskgrouplist:	cave_default	Subterrâneo	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	A Forja	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	A Garganta	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: SUCCESS: Loaded modoverrides.lua	
+[00:00:03]: modoverrides.lua enabling workshop-1111658995	
+[00:00:03]: modoverrides.lua enabling workshop-1894295075	
+[00:00:03]: modoverrides.lua enabling workshop-1185229307	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-2528541304	
+[00:00:03]: modoverrides.lua enabling workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:03]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1894295075_CLIENT	
+[00:00:03]: Loading mod: workshop-1894295075 (Boss Announcement) Version:1.3.2 (Old API! (mod: nil game: 10) )	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:03]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:03]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-2528541304_CLIENT	
+[00:00:03]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.7-a	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:03]: Loading mod: workshop-1185229307 (Barra de Vida Épica) Version:57	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1111658995_CLIENT	
+[00:00:03]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1894295075	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:03]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:03]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:03]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:03]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:03]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:03]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:03]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:03]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:03]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:03]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-2528541304	
+[00:00:03]: Overriding mod workshop-2528541304's option amount_given2 with value 4	
+[00:00:03]: Overriding mod workshop-2528541304's option planting_floor with value true	
+[00:00:03]: Overriding mod workshop-2528541304's option amount_given with value 4	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:03]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:03]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:03]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:03]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modworldgenmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2528541304/tile_adder.lua	
+[00:00:03]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfsstrings	
+[00:00:04]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfspostinits	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:04]: Mod: workshop-1894295075 (Boss Announcement)	Loading modworldgenmain.lua	
+[00:00:04]: Mod: workshop-1894295075 (Boss Announcement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:04]: Mod: workshop-1894295075 (Boss Announcement)	Loading modmain.lua	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:04]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:04]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:04]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:04]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:04]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering Server mod namespace "workshop-378160973"
+[00:00:05]: Registering Server mod namespace "workshop-1111658995"
+[00:00:05]: Registering Client mod namespace "workshop-1111658995"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: Mod: workshop-1185229307 (Barra de Vida Épica)	Registering prefabs	
+[00:00:07]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:07]: Mod: workshop-1185229307 (Barra de Vida Épica)	    epichealth_proxy	
+[00:00:07]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:07]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	Registering prefabs	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_terraformer	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer_placer	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_webcreep	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	    turf_webcreep	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_ground_webcreep	
+[00:00:07]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:07]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1894295075 (Boss Announcement)	Registering prefabs	
+[00:00:07]: Mod: workshop-1894295075 (Boss Announcement)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (220)
+[00:00:07]: Check for write access: TRUE
+[00:00:07]: FilesExistAsyncThread started (19981 files)...
+[00:00:07]: Check for read access: TRUE
+[00:00:07]: Available disk space for save files: 412297 MB
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:08]: [200] Account Communication Success (6)
+[00:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[00:00:08]: Starting Dedicated Server Game	
+[00:00:08]: Network tick rate: U=15(2), D=0
+[00:00:08]: About to start a server with the following settings:
+[00:00:08]:   Dedicated: true
+[00:00:08]:   Online: true
+[00:00:08]:   Passworded: true
+[00:00:08]:   ServerPort: 10998
+[00:00:08]:   SteamAuthPort: 8767
+[00:00:08]:   SteamMasterServerPort: 27017
+[00:00:08]:   ClanID: false
+[00:00:08]:   ClanOnly: false
+[00:00:08]:   ClanAdmin: false
+[00:00:08]:   LanOnly: false
+[00:00:08]:   FriendsOnly: false
+[00:00:08]:   EnableAutosaver: true
+[00:00:08]:   EncodeUserPath: true
+[00:00:08]:   PVP: false
+[00:00:08]:   MaxPlayers: 6
+[00:00:08]:   GameMode: survival
+[00:00:08]:   OverridenDNS: 
+[00:00:08]:   PauseWhenEmpty: true
+[00:00:08]:   IdleTimeout: 1800s
+[00:00:08]:   VoteEnabled: true
+[00:00:08]:   InternetBroadcasting: true
+[00:00:08]:   Intent: cooperative
+[00:00:08]: [Warning] Could not confirm port 10998 is open in the firewall. 
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-2528541304	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:08]: Online Server Started on port: 10998
+[00:00:09]: SUCCESS: Loaded modoverrides.lua	
+[00:00:09]: Found a level data override file with these contents:	
+[00:00:09]: 	K: 	background_node_range	 V: 	table: 0000000009B75D90	
+[00:00:09]: 		K: 	1	 V: 	0	
+[00:00:09]: 		K: 	2	 V: 	1	
+[00:00:09]: 	K: 	desc	 V: 	Explorem as cavernas... Juntos!	
+[00:00:09]: 	K: 	hideminimap	 V: 	false	
+[00:00:09]: 	K: 	id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	location	 V: 	cave	
+[00:00:09]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:09]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:09]: 	K: 	name	 V: 	As Cavernas	
+[00:00:09]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:00:09]: 	K: 	override_level_string	 V: 	false	
+[00:00:09]: 	K: 	overrides	 V: 	table: 0000000009B769C0	
+[00:00:09]: 		K: 	atriumgate	 V: 	default	
+[00:00:09]: 		K: 	banana	 V: 	default	
+[00:00:09]: 		K: 	bats	 V: 	default	
+[00:00:09]: 		K: 	bats_setting	 V: 	default	
+[00:00:09]: 		K: 	beefaloheat	 V: 	default	
+[00:00:09]: 		K: 	berrybush	 V: 	default	
+[00:00:09]: 		K: 	boons	 V: 	default	
+[00:00:09]: 		K: 	branching	 V: 	default	
+[00:00:09]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	bunnymen	 V: 	default	
+[00:00:09]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:09]: 		K: 	cave_ponds	 V: 	default	
+[00:00:09]: 		K: 	cave_spiders	 V: 	default	
+[00:00:09]: 		K: 	cavelight	 V: 	default	
+[00:00:09]: 		K: 	chess	 V: 	default	
+[00:00:09]: 		K: 	crow_carnival	 V: 	default	
+[00:00:09]: 		K: 	day	 V: 	default	
+[00:00:09]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:09]: 		K: 	dustmoths	 V: 	default	
+[00:00:09]: 		K: 	earthquakes	 V: 	default	
+[00:00:09]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:09]: 		K: 	fern	 V: 	default	
+[00:00:09]: 		K: 	fissure	 V: 	default	
+[00:00:09]: 		K: 	flint	 V: 	default	
+[00:00:09]: 		K: 	flower_cave	 V: 	default	
+[00:00:09]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:00:09]: 		K: 	fruitfly	 V: 	default	
+[00:00:09]: 		K: 	grass	 V: 	default	
+[00:00:09]: 		K: 	grassgekkos	 V: 	default	
+[00:00:09]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:09]: 		K: 	krampus	 V: 	default	
+[00:00:09]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:00:09]: 		K: 	lichen	 V: 	default	
+[00:00:09]: 		K: 	liefs	 V: 	default	
+[00:00:09]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:00:09]: 		K: 	lightfliers	 V: 	default	
+[00:00:09]: 		K: 	loop	 V: 	default	
+[00:00:09]: 		K: 	marshbush	 V: 	default	
+[00:00:09]: 		K: 	merms	 V: 	default	
+[00:00:09]: 		K: 	molebats	 V: 	default	
+[00:00:09]: 		K: 	moles_setting	 V: 	default	
+[00:00:09]: 		K: 	monkey	 V: 	default	
+[00:00:09]: 		K: 	monkey_setting	 V: 	default	
+[00:00:09]: 		K: 	mushgnome	 V: 	default	
+[00:00:09]: 		K: 	mushroom	 V: 	default	
+[00:00:09]: 		K: 	mushtree	 V: 	default	
+[00:00:09]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:00:09]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:00:09]: 		K: 	nightmarecreatures	 V: 	default	
+[00:00:09]: 		K: 	pigs_setting	 V: 	default	
+[00:00:09]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:09]: 		K: 	reeds	 V: 	default	
+[00:00:09]: 		K: 	regrowth	 V: 	default	
+[00:00:09]: 		K: 	roads	 V: 	never	
+[00:00:09]: 		K: 	rock	 V: 	default	
+[00:00:09]: 		K: 	rocky	 V: 	default	
+[00:00:09]: 		K: 	rocky_setting	 V: 	default	
+[00:00:09]: 		K: 	sapling	 V: 	default	
+[00:00:09]: 		K: 	season_start	 V: 	default	
+[00:00:09]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:09]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:09]: 		K: 	slurper	 V: 	default	
+[00:00:09]: 		K: 	slurtles	 V: 	default	
+[00:00:09]: 		K: 	slurtles_setting	 V: 	default	
+[00:00:09]: 		K: 	snurtles	 V: 	default	
+[00:00:09]: 		K: 	spawnprotection	 V: 	default	
+[00:00:09]: 		K: 	specialevent	 V: 	default	
+[00:00:09]: 		K: 	spider_dropper	 V: 	default	
+[00:00:09]: 		K: 	spider_hider	 V: 	default	
+[00:00:09]: 		K: 	spider_spitter	 V: 	default	
+[00:00:09]: 		K: 	spider_warriors	 V: 	default	
+[00:00:09]: 		K: 	spiderqueen	 V: 	default	
+[00:00:09]: 		K: 	spiders	 V: 	default	
+[00:00:09]: 		K: 	spiders_setting	 V: 	default	
+[00:00:09]: 		K: 	start_location	 V: 	caves	
+[00:00:09]: 		K: 	task_set	 V: 	cave_default	
+[00:00:09]: 		K: 	tentacles	 V: 	default	
+[00:00:09]: 		K: 	toadstool	 V: 	default	
+[00:00:09]: 		K: 	touchstone	 V: 	default	
+[00:00:09]: 		K: 	trees	 V: 	default	
+[00:00:09]: 		K: 	weather	 V: 	default	
+[00:00:09]: 		K: 	winters_feast	 V: 	enabled	
+[00:00:09]: 		K: 	world_size	 V: 	default	
+[00:00:09]: 		K: 	wormattacks	 V: 	default	
+[00:00:09]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:00:09]: 		K: 	wormlights	 V: 	default	
+[00:00:09]: 		K: 	worms	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:09]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:09]: 	K: 	required_prefabs	 V: 	table: 0000000009B76B50	
+[00:00:09]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:09]: 	K: 	settings_desc	 V: 	Explorem as cavernas... Juntos!	
+[00:00:09]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	settings_name	 V: 	As Cavernas	
+[00:00:09]: 	K: 	substitutes	 V: 	table: 0000000009B75E80	
+[00:00:09]: 	K: 	version	 V: 	4	
+[00:00:09]: 	K: 	worldgen_desc	 V: 	Explorem as cavernas... Juntos!	
+[00:00:09]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:00:09]: 	K: 	worldgen_name	 V: 	As Cavernas	
+[00:00:09]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:09]: Overwriting savedata with level data file.	
+[00:00:09]: Not applying world gen overrides.	
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.08 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~cEventLeaderboardProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: FilesExistAsyncThread aborted.
+[00:00:09]: ... FilesExistAsyncThread complete
+[00:00:09]: lua_close took 0.08 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: AppVersion::GetArchitecture() x64
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:09]: Translator:LoadPOFile - loading file: scripts/languages/portuguese_br.po	
+[00:00:11]:   taskgrouplist:	default	Juntos	
+[00:00:11]:   taskgrouplist:	classic	Clássico	
+[00:00:11]:   taskgrouplist:	cave_default	Subterrâneo	
+[00:00:11]:   taskgrouplist:	lavaarena_taskset	A Forja	
+[00:00:11]:   taskgrouplist:	quagmire_taskset	A Garganta	
+[00:00:11]: Running main.lua
+	
+[00:00:11]: loaded modindex	
+[00:00:11]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:11]: SUCCESS: Loaded modoverrides.lua	
+[00:00:11]: modoverrides.lua enabling workshop-1111658995	
+[00:00:11]: modoverrides.lua enabling workshop-1894295075	
+[00:00:11]: modoverrides.lua enabling workshop-1185229307	
+[00:00:11]: modoverrides.lua enabling workshop-378160973	
+[00:00:11]: modoverrides.lua enabling workshop-2528541304	
+[00:00:11]: modoverrides.lua enabling workshop-466732225	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1894295075	
+[00:00:11]: Loading mod: workshop-1894295075 (Boss Announcement) Version:1.3.2 (Old API! (mod: nil game: 10) )	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:11]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2528541304	
+[00:00:11]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.7-a	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1111658995	
+[00:00:11]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:11]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:11]: Loading mod: workshop-1185229307 (Barra de Vida Épica) Version:57	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-1894295075	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:11]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:11]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:11]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:11]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:11]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:11]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:11]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:11]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:11]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:11]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:11]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:11]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:11]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:11]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:11]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:11]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:11]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-2528541304	
+[00:00:11]: Overriding mod workshop-2528541304's option amount_given2 with value 4	
+[00:00:11]: Overriding mod workshop-2528541304's option planting_floor with value true	
+[00:00:11]: Overriding mod workshop-2528541304's option amount_given with value 4	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-1185229307 (Barra de Vida Épica)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:11]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:11]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:11]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modworldgenmain.lua	
+[00:00:11]: modimport: ../mods/workshop-2528541304/tile_adder.lua	
+[00:00:11]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modmain.lua	
+[00:00:11]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfsstrings	
+[00:00:11]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfspostinits	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-1894295075 (Boss Announcement)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-1894295075 (Boss Announcement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-1894295075 (Boss Announcement)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:12]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:12]: LOADING LUA SUCCESS
+[00:00:12]: Registering Server mod namespace "workshop-378160973"
+[00:00:12]: Registering Server mod namespace "workshop-1111658995"
+[00:00:12]: Registering Client mod namespace "workshop-1111658995"
+[00:00:12]: PlayerDeaths could not load morgue	
+[00:00:12]: PlayerHistory could not load player_history	
+[00:00:12]: ServerPreferences could not load server_preferences	
+[00:00:12]: bloom_enabled	true	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:12]: Loading world: session/244834188104A82F/0000000234	
+[00:00:12]: Save file is at version 5.1	
+[00:00:12]: Klump load on boot started.	
+[00:00:12]: Klump files loaded: 	0	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:14]: Mod: workshop-1185229307 (Barra de Vida Épica)	Registering prefabs	
+[00:00:14]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:14]: Mod: workshop-1185229307 (Barra de Vida Épica)	    epichealth_proxy	
+[00:00:14]: Mod: workshop-1185229307 (Barra de Vida Épica)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:14]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	Registering prefabs	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_terraformer	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer_placer	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_webcreep	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	    turf_webcreep	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_ground_webcreep	
+[00:00:14]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:14]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-1894295075 (Boss Announcement)	Registering prefabs	
+[00:00:14]: Mod: workshop-1894295075 (Boss Announcement)	  Registering default mod prefab	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:14]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:14]: 	LOAD BE	
+[00:00:22]: 	LOAD BE: done	
+[00:00:22]: Begin Session: 244834188104A82F
+[00:00:22]: saving to server_temp/server_save	
+[00:00:22]: Adding extra World Event: winters_feast	
+[00:00:22]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-2528541304/images/minimapimages/kyno_terraformer.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:22]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:22]: Loading 18 new character(s)	
+[00:00:23]: Total 18 character(s) loaded	
+[00:00:27]: Loading Nav Grid	
+[00:00:27]: World generated on build 506376 with save version: 5.1, using seed: 1651935727	
+[00:00:27]: setting 	summerlength	15	
+[00:00:27]: setting 	cavemoonphase	half	
+[00:00:27]: setting 	iscavefullmoon	false	
+[00:00:27]: setting 	isnightmaredawn	false	
+[00:00:27]: setting 	elapseddaysinseason	9	
+[00:00:27]: setting 	isfullmoon	false	
+[00:00:27]: setting 	moisture	2019.9067382813	
+[00:00:27]: setting 	cavephase	day	
+[00:00:27]: setting 	iscavewaxingmoon	true	
+[00:00:27]: setting 	isnightmarewild	false	
+[00:00:27]: setting 	nightmaretimeinphase	0.75562050434739	
+[00:00:27]: setting 	precipitationrate	0	
+[00:00:27]: setting 	iswet	false	
+[00:00:27]: setting 	isnewmoon	false	
+[00:00:27]: setting 	precipitation	none	
+[00:00:27]: setting 	israining	false	
+[00:00:27]: setting 	isnightmarewarn	false	
+[00:00:27]: setting 	iswinter	false	
+[00:00:27]: setting 	season	summer	
+[00:00:27]: setting 	remainingdaysinseason	6	
+[00:00:27]: setting 	winterlength	15	
+[00:00:27]: setting 	iscaveday	true	
+[00:00:27]: setting 	moistureceil	10680.918945313	
+[00:00:27]: setting 	isday	false	
+[00:00:27]: setting 	springlength	20	
+[00:00:27]: setting 	wetness	0	
+[00:00:27]: setting 	iscavedusk	false	
+[00:00:27]: setting 	isalterawake	false	
+[00:00:27]: setting 	isnightmarecalm	true	
+[00:00:27]: setting 	isnight	true	
+[00:00:27]: setting 	isdusk	false	
+[00:00:27]: setting 	isspring	false	
+[00:00:27]: setting 	isautumn	false	
+[00:00:27]: setting 	issnowing	false	
+[00:00:27]: setting 	iswaxingmoon	true	
+[00:00:27]: setting 	phase	night	
+[00:00:27]: setting 	snowlevel	0	
+[00:00:27]: setting 	issnowcovered	false	
+[00:00:27]: setting 	autumnlength	20	
+[00:00:27]: setting 	pop	0.04353141229908	
+[00:00:27]: setting 	nightmaretime	272.02338156506	
+[00:00:27]: setting 	seasonprogress	0.6	
+[00:00:27]: setting 	moonphase	new	
+[00:00:27]: setting 	nightmarephase	calm	
+[00:00:27]: setting 	cycles	204	
+[00:00:27]: setting 	timeinphase	0.53504495331735	
+[00:00:27]: setting 	iscavenight	false	
+[00:00:27]: setting 	iscavenewmoon	false	
+[00:00:27]: setting 	issummer	true	
+[00:00:27]: setting 	temperature	59.47293301608	
+[00:00:27]: setting 	time	0.36784340540568	
+[00:00:27]: [Shard] Secondary shard is waiting for LUA...
+[00:00:32]: SWITCHING 	true	
+[00:00:32]: ARCHIVE ON	
+[00:00:32]: 1 NUMBER OF WAY POINTS!	2	
+[00:00:32]: 2 NUMBER OF WAY POINTS!	1	
+[00:00:32]: Reconstructing topology	
+[00:00:32]: 	...Sorting points	
+[00:00:32]: 	...Sorting edges	
+[00:00:32]: 	...Connecting nodes	
+[00:00:32]: 	...Validating connections	
+[00:00:32]: 	...Housekeeping	
+[00:00:32]: 	...Done!	
+[00:00:32]: Hound attack in 2(1299.8561366955) days.	
+[00:00:32]: 1 uploads added to server. From server_temp
+[00:00:32]: About to start a shard with these settings:
+[00:00:32]:   ShardName: Caves
+[00:00:32]:   ShardID: 3758438912
+[00:00:32]:   ShardRole: SECONDARY
+[00:00:32]:   MasterHost: 127.0.0.1
+[00:00:32]:   MasterBind: (null)
+[00:00:32]:   MasterPort: 10888
+[00:00:32]: [Shard] Connecting to master...
+[00:00:32]: Telling Client our new session identifier: 244834188104A82F
+[00:00:32]: Check for write access: TRUE
+[00:00:32]: Check for read access: TRUE
+[00:00:32]: Available disk space for save files: 412299 MB
+[00:00:32]: ModIndex: Load sequence finished successfully.	
+[00:00:32]: Reset() returning
+[00:00:32]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:33]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:33]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:33]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:33]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:33]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:33]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:33]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:33]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:33]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:33]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:33]: Hound attack in 2(1299.8561366955) days.	
+[00:00:37]: About to start a shard with these settings:
+[00:00:37]:   ShardName: Caves
+[00:00:37]:   ShardID: 3758438912
+[00:00:37]:   ShardRole: SECONDARY
+[00:00:37]:   MasterHost: 127.0.0.1
+[00:00:37]:   MasterBind: (null)
+[00:00:37]:   MasterPort: 10888
+[00:00:37]: [Shard] Connecting to master...
+[00:00:37]: [Shard] Sending secondary shard information to master...
+[00:00:38]: Received MasterInfoPacket row 32d416605d460174a3306fb864b6f216 region US
+[00:00:38]: Registering secondary shard in US lobby
+[00:00:39]: [Shard] secondary shard is now ready!
+[00:00:39]: World 1 is now connected	
+[00:00:39]: Validating portal[2] <-> 1[2] (active)	
+[00:00:39]: Validating portal[9] <-> 1[9] (active)	
+[00:00:39]: Validating portal[8] <-> 1[8] (active)	
+[00:00:39]: Validating portal[4] <-> 1[4] (active)	
+[00:00:39]: Validating portal[7] <-> 1[7] (active)	
+[00:00:39]: Validating portal[6] <-> 1[6] (active)	
+[00:00:39]: Validating portal[3] <-> 1[3] (active)	
+[00:00:39]: Validating portal[5] <-> 1[5] (active)	
+[00:00:39]: Validating portal[10] <-> 1[10] (active)	
+[00:00:39]: Validating portal[1] <-> 1[1] (active)	
+[00:00:40]: [Shard] secondary shard LUA is now ready!
+[00:00:40]: Sim paused
+[00:01:37]: Sim unpaused
+[00:03:49]: [Shard] #1 -> session/244834188104A82F/A7K71QFDGINI/0000000235
+[00:03:49]: [Shard] Received migration #1 data for (KU_XmwUs4ho)
+[00:03:51]: [P2P] Session request for '76561198986608383'
+[00:03:55]: [P2P] Create session: 250.240.76.161|1 '76561198986608383'
+[00:03:55]: [P2P] Received from 250.240.76.161|1 '76561198986608383'
+[00:03:55]: [P2P] Sent to 250.240.76.161|1 '76561198986608383'
+[00:03:56]: New incoming connection 250.240.76.161|1 <2138997594381965255>
+[00:03:56]: Client connected from 250.240.76.161|1 <2138997594381965255>
+[00:03:56]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^xo/JxAFr8qRa+E2CaHbowFxp5VbgEiVeB6E8s0hs7FA= for <2138997594381965255>
+[00:03:57]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[00:03:57]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[00:03:57]: [Steam] Authenticated client '76561198986608383'
+[00:03:57]: [Shard] Completed incoming migration #1 for (KU_XmwUs4ho)
+[00:04:05]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000235
+[00:04:05]: Player will spawn close to portal #2	
+[00:04:05]: Spawning player at: [Load] (197.82, 0.00, 314.74)	
+[00:04:10]: Activating portal[2] to 1	
+[00:04:11]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000235
+[00:04:11]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[00:04:11]: [Shard] #2 <- session/244834188104A82F/A7K71QFDGINI/0000000235
+[00:04:11]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:04:11]: [Steam] SendUserDisconnect for '76561198986608383'
+[00:05:38]: Registering secondary shard in US lobby
+[00:06:41]: Hound attack in 2(1294.0894697281) days.	
+[00:06:42]: Available disk space for save files: 412296 MB
+[00:06:42]: Serializing world: session/244834188104A82F/0000000235
+[00:06:42]: Truncating to snapshot #235...
+[00:06:42]:  - session/244834188104A82F/0000000229
+[00:06:42]:    1 file(s) removed
+[00:07:53]: [Shard] #3 -> session/244834188104A82F/A7LN3NA4HRTT/0000000236
+[00:07:53]: [Shard] Received migration #3 data for (KU_jntKIE-z)
+[00:07:58]: [P2P] Session request for '76561198430621761'
+[00:08:02]: [P2P] Create session: 250.240.76.162|1 '76561198430621761'
+[00:08:02]: [P2P] Received from 250.240.76.162|1 '76561198430621761'
+[00:08:02]: [P2P] Sent to 250.240.76.162|1 '76561198430621761'
+[00:08:02]: New incoming connection 250.240.76.162|1 <5147341223138862831>
+[00:08:02]: Client connected from 250.240.76.162|1 <5147341223138862831>
+[00:08:02]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^2qMWrOaAomhN1tYqJMLB81U3w62lD/4ZzUCwRs6p6Ik= for <5147341223138862831>
+[00:08:03]: Client authenticated: (KU_jntKIE-z) Petrique
+[00:08:03]: [Steam] Authenticated host '76561198430621761'
+[00:08:03]: [Shard] Completed incoming migration #3 for (KU_jntKIE-z)
+[00:08:14]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000236
+[00:08:14]: Player will spawn close to portal #2	
+[00:08:14]: Spawning player at: [Load] (195.34, 0.00, 318.17)	
+[00:10:02]: Activating portal[2] to 1	
+[00:10:03]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000236
+[00:10:03]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[00:10:03]: [Shard] #4 <- session/244834188104A82F/A7LN3NA4HRTT/0000000236
+[00:10:03]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:10:03]: [Steam] SendUserDisconnect for '76561198430621761'
+[00:10:38]: Registering secondary shard in US lobby
+[00:14:12]: [P2P] Session timed out for '76561198986608383'
+[00:14:12]: [P2P] Remove session: 250.240.76.161|1 '76561198986608383'
+[00:14:42]: Hound attack in 2(1185.2227973836) days.	
+[00:14:43]: Available disk space for save files: 412288 MB
+[00:14:43]: Serializing world: session/244834188104A82F/0000000236
+[00:14:43]: Truncating to snapshot #236...
+[00:14:43]:  - session/244834188104A82F/0000000230
+[00:14:43]:    1 file(s) removed
+[00:15:38]: Registering secondary shard in US lobby
+[00:19:14]: [Shard] #5 -> session/244834188104A82F/A7LN3NA4HRTT/0000000237
+[00:19:14]: [Shard] Received migration #5 data for (KU_jntKIE-z)
+[00:19:23]: [P2P] Received from 250.240.76.162|1 '76561198430621761'
+[00:19:23]: [P2P] Sent to 250.240.76.162|1 '76561198430621761'
+[00:19:23]: New incoming connection 250.240.76.162|1 <759830743030266144>
+[00:19:23]: Client connected from 250.240.76.162|1 <759830743030266144>
+[00:19:23]: ValidateGameSessionToken pgs-usc^KU_jntKIE-z^DontStarveTogether^gZxBcRJgHPdiKiWn5ktIFsEzWCBSaBulvWDe4gN51sA= for <759830743030266144>
+[00:19:24]: Client authenticated: (KU_jntKIE-z) Petrique
+[00:19:24]: [Steam] Authenticated host '76561198430621761'
+[00:19:24]: [Shard] Completed incoming migration #5 for (KU_jntKIE-z)
+[00:19:35]: Resuming user: session/244834188104A82F/A7LN3NA4HRTT/0000000237
+[00:19:35]: Player will spawn close to portal #1	
+[00:19:35]: Spawning player at: [Load] (429.89, 0.00, -246.41)	
+[00:20:38]: Registering secondary shard in US lobby
+[00:20:42]: Activating portal[1] to 1	
+[00:20:42]: Serializing user: session/244834188104A82F/A7LN3NA4HRTT/0000000237
+[00:20:42]: [Shard] Migration request: (KU_jntKIE-z) to [SHDMASTER](1)
+[00:20:42]: [Shard] #6 <- session/244834188104A82F/A7LN3NA4HRTT/0000000237
+[00:20:42]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:20:42]: [Steam] SendUserDisconnect for '76561198430621761'
+[00:21:59]: [Shard] #7 -> session/244834188104A82F/A7I7GDK4SI3P/0000000237
+[00:21:59]: [Shard] Received migration #7 data for (KU_HuDeJaXv)
+[00:22:02]: [P2P] Session request for '76561198142791875'
+[00:22:05]: [P2P] Create session: 250.240.76.163|1 '76561198142791875'
+[00:22:05]: [P2P] Received from 250.240.76.163|1 '76561198142791875'
+[00:22:05]: [P2P] Sent to 250.240.76.163|1 '76561198142791875'
+[00:22:06]: New incoming connection 250.240.76.163|1 <6609722897104066549>
+[00:22:06]: Client connected from 250.240.76.163|1 <6609722897104066549>
+[00:22:06]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^Z1//DJcLPUDSsdQBdbkKXXdpuYORlQIRlPtm+gina0I= for <6609722897104066549>
+[00:22:07]: Client authenticated: (KU_HuDeJaXv) Triers
+[00:22:07]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[00:22:07]: [Steam] Authenticated client '76561198142791875'
+[00:22:07]: [Shard] Completed incoming migration #7 for (KU_HuDeJaXv)
+[00:22:16]: Resuming user: session/244834188104A82F/A7I7GDK4SI3P/0000000237
+[00:22:16]: Player will spawn close to portal #2	
+[00:22:16]: Spawning player at: [Load] (195.60, 0.00, 313.18)	
+[00:22:42]: Hound attack in 2(1091.5561258318) days.	
+[00:22:43]: Available disk space for save files: 412286 MB
+[00:22:44]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000237
+[00:22:44]: Serializing world: session/244834188104A82F/0000000237
+[00:25:38]: Registering secondary shard in US lobby
+[00:28:31]: Activating portal[2] to 1	
+[00:28:31]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000238
+[00:28:31]: [Shard] Migration request: (KU_HuDeJaXv) to [SHDMASTER](1)
+[00:28:31]: [Shard] #8 <- session/244834188104A82F/A7I7GDK4SI3P/0000000238
+[00:28:31]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:28:31]: [Steam] SendUserDisconnect for '76561198142791875'
+[00:30:08]: [200] Account Communication Success (6)
+[00:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[00:30:38]: Registering secondary shard in US lobby
+[00:30:43]: Hound attack in 1(743.42277434191) days.	
+[00:30:44]: Available disk space for save files: 412280 MB
+[00:30:45]: Serializing world: session/244834188104A82F/0000000238
+[00:30:45]: Truncating to snapshot #238...
+[00:30:45]:  - session/244834188104A82F/0000000231
+[00:30:45]:  - session/244834188104A82F/0000000232
+[00:30:45]:    2 file(s) removed
+[00:30:46]: [P2P] Session timed out for '76561198430621761'
+[00:30:46]: [P2P] Remove session: 250.240.76.162|1 '76561198430621761'
+[00:35:38]: Registering secondary shard in US lobby
+[00:38:33]: [P2P] Session timed out for '76561198142791875'
+[00:38:33]: [P2P] Remove session: 250.240.76.163|1 '76561198142791875'
+[00:38:44]: Hound attack in 1(743.42277434191) days.	
+[00:38:45]: Available disk space for save files: 412275 MB
+[00:38:46]: Serializing world: session/244834188104A82F/0000000239
+[00:38:46]: Truncating to snapshot #239...
+[00:38:46]:  - session/244834188104A82F/0000000233
+[00:38:46]:    1 file(s) removed
+[00:40:38]: Registering secondary shard in US lobby
+[00:45:38]: Registering secondary shard in US lobby
+[00:46:45]: Hound attack in 1(743.42277434191) days.	
+[00:46:46]: Available disk space for save files: 412270 MB
+[00:46:46]: Serializing world: session/244834188104A82F/0000000240
+[00:46:46]: Truncating to snapshot #240...
+[00:46:46]:  - session/244834188104A82F/0000000234
+[00:46:46]:  - session/244834188104A82F/A7K71QFDGINI/0000000204
+[00:46:46]:    2 file(s) removed
+[00:50:38]: Registering secondary shard in US lobby
+[00:54:46]: Hound attack in 1(743.42277434191) days.	
+[00:54:47]: Available disk space for save files: 412267 MB
+[00:54:47]: Serializing world: session/244834188104A82F/0000000241
+[00:54:47]: Truncating to snapshot #241...
+[00:54:47]:  - session/244834188104A82F/0000000235
+[00:54:47]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000206
+[00:54:47]:    2 file(s) removed
+[00:55:38]: Registering secondary shard in US lobby
+[01:00:08]: [200] Account Communication Success (6)
+[01:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[01:00:38]: Registering secondary shard in US lobby
+[01:02:47]: Hound attack in 1(743.42277434191) days.	
+[01:02:47]: Available disk space for save files: 412263 MB
+[01:02:48]: Serializing world: session/244834188104A82F/0000000242
+[01:02:48]: Truncating to snapshot #242...
+[01:02:48]:  - session/244834188104A82F/0000000236
+[01:02:48]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000187
+[01:02:48]:  - session/244834188104A82F/A7LN3NA4HRTT/0000000236
+[01:02:48]:    3 file(s) removed
+[01:05:38]: Registering secondary shard in US lobby
+[01:10:38]: Registering secondary shard in US lobby
+[01:10:47]: Hound attack in 1(743.42277434191) days.	
+[01:10:48]: Available disk space for save files: 412257 MB
+[01:10:49]: Serializing world: session/244834188104A82F/0000000243
+[01:10:49]: Truncating to snapshot #243...
+[01:10:49]:  - session/244834188104A82F/0000000237
+[01:10:49]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000237
+[01:10:49]:    2 file(s) removed
+[01:15:38]: Registering secondary shard in US lobby
+[01:18:48]: Hound attack in 1(743.42277434191) days.	
+[01:18:49]: Available disk space for save files: 412246 MB
+[01:18:50]: Serializing world: session/244834188104A82F/0000000244
+[01:18:50]: Truncating to snapshot #244...
+[01:18:50]:  - session/244834188104A82F/0000000238
+[01:18:50]:    1 file(s) removed
+[01:20:38]: Registering secondary shard in US lobby
+[01:25:38]: Registering secondary shard in US lobby
+[01:26:49]: Hound attack in 1(743.42277434191) days.	
+[01:26:50]: Available disk space for save files: 412239 MB
+[01:26:51]: Serializing world: session/244834188104A82F/0000000245
+[01:26:51]: Truncating to snapshot #245...
+[01:26:51]:  - session/244834188104A82F/0000000239
+[01:26:51]:    1 file(s) removed
+[01:30:08]: [200] Account Communication Success (6)
+[01:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[01:30:38]: Registering secondary shard in US lobby
+[01:34:50]: Hound attack in 1(743.42277434191) days.	
+[01:34:51]: Available disk space for save files: 412230 MB
+[01:34:51]: Serializing world: session/244834188104A82F/0000000246
+[01:34:51]: Truncating to snapshot #246...
+[01:34:51]:  - session/244834188104A82F/0000000240
+[01:34:51]:    1 file(s) removed
+[01:35:38]: Registering secondary shard in US lobby
+[01:37:22]: Server Paused	
+[01:37:23]: Server Unpaused	
+[01:37:27]: Server Paused	
+[01:37:27]: Server Unpaused	
+[01:37:28]: Server Paused	
+[01:37:29]: Server Unpaused	
+[01:40:38]: Registering secondary shard in US lobby
+[01:42:53]: Hound attack in 1(743.42277434191) days.	
+[01:42:54]: Available disk space for save files: 412224 MB
+[01:42:54]: Serializing world: session/244834188104A82F/0000000247
+[01:42:55]: Truncating to snapshot #247...
+[01:42:55]:  - session/244834188104A82F/0000000241
+[01:42:55]:    1 file(s) removed
+[01:45:38]: Registering secondary shard in US lobby
+[01:50:38]: Registering secondary shard in US lobby
+[01:50:54]: Hound attack in 1(743.42277434191) days.	
+[01:50:55]: Available disk space for save files: 412218 MB
+[01:50:55]: Serializing world: session/244834188104A82F/0000000248
+[01:50:55]: Truncating to snapshot #248...
+[01:50:55]:  - session/244834188104A82F/0000000242
+[01:50:55]:    1 file(s) removed
+[01:55:38]: Registering secondary shard in US lobby
+[01:57:14]: Server Paused	
+[01:57:15]: Server Unpaused	
+[01:58:55]: Hound attack in 1(743.42277434191) days.	
+[01:58:56]: Available disk space for save files: 412213 MB
+[01:58:57]: Serializing world: session/244834188104A82F/0000000249
+[01:58:57]: Truncating to snapshot #249...
+[01:58:57]:  - session/244834188104A82F/0000000243
+[01:58:57]:    1 file(s) removed
+[02:00:08]: [200] Account Communication Success (6)
+[02:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[02:00:09]: Server Paused	
+[02:00:10]: Server Unpaused	
+[02:00:38]: Registering secondary shard in US lobby
+[02:05:38]: Registering secondary shard in US lobby
+[02:06:57]: Hound attack in 1(743.42277434191) days.	
+[02:06:58]: Available disk space for save files: 412209 MB
+[02:06:58]: Serializing world: session/244834188104A82F/0000000250
+[02:06:58]: Truncating to snapshot #250...
+[02:06:58]:  - session/244834188104A82F/0000000244
+[02:06:58]:    1 file(s) removed
+[02:10:38]: Registering secondary shard in US lobby
+[02:14:58]: Hound attack in 1(743.42277434191) days.	
+[02:14:59]: Available disk space for save files: 412203 MB
+[02:14:59]: Serializing world: session/244834188104A82F/0000000251
+[02:14:59]: Truncating to snapshot #251...
+[02:14:59]:  - session/244834188104A82F/0000000245
+[02:14:59]:    1 file(s) removed
+[02:15:38]: Registering secondary shard in US lobby
+[02:20:38]: Registering secondary shard in US lobby
+[02:22:58]: Hound attack in 1(743.42277434191) days.	
+[02:22:59]: Available disk space for save files: 412201 MB
+[02:23:00]: Serializing world: session/244834188104A82F/0000000252
+[02:23:00]: Truncating to snapshot #252...
+[02:23:00]:  - session/244834188104A82F/0000000246
+[02:23:00]:    1 file(s) removed
+[02:25:38]: Registering secondary shard in US lobby
+[02:30:08]: [200] Account Communication Success (6)
+[02:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[02:30:38]: Registering secondary shard in US lobby
+[02:30:59]: Hound attack in 1(743.42277434191) days.	
+[02:31:00]: Available disk space for save files: 412198 MB
+[02:31:01]: Serializing world: session/244834188104A82F/0000000253
+[02:31:01]: Truncating to snapshot #253...
+[02:31:01]:  - session/244834188104A82F/0000000247
+[02:31:01]:    1 file(s) removed
+[02:32:14]: Server Paused	
+[02:32:15]: Server Unpaused	
+[02:35:38]: Registering secondary shard in US lobby
+[02:39:01]: Hound attack in 1(743.42277434191) days.	
+[02:39:02]: Available disk space for save files: 412190 MB
+[02:39:03]: Serializing world: session/244834188104A82F/0000000254
+[02:39:03]: Truncating to snapshot #254...
+[02:39:03]:  - session/244834188104A82F/0000000248
+[02:39:03]:    1 file(s) removed
+[02:40:38]: Registering secondary shard in US lobby
+[02:45:38]: Registering secondary shard in US lobby
+[02:47:02]: Hound attack in 1(743.42277434191) days.	
+[02:47:03]: Available disk space for save files: 412181 MB
+[02:47:03]: Serializing world: session/244834188104A82F/0000000255
+[02:47:03]: Truncating to snapshot #255...
+[02:47:03]:  - session/244834188104A82F/0000000249
+[02:47:03]:    1 file(s) removed
+[02:50:38]: Registering secondary shard in US lobby
+[02:55:03]: Hound attack in 1(743.42277434191) days.	
+[02:55:04]: Available disk space for save files: 412178 MB
+[02:55:04]: Serializing world: session/244834188104A82F/0000000256
+[02:55:04]: Truncating to snapshot #256...
+[02:55:04]:  - session/244834188104A82F/0000000250
+[02:55:04]:    1 file(s) removed
+[02:55:38]: Registering secondary shard in US lobby
+[03:00:08]: [200] Account Communication Success (6)
+[03:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[03:00:38]: Registering secondary shard in US lobby
+[03:03:03]: Hound attack in 1(743.42277434191) days.	
+[03:03:04]: Available disk space for save files: 412172 MB
+[03:03:05]: Serializing world: session/244834188104A82F/0000000257
+[03:03:05]: Truncating to snapshot #257...
+[03:03:05]:  - session/244834188104A82F/0000000251
+[03:03:05]:    1 file(s) removed
+[03:05:38]: Registering secondary shard in US lobby
+[03:10:38]: Registering secondary shard in US lobby
+[03:11:04]: Hound attack in 1(743.42277434191) days.	
+[03:11:05]: Available disk space for save files: 412167 MB
+[03:11:06]: Serializing world: session/244834188104A82F/0000000258
+[03:11:06]: Truncating to snapshot #258...
+[03:11:06]:  - session/244834188104A82F/0000000252
+[03:11:06]:    1 file(s) removed
+[03:15:38]: Registering secondary shard in US lobby
+[03:19:05]: Hound attack in 1(743.42277434191) days.	
+[03:19:06]: Available disk space for save files: 412144 MB
+[03:19:07]: Serializing world: session/244834188104A82F/0000000259
+[03:19:07]: Truncating to snapshot #259...
+[03:19:07]:  - session/244834188104A82F/0000000253
+[03:19:07]:    1 file(s) removed
+[03:20:38]: Registering secondary shard in US lobby
+[03:25:38]: Registering secondary shard in US lobby
+[03:27:06]: Hound attack in 1(743.42277434191) days.	
+[03:27:07]: Available disk space for save files: 412127 MB
+[03:27:08]: Serializing world: session/244834188104A82F/0000000260
+[03:27:08]: Truncating to snapshot #260...
+[03:27:08]:  - session/244834188104A82F/0000000254
+[03:27:08]:    1 file(s) removed
+[03:30:08]: [200] Account Communication Success (6)
+[03:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[03:30:38]: Registering secondary shard in US lobby
+[03:35:07]: Hound attack in 1(743.42277434191) days.	
+[03:35:08]: Available disk space for save files: 412121 MB
+[03:35:08]: Serializing world: session/244834188104A82F/0000000261
+[03:35:08]: Truncating to snapshot #261...
+[03:35:08]:  - session/244834188104A82F/0000000255
+[03:35:08]:    1 file(s) removed
+[03:35:38]: Registering secondary shard in US lobby
+[03:40:38]: Registering secondary shard in US lobby
+[03:43:08]: Hound attack in 1(743.42277434191) days.	
+[03:43:09]: Available disk space for save files: 412120 MB
+[03:43:09]: Serializing world: session/244834188104A82F/0000000262
+[03:43:09]: Truncating to snapshot #262...
+[03:43:09]:  - session/244834188104A82F/0000000256
+[03:43:09]:    1 file(s) removed
+[03:45:38]: Registering secondary shard in US lobby
+[03:50:38]: Registering secondary shard in US lobby
+[03:51:08]: Hound attack in 1(743.42277434191) days.	
+[03:51:09]: Available disk space for save files: 412116 MB
+[03:51:10]: Serializing world: session/244834188104A82F/0000000263
+[03:51:10]: Truncating to snapshot #263...
+[03:51:10]:  - session/244834188104A82F/0000000257
+[03:51:10]:    1 file(s) removed
+[03:55:38]: Registering secondary shard in US lobby
+[03:59:09]: Hound attack in 1(743.42277434191) days.	
+[03:59:10]: Available disk space for save files: 412100 MB
+[03:59:11]: Serializing world: session/244834188104A82F/0000000264
+[03:59:11]: Truncating to snapshot #264...
+[03:59:11]:  - session/244834188104A82F/0000000258
+[03:59:11]:    1 file(s) removed
+[04:00:08]: [200] Account Communication Success (6)
+[04:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[04:00:38]: Registering secondary shard in US lobby
+[04:05:38]: Registering secondary shard in US lobby
+[04:07:10]: Hound attack in 1(743.42277434191) days.	
+[04:07:11]: Available disk space for save files: 412092 MB
+[04:07:11]: Serializing world: session/244834188104A82F/0000000265
+[04:07:11]: Truncating to snapshot #265...
+[04:07:11]:  - session/244834188104A82F/0000000259
+[04:07:11]:    1 file(s) removed
+[04:10:38]: Registering secondary shard in US lobby
+[04:15:11]: Hound attack in 1(743.42277434191) days.	
+[04:15:12]: Available disk space for save files: 412086 MB
+[04:15:13]: Serializing world: session/244834188104A82F/0000000266
+[04:15:13]: Truncating to snapshot #266...
+[04:15:13]:  - session/244834188104A82F/0000000260
+[04:15:13]:    1 file(s) removed
+[04:15:38]: Registering secondary shard in US lobby
+[04:20:38]: Registering secondary shard in US lobby
+[04:23:12]: Hound attack in 1(743.42277434191) days.	
+[04:23:13]: Available disk space for save files: 412079 MB
+[04:23:13]: Serializing world: session/244834188104A82F/0000000267
+[04:23:13]: Truncating to snapshot #267...
+[04:23:13]:  - session/244834188104A82F/0000000261
+[04:23:13]:    1 file(s) removed
+[04:25:38]: Registering secondary shard in US lobby
+[04:30:08]: [200] Account Communication Success (6)
+[04:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[04:30:38]: Registering secondary shard in US lobby
+[04:31:13]: Hound attack in 1(743.42277434191) days.	
+[04:31:14]: Available disk space for save files: 412105 MB
+[04:31:15]: Serializing world: session/244834188104A82F/0000000268
+[04:31:15]: Truncating to snapshot #268...
+[04:31:15]:  - session/244834188104A82F/0000000262
+[04:31:15]:    1 file(s) removed
+[04:35:38]: Registering secondary shard in US lobby
+[04:39:15]: Hound attack in 1(743.42277434191) days.	
+[04:39:16]: Available disk space for save files: 412069 MB
+[04:39:17]: Serializing world: session/244834188104A82F/0000000269
+[04:39:17]: Truncating to snapshot #269...
+[04:39:17]:  - session/244834188104A82F/0000000263
+[04:39:17]:    1 file(s) removed
+[04:40:38]: Registering secondary shard in US lobby
+[04:45:38]: Registering secondary shard in US lobby
+[04:47:16]: Hound attack in 1(743.42277434191) days.	
+[04:47:17]: Available disk space for save files: 412061 MB
+[04:47:17]: Serializing world: session/244834188104A82F/0000000270
+[04:47:17]: Truncating to snapshot #270...
+[04:47:17]:  - session/244834188104A82F/0000000264
+[04:47:18]:    1 file(s) removed
+[04:50:38]: Registering secondary shard in US lobby
+[04:55:17]: Hound attack in 1(743.42277434191) days.	
+[04:55:18]: Available disk space for save files: 412057 MB
+[04:55:18]: Serializing world: session/244834188104A82F/0000000271
+[04:55:18]: Truncating to snapshot #271...
+[04:55:18]:  - session/244834188104A82F/0000000265
+[04:55:18]:    1 file(s) removed
+[04:55:38]: Registering secondary shard in US lobby
+[05:00:08]: [200] Account Communication Success (6)
+[05:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[05:00:38]: Registering secondary shard in US lobby
+[05:03:18]: Hound attack in 1(743.42277434191) days.	
+[05:03:19]: Available disk space for save files: 412051 MB
+[05:03:19]: Serializing world: session/244834188104A82F/0000000272
+[05:03:19]: Truncating to snapshot #272...
+[05:03:19]:  - session/244834188104A82F/0000000266
+[05:03:19]:    1 file(s) removed
+[05:05:38]: Registering secondary shard in US lobby
+[05:10:38]: Registering secondary shard in US lobby
+[05:11:19]: Hound attack in 1(743.42277434191) days.	
+[05:11:20]: Available disk space for save files: 412048 MB
+[05:11:20]: Serializing world: session/244834188104A82F/0000000273
+[05:11:20]: Truncating to snapshot #273...
+[05:11:20]:  - session/244834188104A82F/0000000267
+[05:11:20]:    1 file(s) removed
+[05:15:38]: Registering secondary shard in US lobby
+[05:19:20]: Hound attack in 1(743.42277434191) days.	
+[05:19:21]: Available disk space for save files: 412041 MB
+[05:19:21]: Serializing world: session/244834188104A82F/0000000274
+[05:19:21]: Truncating to snapshot #274...
+[05:19:21]:  - session/244834188104A82F/0000000268
+[05:19:21]:    1 file(s) removed
+[05:20:38]: Registering secondary shard in US lobby
+[05:25:38]: Registering secondary shard in US lobby
+[05:27:21]: Hound attack in 1(743.42277434191) days.	
+[05:27:22]: Available disk space for save files: 412036 MB
+[05:27:22]: Serializing world: session/244834188104A82F/0000000275
+[05:27:22]: Truncating to snapshot #275...
+[05:27:22]:  - session/244834188104A82F/0000000269
+[05:27:22]:    1 file(s) removed
+[05:30:08]: [200] Account Communication Success (6)
+[05:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[05:30:38]: Registering secondary shard in US lobby
+[05:35:22]: Hound attack in 1(743.42277434191) days.	
+[05:35:23]: Available disk space for save files: 412031 MB
+[05:35:23]: Serializing world: session/244834188104A82F/0000000276
+[05:35:23]: Truncating to snapshot #276...
+[05:35:23]:  - session/244834188104A82F/0000000270
+[05:35:23]:    1 file(s) removed
+[05:35:38]: Registering secondary shard in US lobby
+[05:40:38]: Registering secondary shard in US lobby
+[05:43:23]: Hound attack in 1(743.42277434191) days.	
+[05:43:24]: Available disk space for save files: 412026 MB
+[05:43:24]: Serializing world: session/244834188104A82F/0000000277
+[05:43:24]: Truncating to snapshot #277...
+[05:43:24]:  - session/244834188104A82F/0000000271
+[05:43:24]:    1 file(s) removed
+[05:45:38]: Registering secondary shard in US lobby
+[05:50:38]: Registering secondary shard in US lobby
+[05:51:26]: Hound attack in 1(743.42277434191) days.	
+[05:51:27]: Available disk space for save files: 412033 MB
+[05:51:28]: Serializing world: session/244834188104A82F/0000000278
+[05:51:28]: Truncating to snapshot #278...
+[05:51:28]:  - session/244834188104A82F/0000000272
+[05:51:28]:    1 file(s) removed
+[05:55:38]: Registering secondary shard in US lobby
+[05:59:27]: Hound attack in 1(743.42277434191) days.	
+[05:59:29]: Available disk space for save files: 412021 MB
+[05:59:29]: Serializing world: session/244834188104A82F/0000000279
+[05:59:29]: Truncating to snapshot #279...
+[05:59:29]:  - session/244834188104A82F/0000000273
+[05:59:29]:    1 file(s) removed
+[06:00:08]: [200] Account Communication Success (6)
+[06:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[06:00:38]: Registering secondary shard in US lobby
+[06:05:38]: Registering secondary shard in US lobby
+[06:07:29]: Hound attack in 1(743.42277434191) days.	
+[06:07:30]: Available disk space for save files: 412028 MB
+[06:07:30]: Serializing world: session/244834188104A82F/0000000280
+[06:07:30]: Truncating to snapshot #280...
+[06:07:30]:  - session/244834188104A82F/0000000274
+[06:07:30]:    1 file(s) removed
+[06:10:38]: Registering secondary shard in US lobby
+[06:15:29]: Hound attack in 1(743.42277434191) days.	
+[06:15:30]: Available disk space for save files: 412025 MB
+[06:15:31]: Serializing world: session/244834188104A82F/0000000281
+[06:15:31]: Truncating to snapshot #281...
+[06:15:31]:  - session/244834188104A82F/0000000275
+[06:15:31]:    1 file(s) removed
+[06:15:38]: Registering secondary shard in US lobby
+[06:20:38]: Registering secondary shard in US lobby
+[06:23:30]: Hound attack in 1(743.42277434191) days.	
+[06:23:31]: Available disk space for save files: 412018 MB
+[06:23:31]: Serializing world: session/244834188104A82F/0000000282
+[06:23:32]: Truncating to snapshot #282...
+[06:23:32]:  - session/244834188104A82F/0000000276
+[06:23:32]:    1 file(s) removed
+[06:25:38]: Registering secondary shard in US lobby
+[06:27:54]: Server Paused	
+[06:28:43]: Server Unpaused	
+[06:30:08]: [200] Account Communication Success (6)
+[06:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[06:30:38]: Registering secondary shard in US lobby
+[06:32:39]: Hound attack in 1(743.42277434191) days.	
+[06:32:40]: Available disk space for save files: 412011 MB
+[06:32:41]: Serializing world: session/244834188104A82F/0000000283
+[06:32:41]: Truncating to snapshot #283...
+[06:32:41]:  - session/244834188104A82F/0000000277
+[06:32:41]:    1 file(s) removed
+[06:35:38]: Registering secondary shard in US lobby
+[06:40:38]: Registering secondary shard in US lobby
+[06:40:40]: Hound attack in 1(743.42277434191) days.	
+[06:40:41]: Available disk space for save files: 412003 MB
+[06:40:42]: Serializing world: session/244834188104A82F/0000000284
+[06:40:42]: Truncating to snapshot #284...
+[06:40:42]:  - session/244834188104A82F/0000000278
+[06:40:42]:    1 file(s) removed
+[06:45:38]: Registering secondary shard in US lobby
+[06:48:41]: Hound attack in 1(743.42277434191) days.	
+[06:48:42]: Available disk space for save files: 412001 MB
+[06:48:42]: Serializing world: session/244834188104A82F/0000000285
+[06:48:42]: Truncating to snapshot #285...
+[06:48:42]:  - session/244834188104A82F/0000000279
+[06:48:42]:    1 file(s) removed
+[06:50:38]: Registering secondary shard in US lobby
+[06:55:38]: Registering secondary shard in US lobby
+[06:56:42]: Hound attack in 1(743.42277434191) days.	
+[06:56:43]: Available disk space for save files: 411994 MB
+[06:56:43]: Serializing world: session/244834188104A82F/0000000286
+[06:56:43]: Truncating to snapshot #286...
+[06:56:43]:  - session/244834188104A82F/0000000280
+[06:56:43]:    1 file(s) removed
+[07:00:08]: [200] Account Communication Success (6)
+[07:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[07:00:38]: Registering secondary shard in US lobby
+[07:04:43]: Hound attack in 1(743.42277434191) days.	
+[07:04:44]: Available disk space for save files: 411988 MB
+[07:04:44]: Serializing world: session/244834188104A82F/0000000287
+[07:04:44]: Truncating to snapshot #287...
+[07:04:44]:  - session/244834188104A82F/0000000281
+[07:04:44]:    1 file(s) removed
+[07:05:38]: Registering secondary shard in US lobby
+[07:10:38]: Registering secondary shard in US lobby
+[07:12:56]: Hound attack in 1(743.42277434191) days.	
+[07:12:57]: Available disk space for save files: 411981 MB
+[07:12:58]: Serializing world: session/244834188104A82F/0000000288
+[07:12:58]: Truncating to snapshot #288...
+[07:12:58]:  - session/244834188104A82F/0000000282
+[07:12:58]:    1 file(s) removed
+[07:15:38]: Registering secondary shard in US lobby
+[07:20:38]: Registering secondary shard in US lobby
+[07:20:57]: Hound attack in 1(743.42277434191) days.	
+[07:20:58]: Available disk space for save files: 411978 MB
+[07:20:59]: Serializing world: session/244834188104A82F/0000000289
+[07:20:59]: Truncating to snapshot #289...
+[07:20:59]:  - session/244834188104A82F/0000000283
+[07:20:59]:    1 file(s) removed
+[07:25:38]: Registering secondary shard in US lobby
+[07:27:42]: [Shard] #9 -> session/244834188104A82F/A7K71QFDGINI/0000000290
+[07:27:43]: [Shard] Received migration #9 data for (KU_XmwUs4ho)
+[07:27:52]: [P2P] Create session: 250.240.76.164|1 '76561198986608383'
+[07:27:52]: [P2P] Received from 250.240.76.164|1 '76561198986608383'
+[07:27:52]: [P2P] Sent to 250.240.76.164|1 '76561198986608383'
+[07:27:53]: New incoming connection 250.240.76.164|1 <3439140990747450753>
+[07:27:53]: Client connected from 250.240.76.164|1 <3439140990747450753>
+[07:27:53]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^IPqykck2mexKjIMzHNIA1ZIYHX7sntVzjwYJXo/Dq+Q= for <3439140990747450753>
+[07:27:54]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[07:27:54]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[07:27:54]: [Steam] Authenticated client '76561198986608383'
+[07:27:54]: [Shard] Completed incoming migration #9 for (KU_XmwUs4ho)
+[07:28:02]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000290
+[07:28:02]: Player will spawn close to portal #3	
+[07:28:02]: Spawning player at: [Load] (-94.82, 0.00, -247.56)	
+[07:28:58]: Hound attack in 1(687.62277143171) days.	
+[07:28:59]: Available disk space for save files: 411974 MB
+[07:28:59]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000290
+[07:28:59]: Serializing world: session/244834188104A82F/0000000290
+[07:30:08]: [200] Account Communication Success (6)
+[07:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[07:30:38]: Registering secondary shard in US lobby
+[07:35:38]: Registering secondary shard in US lobby
+[07:36:59]: Hound attack in 0(207.32274638211) days.	
+[07:37:00]: Available disk space for save files: 411963 MB
+[07:37:00]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000291
+[07:37:00]: Serializing world: session/244834188104A82F/0000000291
+[07:40:38]: Registering secondary shard in US lobby
+[07:44:59]: Hound attack in 10(5008.7485981544) days.	
+[07:45:00]: Available disk space for save files: 411962 MB
+[07:45:01]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000292
+[07:45:01]: Serializing world: session/244834188104A82F/0000000292
+[07:45:38]: Registering secondary shard in US lobby
+[07:50:38]: Registering secondary shard in US lobby
+[07:51:48]: Activating portal[9] to 1	
+[07:51:49]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000293
+[07:51:49]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[07:51:49]: [Shard] #10 <- session/244834188104A82F/A7K71QFDGINI/0000000293
+[07:51:49]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:51:49]: [Steam] SendUserDisconnect for '76561198986608383'
+[07:53:00]: Hound attack in 9(4599.581910148) days.	
+[07:53:01]: Available disk space for save files: 411953 MB
+[07:53:02]: Serializing world: session/244834188104A82F/0000000293
+[07:53:02]: Truncating to snapshot #293...
+[07:53:02]:  - session/244834188104A82F/0000000284
+[07:53:02]:  - session/244834188104A82F/0000000285
+[07:53:02]:  - session/244834188104A82F/0000000286
+[07:53:02]:  - session/244834188104A82F/0000000287
+[07:53:02]:    4 file(s) removed
+[07:55:38]: Registering secondary shard in US lobby
+[08:00:08]: [200] Account Communication Success (6)
+[08:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[08:00:38]: Registering secondary shard in US lobby
+[08:01:01]: Hound attack in 9(4599.581910148) days.	
+[08:01:02]: Available disk space for save files: 411957 MB
+[08:01:03]: Serializing world: session/244834188104A82F/0000000294
+[08:01:03]: Truncating to snapshot #294...
+[08:01:03]:  - session/244834188104A82F/0000000288
+[08:01:03]:    1 file(s) removed
+[08:01:51]: [P2P] Session timed out for '76561198986608383'
+[08:01:51]: [P2P] Remove session: 250.240.76.164|1 '76561198986608383'
+[08:03:11]: [Shard] #11 -> session/244834188104A82F/A7K71QFDGINI/0000000295
+[08:03:11]: [Shard] Received migration #11 data for (KU_XmwUs4ho)
+[08:03:17]: [P2P] Create session: 250.240.76.165|1 '76561198986608383'
+[08:03:17]: [P2P] Received from 250.240.76.165|1 '76561198986608383'
+[08:03:17]: [P2P] Sent to 250.240.76.165|1 '76561198986608383'
+[08:03:18]: New incoming connection 250.240.76.165|1 <7559902166651366158>
+[08:03:18]: Client connected from 250.240.76.165|1 <7559902166651366158>
+[08:03:18]: ValidateGameSessionToken pgs-usc^KU_XmwUs4ho^DontStarveTogether^Qw2+9giKhGtYlObmDuyaxUGQ9uoF7Yza7QrVSO2OeS0= for <7559902166651366158>
+[08:03:19]: Client authenticated: (KU_XmwUs4ho) mhat2001
+[08:03:19]: [Steam] SendUserConnectAndAuthenticate for '76561198986608383'
+[08:03:20]: [Steam] Authenticated client '76561198986608383'
+[08:03:20]: [Shard] Completed incoming migration #11 for (KU_XmwUs4ho)
+[08:03:27]: Resuming user: session/244834188104A82F/A7K71QFDGINI/0000000295
+[08:03:27]: Player will spawn close to portal #3	
+[08:03:27]: Spawning player at: [Load] (-94.66, 0.00, -246.62)	
+[08:03:31]: Activating portal[3] to 1	
+[08:03:31]: Serializing user: session/244834188104A82F/A7K71QFDGINI/0000000295
+[08:03:31]: [Shard] Migration request: (KU_XmwUs4ho) to [SHDMASTER](1)
+[08:03:31]: [Shard] #12 <- session/244834188104A82F/A7K71QFDGINI/0000000295
+[08:03:32]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:03:32]: [Steam] SendUserDisconnect for '76561198986608383'
+[08:05:38]: Registering secondary shard in US lobby
+[08:09:03]: Hound attack in 9(4595.5819099394) days.	
+[08:09:04]: Available disk space for save files: 411950 MB
+[08:09:04]: Serializing world: session/244834188104A82F/0000000295
+[08:09:04]: Truncating to snapshot #295...
+[08:09:04]:  - session/244834188104A82F/0000000289
+[08:09:04]:  - session/244834188104A82F/A7K71QFDGINI/0000000235
+[08:09:04]:    2 file(s) removed
+[08:10:38]: Registering secondary shard in US lobby
+[08:13:33]: [P2P] Session timed out for '76561198986608383'
+[08:13:33]: [P2P] Remove session: 250.240.76.165|1 '76561198986608383'
+[08:15:38]: Registering secondary shard in US lobby
+[08:17:04]: Hound attack in 9(4595.5819099394) days.	
+[08:17:05]: Available disk space for save files: 411947 MB
+[08:17:05]: Serializing world: session/244834188104A82F/0000000296
+[08:17:05]: Truncating to snapshot #296...
+[08:17:05]:  - session/244834188104A82F/0000000290
+[08:17:05]:  - session/244834188104A82F/A7K71QFDGINI/0000000290
+[08:17:05]:    2 file(s) removed
+[08:20:38]: Registering secondary shard in US lobby
+[08:25:05]: Hound attack in 9(4595.5819099394) days.	
+[08:25:06]: Available disk space for save files: 411940 MB
+[08:25:06]: Serializing world: session/244834188104A82F/0000000297
+[08:25:06]: Truncating to snapshot #297...
+[08:25:06]:  - session/244834188104A82F/0000000291
+[08:25:06]:  - session/244834188104A82F/A7K71QFDGINI/0000000291
+[08:25:06]:    2 file(s) removed
+[08:25:38]: Registering secondary shard in US lobby
+[08:30:08]: [200] Account Communication Success (6)
+[08:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[08:30:38]: Registering secondary shard in US lobby
+[08:33:06]: Hound attack in 9(4595.5819099394) days.	
+[08:33:07]: Available disk space for save files: 411936 MB
+[08:33:07]: Serializing world: session/244834188104A82F/0000000298
+[08:33:07]: Truncating to snapshot #298...
+[08:33:07]:  - session/244834188104A82F/0000000292
+[08:33:07]:  - session/244834188104A82F/A7K71QFDGINI/0000000292
+[08:33:07]:    2 file(s) removed
+[08:34:25]: [Shard] #13 -> session/244834188104A82F/A7I7GDK4SI3P/0000000299
+[08:34:25]: [Shard] Received migration #13 data for (KU_HuDeJaXv)
+[08:34:33]: [P2P] Create session: 250.240.76.166|1 '76561198142791875'
+[08:34:33]: [P2P] Received from 250.240.76.166|1 '76561198142791875'
+[08:34:33]: [P2P] Sent to 250.240.76.166|1 '76561198142791875'
+[08:34:34]: New incoming connection 250.240.76.166|1 <4345189420379447101>
+[08:34:34]: Client connected from 250.240.76.166|1 <4345189420379447101>
+[08:34:34]: ValidateGameSessionToken pgs-usc^KU_HuDeJaXv^DontStarveTogether^z/kWfVBAgMvXQJpFZSMQxcsQJhTz8/B7agaAZsLKROA= for <4345189420379447101>
+[08:34:35]: Client authenticated: (KU_HuDeJaXv) Triers
+[08:34:35]: [Steam] SendUserConnectAndAuthenticate for '76561198142791875'
+[08:34:35]: [Steam] Authenticated client '76561198142791875'
+[08:34:35]: [Shard] Completed incoming migration #13 for (KU_HuDeJaXv)
+[08:34:46]: Resuming user: session/244834188104A82F/A7I7GDK4SI3P/0000000299
+[08:34:46]: Player will spawn near (-647.84, 0.00, 468.08)	
+[08:34:46]: Spawning player at: [Load] (-649.51, 0.00, 466.96)	
+[08:34:58]: Serializing user: session/244834188104A82F/A7I7GDK4SI3P/0000000299
+[08:34:58]: [Shard] Migration request: (KU_HuDeJaXv) to [SHDMASTER](1)
+[08:34:58]: [Shard] #14 <- session/244834188104A82F/A7I7GDK4SI3P/0000000299
+[08:34:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:34:58]: [Steam] SendUserDisconnect for '76561198142791875'
+[08:35:38]: Registering secondary shard in US lobby
+[08:40:38]: Registering secondary shard in US lobby
+[08:41:06]: Hound attack in 9(4582.9819092823) days.	
+[08:41:07]: Available disk space for save files: 411927 MB
+[08:41:08]: Serializing world: session/244834188104A82F/0000000299
+[08:41:08]: Truncating to snapshot #299...
+[08:41:08]:  - session/244834188104A82F/0000000293
+[08:41:08]:    1 file(s) removed
+[08:44:59]: [P2P] Session timed out for '76561198142791875'
+[08:44:59]: [P2P] Remove session: 250.240.76.166|1 '76561198142791875'
+[08:45:38]: Registering secondary shard in US lobby
+[08:49:07]: Hound attack in 9(4582.9819092823) days.	
+[08:49:08]: Available disk space for save files: 411920 MB
+[08:49:09]: Serializing world: session/244834188104A82F/0000000300
+[08:49:09]: Truncating to snapshot #300...
+[08:49:09]:  - session/244834188104A82F/0000000294
+[08:49:09]:  - session/244834188104A82F/A7K71QFDGINI/0000000293
+[08:49:09]:    2 file(s) removed
+[08:50:39]: Registering secondary shard in US lobby
+[08:55:39]: Registering secondary shard in US lobby
+[08:57:08]: Hound attack in 9(4582.9819092823) days.	
+[08:57:09]: Available disk space for save files: 411916 MB
+[08:57:10]: Serializing world: session/244834188104A82F/0000000301
+[08:57:10]: Truncating to snapshot #301...
+[08:57:10]:  - session/244834188104A82F/0000000295
+[08:57:10]:    1 file(s) removed
+[09:00:08]: [200] Account Communication Success (6)
+[09:00:08]: Received (KU_jntKIE-z) from TokenPurpose
+[09:00:39]: Registering secondary shard in US lobby
+[09:04:04]: Server Paused	
+[09:04:05]: Server Unpaused	
+[09:04:11]: Server Paused	
+[09:05:39]: Registering secondary shard in US lobby
+[09:07:06]: Server Unpaused	
+[09:07:15]: Available disk space for save files: 411906 MB
+[09:07:15]: Serializing world: session/244834188104A82F/0000000302
+[09:07:15]: Truncating to snapshot #302...
+[09:07:15]:  - session/244834188104A82F/0000000296
+[09:07:15]:    1 file(s) removed
+[09:08:06]: Hound attack in 9(4582.9819092823) days.	
+[09:08:07]: Available disk space for save files: 411901 MB
+[09:08:08]: Serializing world: session/244834188104A82F/0000000303
+[09:08:08]: Truncating to snapshot #303...
+[09:08:08]:  - session/244834188104A82F/0000000297
+[09:08:08]:    1 file(s) removed
+[09:09:21]: Server Paused	
+[09:10:31]: Server Unpaused	
+[09:10:39]: Registering secondary shard in US lobby
+[09:12:31]: Server Paused	
+[09:14:40]: Server Unpaused	
+[09:15:39]: Registering secondary shard in US lobby
+[09:19:26]: Hound attack in 9(4582.9819092823) days.	
+[09:19:27]: Available disk space for save files: 411894 MB
+[09:19:28]: Serializing world: session/244834188104A82F/0000000304
+[09:19:28]: Truncating to snapshot #304...
+[09:19:28]:  - session/244834188104A82F/0000000298
+[09:19:28]:  - session/244834188104A82F/A7I7GDK4SI3P/0000000238
+[09:19:28]:    2 file(s) removed
+[09:20:39]: Registering secondary shard in US lobby
+[09:25:39]: Registering secondary shard in US lobby
+[09:27:27]: Hound attack in 9(4582.9819092823) days.	
+[09:27:28]: Available disk space for save files: 411886 MB
+[09:27:29]: Serializing world: session/244834188104A82F/0000000305
+[09:27:29]: Truncating to snapshot #305...
+[09:27:29]:  - session/244834188104A82F/0000000299
+[09:27:29]:    1 file(s) removed
+[09:30:08]: [200] Account Communication Success (6)
+[09:30:08]: Received (KU_jntKIE-z) from TokenPurpose
+[09:30:39]: Registering secondary shard in US lobby
+[09:35:28]: Hound attack in 9(4582.9819092823) days.	
+[09:35:29]: Available disk space for save files: 411882 MB
+[09:35:30]: Serializing world: session/244834188104A82F/0000000306
+[09:35:30]: Truncating to snapshot #306...
+[09:35:30]:  - session/244834188104A82F/0000000300
+[09:35:30]:    1 file(s) removed
+[09:35:39]: Registering secondary shard in US lobby
+[09:39:15]: Sim paused
+[09:39:41]: Available disk space for save files: 411649 MB
+[09:39:41]: Serializing world: session/244834188104A82F/0000000307
+[09:39:41]: Truncating to snapshot #307...
+[09:39:41]:  - session/244834188104A82F/0000000301
+[09:39:41]:    1 file(s) removed
+[09:39:41]: [Shard] Stopping shard mode
+[09:39:42]: [Steam] SendUserDisconnect for ''
+[09:39:42]: Collecting garbage...
+[09:39:42]: lua_gc took 0.21 seconds
+[09:39:42]: ~ShardLuaProxy()
+[09:39:42]: ~cEventLeaderboardProxy()
+[09:39:42]: ~ItemServerLuaProxy()
+[09:39:42]: ~InventoryLuaProxy()
+[09:39:42]: ~NetworkLuaProxy()
+[09:39:42]: ~SimLuaProxy()
+[09:39:42]: lua_close took 0.30 seconds
+[09:39:43]: CurlRequestManager::ClientThread::Main() complete
+[09:39:43]: HttpClient2 discarded 0 callbacks.
+[09:39:43]: Shutting down

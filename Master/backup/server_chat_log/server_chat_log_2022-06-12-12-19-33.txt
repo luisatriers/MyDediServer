@@ -1,0 +1,147 @@
+[00:01:32]: [Join Announcement] Petrique
+[00:01:36]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[00:01:55]: [Join Announcement] mhat2001
+[00:01:55]: [Join Announcement] Triers
+[00:02:18]: [Say] (KU_HuDeJaXv) Triers: eh, ta funcionando n
+[00:02:20]: [Say] (KU_HuDeJaXv) Triers: kkkkkkkkkkkkkkk
+[00:02:23]: [Say] (KU_jntKIE-z) Petrique: sauhdsaiygdsadasygasdgyuasdgyuiasdygudsagyu
+[00:02:28]: [Say] (KU_HuDeJaXv) Triers: de boa
+[00:02:30]: [Say] (KU_HuDeJaXv) Triers: dps vemos isso
+[00:02:33]: [Say] (KU_XmwUs4ho) mhat2001: o q importa é o global
+[00:02:35]: [Say] (KU_jntKIE-z) Petrique: Blz
+[00:02:35]: [Say] (KU_HuDeJaXv) Triers: s
+[00:02:38]: [Say] (KU_jntKIE-z) Petrique: s
+[00:04:16]: [Say] (KU_jntKIE-z) Petrique: Faz uns 3 astral pro Matheus
+[00:04:26]: [Say] (KU_HuDeJaXv) Triers: n precisa
+[00:04:35]: [Say] (KU_HuDeJaXv) Triers: é só martelar quando tiver no ultimo uso
+[00:07:38]: [Skin Announcement] Petrique webber_beard_gladiator
+[00:11:22]: [Skin Announcement] mhat2001 feet_wes_clown
+[00:11:38]: [Say] (KU_jntKIE-z) Petrique: Faz o astral ae
+[00:25:39]: [Say] (KU_HuDeJaXv) Triers: entao, bora ativar o evento e farmar krampus sack
+[00:25:52]: [Say] (KU_HuDeJaXv) Triers: ficar matando o glommer todas as noites xD
+[00:26:18]: [Say] (KU_jntKIE-z) Petrique: S
+[00:27:32]: [Say] (KU_jntKIE-z) Petrique: To de veia t
+[00:27:39]: [Say] (KU_jntKIE-z) Petrique: tb
+[00:27:48]: [Say] (KU_jntKIE-z) Petrique: Da de aproveitar
+[00:30:24]: [Leave Announcement] mhat2001
+[00:32:52]: [Say] (KU_jntKIE-z) Petrique:  Nós temos 3 fragmento lunars neste baú.
+[00:33:02]: [Say] (KU_jntKIE-z) Petrique: Tem mais?
+[00:33:08]: [Say] (KU_HuDeJaXv) Triers: cabou
+[00:33:47]: [Say] (KU_jntKIE-z) Petrique: F
+[00:34:31]: [Join Announcement] mhat2001
+[00:34:53]: [Leave Announcement] mhat2001
+[00:35:15]: [Leave Announcement] Triers
+[00:35:30]: [Join Announcement] mhat2001
+[00:38:43]: [Join Announcement] Triers
+[00:43:28]: [Say] (KU_jntKIE-z) Petrique: N volta mais n kk?
+[00:56:35]: [Leave Announcement] Petrique
+[00:56:48]: [Skin Announcement] Triers body_tshirt_red_higgsbury
+[00:58:16]: [Join Announcement] Petrique
+[01:10:21]: [Skin Announcement] Petrique body_tshirt_white_smoke
+[01:29:43]: [Skin Announcement] mhat2001 legs_pants_basic_brown_sepia
+[01:38:07]: [Leave Announcement] Petrique
+[01:40:38]: [Join Announcement] Petrique
+[01:49:09]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[01:52:46]: [Say] (KU_HuDeJaXv) Triers:  I have a deerclops eyeball.
+[02:13:08]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[02:13:23]: [Resurrect Announcement] Triers foi ressuscitado(a) por Amuleto da vida.
+[02:13:29]: [Announcement] 󰀏〖 Rei Caranguejo 〗is Available Now󰀏
+[02:19:10]: [Leave Announcement] mhat2001
+[02:21:03]: [Skin Announcement] Triers legs_wormwood_cactus
+[02:26:17]: [Join Announcement] mhat2001
+[02:28:43]: [Skin Announcement] Petrique legs_skirt_basic_blue_peacock
+[02:28:43]: [Leave Announcement] mhat2001
+[02:30:45]: [Join Announcement] mhat2001
+[02:47:04]: [Say] (KU_HuDeJaXv) Triers:  I have a krampus sack.
+[02:55:13]: [Say] (KU_HuDeJaXv) Triers:  I have 6 glommer's wings.
+[02:55:32]: [Roll Announcement] (KU_jntKIE-z) Petrique 34 (1-100)
+[02:55:44]: [Roll Announcement] (KU_XmwUs4ho) mhat2001 21 (1-100)
+[02:57:45]: [Skin Announcement] mhat2001 feet_wickerbottom_gladiator
+[03:03:52]: [Roll Announcement] (KU_XmwUs4ho) mhat2001 48 (1-100)
+[03:08:36]: [Death Announcement] mhat2001 teve a vida tirada por Fogo. Ele se transformou em um fantasma assustador!
+[03:09:57]: [Resurrect Announcement] mhat2001 foi ressuscitado(a) por Relógio de Segunda Chance.
+[03:16:24]: [Announcement] 1
+[03:25:15]: [Leave Announcement] Triers
+[03:50:27]: [Leave Announcement] mhat2001
+[03:51:02]: [Join Announcement] mhat2001
+[03:53:13]: [Skin Announcement] Petrique body_cardigan_black_jet
+[03:55:37]: [Leave Announcement] Petrique
+[03:57:29]: [Join Announcement] Triers
+[03:58:14]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[04:01:36]: [Resurrect Announcement] Triers foi ressuscitado(a) por Relógio de Segunda Chance.
+[04:05:02]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[04:06:28]: [Resurrect Announcement] Triers foi ressuscitado(a) por Relógio de Segunda Chance.
+[04:09:55]: [Join Announcement] Petrique
+[04:13:59]: [Say] (KU_HuDeJaXv) Triers:  I have 32 volcano turfs.
+[04:14:39]: [Join Announcement] RubbyLux
+[04:17:56]: [Skin Announcement] mhat2001 feet_wendy_creepy
+[04:24:28]: [Leave Announcement] Petrique
+[04:27:27]: [Join Announcement] Petrique
+[04:28:56]: [Skin Announcement] RubbyLux legs_tweed_knickerbocker_grey_steel
+[04:30:24]: [Announcement] 24
+[04:30:55]: [Say] (KU_HuDeJaXv) Triers: loot
+[04:31:13]: [Say] (KU_HuDeJaXv) Triers: klaus_sack
+[04:32:09]: [Announcement] 0
+[04:32:26]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[04:37:31]: [Leave Announcement] Petrique
+[04:39:01]: [Join Announcement] Petrique
+[04:50:54]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[05:13:31]: [Leave Announcement] mhat2001
+[05:21:07]: [Skin Announcement] Petrique feet_sandals_blue_catcoon
+[05:22:05]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[05:27:27]: [Resurrect Announcement] Triers foi ressuscitado(a) por Relógio de Segunda Chance.
+[05:27:44]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 2 chapéu escocês, e este tem 100% de durabilidade.
+[05:27:45]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 presa de morsa.
+[05:48:08]: [Join Announcement] mhat2001
+[06:03:53]: [Skin Announcement] mhat2001 legs_walter_detective
+[06:09:43]: [Skin Announcement] RubbyLux backpack_camping_orange_carrot
+[06:10:39]: [Say] (KU_HuDeJaXv) Triers:  I have 13 glommer's wings.
+[06:12:45]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 27 pierogis, e este tem 85% de frescura.
+[06:17:49]: [Announcement] 󰀭〖 Molhado(a) Abelha Rainha 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[06:22:41]: [Announcement] 󰀭〖 Libélula 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[06:25:43]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 23 escamas.
+[06:33:42]: [Death Announcement] RubbyLux teve a vida tirada por Bicorrível. Ela se transformou em uma fantasma assustadora!
+[06:34:15]: [Announcement] 󰀭〖 Molhado(a) Ansa 〗Got Killed By󰀍〖 Triers 〗󰀘
+[06:34:38]: [Resurrect Announcement] RubbyLux foi ressuscitado(a) por Amuleto da vida.
+[07:03:57]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[07:04:01]: [Resurrect Announcement] Triers foi ressuscitado(a) por Relógio de Segunda Chance.
+[07:10:57]: [Skin Announcement] mhat2001 wilson_beard_shadow
+[07:11:20]: [Say] (KU_HuDeJaXv) Triers:  I have 4 volt goat horns.
+[07:22:38]: [Say] (KU_HuDeJaXv) Triers: matheus
+[07:22:41]: [Say] (KU_HuDeJaXv) Triers: pega a bag
+[07:22:41]: [Say] (KU_XmwUs4ho) mhat2001: meu celular desligou, kkkk
+[07:22:50]: [Say] (KU_XmwUs4ho) mhat2001: cabo a batera ja volto pra call
+[07:22:58]: [Say] (KU_jntKIE-z) Petrique: kkk
+[07:33:09]: [Announcement] 󰀏〖 Esconderijo de saques 〗is Available Now󰀏
+[07:33:13]: [Leave Announcement] Petrique
+[07:37:14]: [Join Announcement] Petrique
+[07:46:33]: [Say] (KU_HuDeJaXv) Triers:  I have 3 steel wools.
+[07:49:52]: [Death Announcement] RubbyLux teve a vida tirada por Pássaro Disforme. Ela se transformou em uma fantasma assustadora!
+[07:50:11]: [Resurrect Announcement] RubbyLux foi ressuscitado(a) por Amuleto da vida.
+[07:50:26]: [Death Announcement] Petrique teve a vida tirada por Fome. Ela se transformou em uma fantasma assustadora!
+[07:50:27]: [Death Announcement] RubbyLux teve a vida tirada por Pássaro Disforme. Ela se transformou em uma fantasma assustadora!
+[07:50:35]: [Resurrect Announcement] Petrique foi ressuscitado(a) por Amuleto da vida.
+[07:55:20]: [Resurrect Announcement] RubbyLux foi ressuscitado(a) por Relógio de Segunda Chance.
+[08:01:49]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[08:05:42]: [Death Announcement] RubbyLux teve a vida tirada por Bicorrível. Ela se transformou em uma fantasma assustadora!
+[08:06:00]: [Resurrect Announcement] RubbyLux foi ressuscitado(a) por Amuleto da vida.
+[08:16:36]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 75 glândula de aranhas.
+[08:16:39]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 25 sedas.
+[08:17:41]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 55 glândula de aranhas.
+[08:23:58]: [Announcement] 󰀭〖 Leormigo 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[08:28:11]: [Skin Announcement] mhat2001 webber_beard_ice
+[08:38:32]: [Say] (KU_jntKIE-z) Petrique:  Nós temos 95 cinzas neste baú.
+[08:40:50]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 7 capacete de batalhas, e este tem 100% de durabilidade.
+[09:07:18]: [Announcement] 󰀏〖 Dragonfly 〗is Available Now󰀏
+[09:16:47]: [Death Announcement] RubbyLux teve a vida tirada por Campeão Celestial. Ela se transformou em uma fantasma assustadora!
+[09:17:43]: [Death Announcement] Triers teve a vida tirada por a passagem do tempo. Ela se transformou em uma fantasma assustadora!
+[09:17:52]: [Resurrect Announcement] Triers foi ressuscitado(a) por Amuleto da vida.
+[09:19:39]: [Resurrect Announcement] RubbyLux foi ressuscitado(a) por Relógio de Segunda Chance.
+[09:22:13]: [Say] (KU_HuDeJaXv) Triers:  I have 2 battle helms, and this one has 85% durability.
+[09:24:41]: [Leave Announcement] Triers
+[09:26:54]: [Join Announcement] Triers
+[09:27:38]: [Say] (KU_jntKIE-z) Petrique:  Nós temos 33 fita de confianças neste baú de escamas.
+[09:31:05]: [Leave Announcement] RubbyLux
+[09:38:30]: [Leave Announcement] mhat2001
+[09:38:56]: [Leave Announcement] Triers
+[09:39:14]: [Leave Announcement] Petrique

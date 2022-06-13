@@ -1,0 +1,38 @@
+[00:00:50]: [Join Announcement] Petrique
+[00:19:31]: [Join Announcement] mhat2001
+[00:55:46]: [Say] (KU_XmwUs4ho) mhat2001:  I have 54 grass tufts.
+[00:59:30]: [Say] (KU_XmwUs4ho) mhat2001:  I have 101 grass tufts.
+[01:05:07]: [Say] (KU_XmwUs4ho) mhat2001:  I have 170 grass tufts.
+[01:21:11]: [Join Announcement] Triers
+[01:34:50]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 pérola da pearl.
+[01:40:19]: [Say] (KU_XmwUs4ho) mhat2001:  I have an eyebrella with 55% durability.
+[02:01:43]: [Announcement] 1
+[02:02:17]: [Announcement] 24
+[02:05:15]: [Death Announcement] mhat2001 teve a vida tirada por Verme das profundezas. Ele se transformou em um fantasma assustador!
+[02:12:51]: [Announcement] 24
+[02:13:59]: [Resurrect Announcement] mhat2001 foi ressuscitado(a) por Relógio de Segunda Chance.
+[02:22:29]: [Say] (KU_XmwUs4ho) mhat2001:  We have 3 glow berrys in this ice box, and this one has 77% freshness.
+[02:23:28]: [Leave Announcement] mhat2001
+[02:27:50]: [Join Announcement] mhat2001
+[02:49:19]: [Say] (KU_XmwUs4ho) mhat2001:  I have 54 saplings.
+[03:00:52]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 terrário.
+[03:31:16]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 9 fragmentos de fóssils.
+[04:05:37]: [Say] (KU_HuDeJaXv) Triers:  I have 11 thulecites.
+[04:05:51]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 8 pedra preciosa amarelas.
+[04:05:52]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 9 pedra preciosa roxas.
+[04:05:53]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 5 pedra preciosa azuls.
+[04:05:55]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 5 pedra preciosa laranjas.
+[04:05:56]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 14 fragmentos de tulecitas.
+[04:05:57]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 5 tulecitas.
+[04:05:58]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 11 pedra preciosa vermelhas.
+[04:05:59]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 2 pedra preciosa verdes.
+[04:11:09]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 21 engrenagens.
+[04:14:32]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 o explorador preguiçoso com 95% de durabilidade.
+[04:19:44]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 o explorador preguiçoso com 95% de durabilidade.
+[04:21:21]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 8 fragmentos de fóssils.
+[04:26:55]: [Say] (KU_XmwUs4ho) mhat2001:  I have 27 jellybeans.
+[04:27:05]: [Say] (KU_HuDeJaXv) Triers: c_save()
+[04:31:34]: [Say] (KU_HuDeJaXv) Triers:  I have a bone armor with 100% durability.
+[04:33:56]: [Leave Announcement] mhat2001
+[04:42:49]: [Leave Announcement] Triers
+[04:42:53]: [Leave Announcement] Petrique

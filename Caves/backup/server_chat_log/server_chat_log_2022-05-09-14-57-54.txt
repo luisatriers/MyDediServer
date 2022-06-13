@@ -1,0 +1,36 @@
+[00:17:52]: [Join Announcement] Petrique
+[00:18:36]: [Join Announcement] Triers
+[00:19:49]: [Join Announcement] mhat2001
+[00:26:02]: [Say] (KU_XmwUs4ho) mhat2001:  I have a thulecite crown with 40% durability.
+[00:42:00]: [Say] (KU_XmwUs4ho) mhat2001:  We have 9 nightmare fuels in this chester.
+[00:42:44]: [Say] (KU_XmwUs4ho) mhat2001:  I have 16 scales.
+[00:42:56]: [Say] (KU_XmwUs4ho) mhat2001:  I have 55 jellybeans.
+[00:43:40]: [Say] (KU_XmwUs4ho) mhat2001:  I have 55 jellybeans.
+[00:45:54]: [Say] (KU_XmwUs4ho) mhat2001:  I have a rain coat with 48% durability.
+[00:46:30]: [Say] (KU_XmwUs4ho) mhat2001: asd
+[00:46:33]: [Say] (KU_XmwUs4ho) mhat2001: a
+[01:00:45]: [Death Announcement] Petrique teve a vida tirada por Congelamento. Virou um fantasma assustador!
+[01:01:36]: [Say] (KU_XmwUs4ho) mhat2001:  I have 55 jellybeans.
+[01:03:06]: [Resurrect Announcement] Petrique foi ressuscitado(a) por Relógio de Segunda Chance.
+[01:03:17]: [Death Announcement] Petrique teve a vida tirada por Escuridão. Virou um fantasma assustador!
+[01:03:20]: [Leave Announcement] Petrique
+[01:03:56]: [Join Announcement] Petrique
+[01:04:00]: [Say] (KU_XmwUs4ho) mhat2001:  I have 55 jellybeans.
+[01:05:34]: [Resurrect Announcement] Petrique foi ressuscitado(a) por Relógio de Segunda Chance.
+[01:23:08]: [Say] (KU_HuDeJaXv) Triers:  I have 36 green caps, and this one has 91% freshness.
+[01:33:55]: [Death Announcement] Petrique teve a vida tirada por Libélula. Virou um fantasma assustador!
+[01:35:25]: [Resurrect Announcement] Petrique foi ressuscitado(a) por Relógio de Segunda Chance.
+[01:55:39]: [Leave Announcement] mhat2001
+[01:59:58]: [Leave Announcement] Petrique
+[02:02:53]: [Join Announcement] mhat2001
+[02:03:17]: [Join Announcement] Petrique
+[02:19:05]: [Roll Announcement] (KU_HuDeJaXv) Triers 14 (1-100)
+[02:19:20]: [Roll Announcement] (KU_XmwUs4ho) mhat2001 77 (1-100)
+[02:19:29]: [Roll Announcement] (KU_jntKIE-z) Petrique 10 (1-100)
+[02:29:39]: [Say] (KU_jntKIE-z) Petrique:  (Vida: 62/130) Estou gravemente ferido!
+[02:29:40]: [Say] (KU_jntKIE-z) Petrique:  (Sanidade: 64/200) Estou me sentindo um pouco louco, aqui!
+[02:32:21]: [Death Announcement] Petrique teve a vida tirada por Tentáculo. Ele se transformou em um fantasma assustador!
+[02:32:52]: [Resurrect Announcement] Petrique foi ressuscitado(a) por Pedra de toque.
+[02:36:21]: [Leave Announcement] Triers
+[02:36:56]: [Leave Announcement] mhat2001
+[02:37:06]: [Leave Announcement] Petrique

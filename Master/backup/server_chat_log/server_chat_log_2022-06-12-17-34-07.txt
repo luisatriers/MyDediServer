@@ -1,0 +1,34 @@
+[00:14:07]: [Join Announcement] Triers
+[00:14:10]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:14:52]: [Leave Announcement] Triers
+[00:16:35]: [Join Announcement] Triers
+[00:20:10]: [Join Announcement] mhat2001
+[00:21:24]: [Say] (KU_XmwUs4ho) mhat2001: se tem o mod de dias das estações ?
+[00:21:29]: [Say] (KU_HuDeJaXv) Triers: sim
+[00:21:33]: [Say] (KU_HuDeJaXv) Triers: 3 dias pro outono
+[00:21:38]: [Say] (KU_XmwUs4ho) mhat2001: ta
+[00:21:40]: [Say] (KU_XmwUs4ho) mhat2001: vlww
+[00:21:54]: [Say] (KU_XmwUs4ho) mhat2001: n entrar na call ?
+[00:22:29]: [Join Announcement] Petrique
+[00:27:33]: [Leave Announcement] Petrique
+[00:56:17]: [Join Announcement] Petrique
+[01:14:20]: [Leave Announcement] mhat2001
+[01:15:41]: [Announcement] 󰀏〖 Honey Patch 〗is Available Now󰀏
+[01:22:32]: [Announcement] 󰀏〖 Honey Patch 〗is Available Now󰀏
+[01:23:33]: [Announcement] 󰀏〖 Honey Patch 〗is Available Now󰀏
+[01:26:30]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[01:30:03]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 3 abelhas, e este tem 87% de frescura.
+[01:30:06]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 4 borboletas, e este tem 90% de frescura.
+[01:30:21]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 4 gravetos.
+[02:08:21]: [Say] (KU_HuDeJaXv) Triers:  I have 63 cut reeds.
+[02:32:35]: [Say] (KU_HuDeJaXv) Triers:  I have 253 cut grass.
+[02:34:58]: [Death Announcement] Petrique was killed by Terrorbeak. He became a spooky ghost!
+[02:35:04]: [Resurrect Announcement] Petrique was resurrected by Life Giving Amulet.
+[02:50:52]: [Say] (KU_HuDeJaXv) Triers: powder cake
+[03:04:54]: [Leave Announcement] Triers
+[03:47:28]: [Death Announcement] Petrique was killed by Starvation. He became a spooky ghost!
+[03:47:42]: [Resurrect Announcement] Petrique was resurrected by Life Giving Amulet.
+[03:54:29]: [Announcement] 󰀭〖 Deerclops 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[04:07:18]: [Leave Announcement] Petrique
+[04:21:16]: [Join Announcement] Triers
+[04:41:14]: [Leave Announcement] Triers
