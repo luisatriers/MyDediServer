@@ -1,0 +1,140 @@
+[00:01:40]: [Join Announcement] Triers
+[00:01:43]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:01:48]: [Join Announcement] Petrique
+[00:06:23]: [Death Announcement] Petrique was killed by Spider Warrior. He became a spooky ghost!
+[00:06:33]: [Resurrect Announcement] Petrique was resurrected by Life Giving Amulet.
+[00:13:32]: [Say] (KU_HuDeJaXv) Triers: ah
+[00:13:35]: [Say] (KU_HuDeJaXv) Triers: tu vai deixar aberto?
+[00:13:40]: [Say] (KU_jntKIE-z) Petrique: SS
+[00:13:42]: [Say] (KU_HuDeJaXv) Triers: ok!
+[00:19:13]: [Say] (KU_jntKIE-z) Petrique: Aperta P
+[00:19:15]: [Say] (KU_jntKIE-z) Petrique: aE
+[00:19:17]: [Say] (KU_jntKIE-z) Petrique: KK
+[00:19:24]: [Say] (KU_jntKIE-z) Petrique: Show
+[00:19:26]: [Say] (KU_HuDeJaXv) Triers: o.o
+[00:19:33]: [Say] (KU_jntKIE-z) Petrique: Éra só isso mesmo
+[00:19:35]: [Say] (KU_HuDeJaXv) Triers: como
+[00:19:36]: [Say] (KU_HuDeJaXv) Triers: HUAHUAUHAHUA
+[00:19:42]: [Say] (KU_jntKIE-z) Petrique: Tá com o seu token kk
+[00:19:46]: [Say] (KU_HuDeJaXv) Triers: aaaaaah
+[00:21:01]: [Say] (KU_jntKIE-z) Petrique: O lado ruim é que você não vai poder criar um mapa personalizado kkkk
+[00:21:12]: [Say] (KU_jntKIE-z) Petrique: Pra testar alguma coisa caso queira kk
+[00:21:14]: [Say] (KU_HuDeJaXv) Triers: como assim
+[00:21:18]: [Say] (KU_HuDeJaXv) Triers: ah
+[00:21:21]: [Say] (KU_HuDeJaXv) Triers: safe
+[00:21:22]: [Say] (KU_jntKIE-z) Petrique: Eu acho
+[00:21:31]: [Say] (KU_jntKIE-z) Petrique: Temos que mudar a porta do server dps
+[00:21:45]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 65 cebolas, e este tem 96% de frescura.
+[00:21:48]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 46 pimentinhas, e este tem 96% de frescura.
+[00:21:49]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 57 alhos, e este tem 96% de frescura.
+[00:21:51]: [Say] (KU_HuDeJaXv) Triers: uuuh
+[00:21:54]: [Say] (KU_HuDeJaXv) Triers: farmas
+[00:21:58]: [Say] (KU_jntKIE-z) Petrique: Nadamau hehe
+[00:26:57]: [Say] (KU_jntKIE-z) Petrique: Vou indo nessa até
+[00:27:08]: [Say] (KU_jntKIE-z) Petrique: Qualquer coisa da um grito
+[00:27:12]: [Say] (KU_HuDeJaXv) Triers: ok!
+[00:27:24]: [Leave Announcement] Petrique
+[00:57:24]: [Join Announcement] mhat2001
+[00:57:33]: [Say] (KU_HuDeJaXv) Triers: aoba
+[00:57:42]: [Say] (KU_XmwUs4ho) mhat2001: saalvee fml
+[00:57:56]: [Say] (KU_XmwUs4ho) mhat2001: Patrick saiu ?
+[00:58:00]: [Say] (KU_HuDeJaXv) Triers: sim
+[00:58:02]: [Say] (KU_HuDeJaXv) Triers: trab
+[00:58:09]: [Say] (KU_XmwUs4ho) mhat2001: vagabundo, kkkk
+[00:58:19]: [Say] (KU_XmwUs4ho) mhat2001: vo pegar umas preda nas caves
+[00:58:26]: [Say] (KU_HuDeJaXv) Triers: NICE
+[01:22:03]: [Death Announcement] mhat2001 was killed by Depths Worm. He became a spooky ghost!
+[01:22:05]: [Say] (KU_XmwUs4ho) mhat2001: sabia
+[01:22:07]: [Say] (KU_HuDeJaXv) Triers: HUIDAHOUAHI
+[01:22:08]: [Say] (KU_XmwUs4ho) mhat2001: porra
+[01:22:15]: [Say] (KU_HuDeJaXv) Triers: ta longe?
+[01:22:36]: [Say] (KU_XmwUs4ho) mhat2001: to quase na entrada das ruinas pera ai
+[01:22:50]: [Say] (KU_HuDeJaXv) Triers: posso ir na nossa maquina
+[01:22:52]: [Say] (KU_XmwUs4ho) mhat2001: se pegar perto do mectusk
+[01:22:56]: [Say] (KU_XmwUs4ho) mhat2001: ta de boa
+[01:23:04]: [Say] (KU_HuDeJaXv) Triers: tenho tb nas ruinas
+[01:24:41]: [Say] (KU_HuDeJaXv) Triers: e ai?
+[01:24:48]: [Say] (KU_XmwUs4ho) mhat2001: to voltando pelo mectusk
+[01:24:56]: [Say] (KU_HuDeJaXv) Triers: to sem relogio
+[01:24:58]: [Say] (KU_HuDeJaXv) Triers: kkkkkkkkk
+[01:25:02]: [Say] (KU_HuDeJaXv) Triers: perai vou fazer
+[01:25:09]: [Say] (KU_XmwUs4ho) mhat2001: vou pra base mesmo
+[01:25:12]: [Say] (KU_XmwUs4ho) mhat2001: kkk
+[01:25:50]: [Say] (KU_XmwUs4ho) mhat2001: se desceu ?
+[01:26:01]: [Say] (KU_XmwUs4ho) mhat2001: to em cima no mectusk aqui
+[01:27:20]: [Say] (KU_HuDeJaXv) Triers: pode?
+[01:27:26]: [Say] (KU_XmwUs4ho) mhat2001: s
+[01:27:44]: [Resurrect Announcement] mhat2001 was resurrected by Second Chance Watch.
+[01:29:00]: [Say] (KU_XmwUs4ho) mhat2001: fui b
+[01:31:38]: [Say] (KU_XmwUs4ho) mhat2001: fui burro pra caralho, 6 deepth e mais insano ainda, fui da kiting sem armadura e sem cura kkk
+[01:32:13]: [Say] (KU_XmwUs4ho) mhat2001: vlww o rango
+[01:32:20]: [Say] (KU_HuDeJaXv) Triers: dale ahuuahhuauha
+[01:32:52]: [Say] (KU_XmwUs4ho) mhat2001: agr vo pegar armadura e quebrar umas cavernas de aranha lá em baixo
+[01:33:02]: [Say] (KU_HuDeJaXv) Triers: boa!
+[01:33:10]: [Say] (KU_HuDeJaXv) Triers: da pedra tb ne
+[01:33:16]: [Say] (KU_XmwUs4ho) mhat2001: s
+[01:33:29]: [Say] (KU_XmwUs4ho) mhat2001: ouro, pode vir gema tb
+[01:33:41]: [Say] (KU_XmwUs4ho) mhat2001: os ossos
+[01:34:55]: [Say] (KU_XmwUs4ho) mhat2001: tem aquelas pedras de dente tb, vou fazer um arregaço lá
+[01:34:57]: [Say] (KU_XmwUs4ho) mhat2001: kk
+[01:35:06]: [Say] (KU_HuDeJaXv) Triers: leva amuleto huauhauha
+[01:35:15]: [Say] (KU_XmwUs4ho) mhat2001: e armadura tb kkkk
+[01:35:21]: [Say] (KU_XmwUs4ho) mhat2001: q odio kkk
+[01:35:41]: [Say] (KU_XmwUs4ho) mhat2001: n acredito q eu morri assim, quase 1k e meio de horas
+[01:36:23]: [Say] (KU_XmwUs4ho) mhat2001: e as catapa tao boa ?
+[01:36:28]: [Say] (KU_HuDeJaXv) Triers: sim!
+[01:36:31]: [Say] (KU_XmwUs4ho) mhat2001: massa
+[01:36:32]: [Say] (KU_HuDeJaXv) Triers: certinhas :D
+[01:36:56]: [Say] (KU_XmwUs4ho) mhat2001: vou fazer mais entrada dps tb
+[01:39:54]: [Say] (KU_XmwUs4ho) mhat2001: onde tem madeira ?
+[01:40:01]: [Say] (KU_XmwUs4ho) mhat2001: precisava de 8 pra armadura
+[01:40:05]: [Say] (KU_HuDeJaXv) Triers: nos presente ali
+[01:40:16]: [Say] (KU_XmwUs4ho) mhat2001: pqp nm vi
+[01:40:17]: [Say] (KU_XmwUs4ho) mhat2001: kkkkk
+[02:01:08]: [Say] (KU_XmwUs4ho) mhat2001: caraio to vivasso ainda huehuehue
+[02:13:32]: [Say] (KU_XmwUs4ho) mhat2001: já ta a noite ?
+[02:13:37]: [Say] (KU_HuDeJaXv) Triers: ainda n
+[02:13:43]: [Say] (KU_HuDeJaXv) Triers: ta td bem ai?
+[02:13:45]: [Say] (KU_HuDeJaXv) Triers: ahuahuauhauhauh
+[02:14:13]: [Say] (KU_XmwUs4ho) mhat2001: tá, só me caguei na calça do inverno kkk
+[02:14:57]: [Say] (KU_XmwUs4ho) mhat2001: mas peguei uma termal na entrada da cae e uma tocha tb
+[02:14:58]: [Say] (KU_XmwUs4ho) mhat2001: ta safe
+[02:15:06]: [Say] (KU_HuDeJaXv) Triers: leva star caller
+[02:15:08]: [Say] (KU_HuDeJaXv) Triers: fiz um monte
+[02:15:23]: [Say] (KU_XmwUs4ho) mhat2001: tá, daquia pouco já subo
+[02:16:44]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[02:16:45]: [Say] (KU_HuDeJaXv) Triers: meeeeeeeeeeeeeeeee
+[02:16:49]: [Say] (KU_XmwUs4ho) mhat2001: ué
+[02:16:58]: [Say] (KU_HuDeJaXv) Triers: spider queen HUIDHOASIF
+[02:17:17]: [Say] (KU_XmwUs4ho) mhat2001: nm fodendo kkkk
+[02:17:40]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[02:18:11]: [Say] (KU_XmwUs4ho) mhat2001: se tava dentro ou fora ?w
+[02:18:14]: [Say] (KU_HuDeJaXv) Triers: FORA
+[02:18:17]: [Say] (KU_HuDeJaXv) Triers: bizarro
+[02:18:30]: [Say] (KU_XmwUs4ho) mhat2001: uma vez eu me caguei pq tava dentro e ela coiso KKKKKKKKKKK
+[02:18:48]: [Say] (KU_XmwUs4ho) mhat2001: o casulo viro
+[02:20:53]: [Say] (KU_XmwUs4ho) mhat2001: quando vai dar dia de cachorro ?
+[02:21:00]: [Say] (KU_HuDeJaXv) Triers: ja passou
+[02:21:14]: [Say] (KU_HuDeJaXv) Triers: bota no bau
+[02:21:16]: [Say] (KU_HuDeJaXv) Triers: plmdds
+[02:21:29]: [Say] (KU_XmwUs4ho) mhat2001: é só pra ficar mais facild e pegar po
+[02:21:31]: [Say] (KU_XmwUs4ho) mhat2001: huehuehue
+[02:21:44]: [Say] (KU_HuDeJaXv) Triers: ¬¬
+[02:21:52]: [Say] (KU_XmwUs4ho) mhat2001: : D
+[02:24:36]: [Say] (KU_XmwUs4ho) mhat2001: n tem mais glow berry ?
+[02:24:47]: [Say] (KU_HuDeJaXv) Triers: perdemos uma familia de cabra
+[02:24:51]: [Say] (KU_HuDeJaXv) Triers: por causa das aranhas
+[02:24:52]: [Say] (KU_HuDeJaXv) Triers: :D
+[02:24:54]: [Say] (KU_XmwUs4ho) mhat2001: a n, pelo oq ?
+[02:24:57]: [Say] (KU_HuDeJaXv) Triers: catapa
+[02:25:04]: [Say] (KU_XmwUs4ho) mhat2001: vagabunda
+[02:25:05]: [Say] (KU_XmwUs4ho) mhat2001: kk
+[02:25:18]: [Say] (KU_XmwUs4ho) mhat2001: como q aconteceu ?
+[02:25:41]: [Say] (KU_XmwUs4ho) mhat2001: bom, temos mai 4,né  kk
+[02:32:20]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[02:33:19]: [Say] (KU_XmwUs4ho) mhat2001: vou comprar um cingaro pro meu pai ja vorto
+[02:33:25]: [Say] (KU_HuDeJaXv) Triers: ok uahhuauha
+[02:33:27]: [Say] (KU_XmwUs4ho) mhat2001: kkk
+[02:33:32]: [Say] (KU_HuDeJaXv) Triers: dps podemos ir call
+[02:33:36]: [Say] (KU_HuDeJaXv) Triers: eu n olho mt o chat
+[02:33:38]: [Leave Announcement] mhat2001
