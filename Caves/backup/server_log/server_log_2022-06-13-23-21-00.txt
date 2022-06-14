@@ -1,8 +1,8 @@
 [00:00:00]: 
 System Memory:
 	Memory Load: 38%
-	Available Physical Memory: 9975m/16301m
-	Available Page File: 15061m/25005m
+	Available Physical Memory: 9961m/16301m
+	Available Page File: 14647m/25005m
 	Available Virtual Memory: 4014m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
@@ -18,7 +18,7 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_2/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 510124
-[00:00:00]: Current time: Mon Jun 13 23:23:22 2022
+[00:00:00]: Current time: Mon Jun 13 23:20:42 2022
 
 [00:00:00]: Don't Starve Together: 510124 WIN32
 [00:00:00]: Build Date: 7767
@@ -32,7 +32,7 @@ Process Memory:
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
 [00:00:00]: Mounting file system databundles/klump.zip successful.
-[00:00:00]: THREAD - started 'GAClient' (11408)
+[00:00:00]: THREAD - started 'GAClient' (6984)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -42,17 +42,17 @@ Process Memory:
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
 [00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
 [00:00:00]: [Steam] SteamGameServer_Init success
-[00:00:00]: ProfileIndex:3.06
+[00:00:00]: ProfileIndex:3.07
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: THREAD - started 'Ping Job Thread' (8044)
+[00:00:00]: THREAD - started 'Ping Job Thread' (14712)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
 [00:00:00]: WindowsFirewall - Application already authorized
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_2/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (2832)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_2/adminlist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (6932)
 [00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_2/whitelist.txt (Failure)
 [00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_2/cluster_token.txt
 [00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_2/cluster_token.txt
@@ -89,7 +89,7 @@ Process Memory:
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:01]: [string "scripts/util.lua"]:886: TheSim:GetPersistentString profile --> Failed to scan constant at starting position 1 from string <<<<<<< Updated upstream
+[00:00:00]: [string "scripts/util.lua"]:886: TheSim:GetPersistentString profile --> Failed to scan constant at starting position 1 from string <<<<<<< Updated upstream
 KLEI     1DAQAAABAAAAAtAQAAxQAAAHjaZY5NTgMxDIXv4nUWTKvSNldByDKJC4FMHGJnRgVx90YFuoCl/b738wlBijXJCv7h0UEvWcIbR1yl5fjM5fsdeUmBMVBVfAK/uXNwokVaMsZZov6nCPyAlFaMSWumM1J87WozF8MqtVfwJ8rKDq5qKmpUAoPfHhxQN1FaxmWtD2RozfQWWXjFF9ERlMbYdksKo0Dm9EGWpNTGyvYz7dfVlduf+mtzzpgi+Ol+Nx23u/20d9C4xAG/d8rJzkP7ugArgmwv
 =======
 KLEI     1DAQAAABAAAAAtAQAAyQAAAHjaVY9BTgMxDEXv4vUsGKBU5CoIWSZxIZDGaezMqCDujjtIiC4tf//3/AVRqnUpCuHpeQKlFVPWVuiMlN6H2pGrYZM2GoQDFeUJEi85MkZqii8Qbm8m6FwTdzwNKtnOEObrFEHw0KhF4gcnXKWX9Mr1l7nBclWjGhnCvSdpmCgtPlkfTvRdN91KLoaVV3wTda/sff1PLLqvHPMnWZbaOivbv78uV0Pd8vqbjVwK5uTaD7v58W63n/cTHGiRno3xKGlr+f4BdPFsKA==
@@ -106,7 +106,7 @@ LUA ERROR stack traceback:
         =[C] in function 'GetPersistentString'
         scripts/playerprofile.lua(1392,1) in function 'Load'
         scripts/main.lua(174,1) in main chunk
-[00:00:01]: [string "scripts/mainfunctions.lua"]:852: variable 'TheMixer' is not declared
+[00:00:00]: [string "scripts/mainfunctions.lua"]:852: variable 'TheMixer' is not declared
 LUA ERROR stack traceback:
         =[C] in function 'error'
         scripts/strict.lua(23,1)
@@ -115,31 +115,31 @@ LUA ERROR stack traceback:
         =[C] in function 'GetPersistentString'
         scripts/playerprofile.lua(1392,1) in function 'Load'
         scripts/main.lua(174,1) in main chunk
-[00:00:01]:   taskgrouplist:	default	Together	
-[00:00:01]:   taskgrouplist:	classic	Classic	
-[00:00:01]:   taskgrouplist:	cave_default	Underground	
-[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:01]: Running main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: Running main.lua
 	
-[00:00:01]: Could not load modindex	
-[00:00:01]: File str is [return {disable_special_event_warning=false,known_api_version=10,known_mods={["workshop-812713308"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-829064383"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-378160973"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-1290774114"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1596632143"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1581892848"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-786654500"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-882610849"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-926178831"]={enabled=true,disabled_bad=false,temp_enabled=false,disabled_incompatible_with_mode=false,temp_disabled=false,seen_api_version=10},["workshop-537685330"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-804549021"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-2331728305"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1595631294"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1273382163"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-956206484"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-780009141"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1894295075"]={enabled=true,disabled_bad=false,temp_enabled=false,disabled_incompatible_with_mode=false,temp_disabled=false,seen_api_version=10},["workshop-466732225"]={enabled=true,disabled_bad=false,temp_enabled=false,disabled_incompatible_with_mode=false,temp_disabled=false,seen_api_version=10},["workshop-804108151"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-361994110"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-2043109179"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-2016036704"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1185229307"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-363112314"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1111658995"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-2528541304"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-1295277999"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-345692228"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1529942793"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10}}}]	
-[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:00]: Could not load modindex	
+[00:00:00]: File str is [return {disable_special_event_warning=false,known_api_version=10,known_mods={["workshop-812713308"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-829064383"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-378160973"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-1290774114"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1596632143"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1581892848"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-786654500"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-882610849"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-926178831"]={enabled=true,disabled_bad=false,temp_enabled=false,disabled_incompatible_with_mode=false,temp_disabled=false,seen_api_version=10},["workshop-537685330"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-804549021"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-2331728305"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1595631294"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1273382163"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-956206484"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-780009141"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1894295075"]={enabled=true,disabled_bad=false,temp_enabled=false,disabled_incompatible_with_mode=false,temp_disabled=false,seen_api_version=10},["workshop-466732225"]={enabled=true,disabled_bad=false,temp_enabled=false,disabled_incompatible_with_mode=false,temp_disabled=false,seen_api_version=10},["workshop-804108151"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-361994110"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-2043109179"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-2016036704"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1185229307"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-363112314"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1111658995"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-2528541304"]={enabled=true,disabled_bad=false,seen_api_version=10,disabled_incompatible_with_mode=false},["workshop-1295277999"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-345692228"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10},["workshop-1529942793"]={enabled=false,temp_enabled=false,temp_disabled=false,seen_api_version=10}}}]	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:01]: DoLuaFile Error: (null)
-[00:00:01]: LuaError but no error string
-[00:00:01]: Error loading main.lua
-[00:00:01]: Failed mSimulation->Reset()
-[00:00:01]: Error during game initialization!
-[00:00:01]: Collecting garbage...
-[00:00:01]: lua_gc took 0.04 seconds
-[00:00:01]: ~ShardLuaProxy()
-[00:00:01]: ~cEventLeaderboardProxy()
-[00:00:01]: ~ItemServerLuaProxy()
-[00:00:01]: ~InventoryLuaProxy()
-[00:00:01]: ~NetworkLuaProxy()
-[00:00:01]: ~SimLuaProxy()
-[00:00:01]: lua_close took 0.03 seconds
+[00:00:00]: DoLuaFile Error: (null)
+[00:00:00]: LuaError but no error string
+[00:00:00]: Error loading main.lua
+[00:00:00]: Failed mSimulation->Reset()
+[00:00:00]: Error during game initialization!
+[00:00:00]: Collecting garbage...
+[00:00:00]: lua_gc took 0.04 seconds
+[00:00:00]: ~ShardLuaProxy()
+[00:00:00]: ~cEventLeaderboardProxy()
+[00:00:00]: ~ItemServerLuaProxy()
+[00:00:00]: ~InventoryLuaProxy()
+[00:00:00]: ~NetworkLuaProxy()
+[00:00:00]: ~SimLuaProxy()
+[00:00:01]: lua_close took 0.02 seconds
 [00:00:01]: CurlRequestManager::ClientThread::Main() complete
 [00:00:01]: HttpClient2 discarded 0 callbacks.
 [00:00:01]: Shutting down
