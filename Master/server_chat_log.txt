@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 [00:03:33]: [Join Announcement] Triers
 [00:03:33]: [Join Announcement] Petrique
 [00:03:36]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
@@ -402,4 +400,3 @@
 [06:44:50]: [Say] (KU_HuDeJaXv) Triers:  We have 351 rocks in this chest.
 [06:48:56]: [Leave Announcement] Petrique
 [06:49:09]: [Leave Announcement] Triers
->>>>>>> 2805ef9005f05b83c6fb939391edf91df3b27445
