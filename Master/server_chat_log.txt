@@ -1,402 +1,109 @@
-[00:03:33]: [Join Announcement] Triers
-[00:03:33]: [Join Announcement] Petrique
-[00:03:36]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
-[00:03:42]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
-[00:03:52]: [Say] (KU_HuDeJaXv) Triers: deu rollback
-[00:03:53]: [Join Announcement] mhat2001
-[00:03:54]: [Say] (KU_HuDeJaXv) Triers: lol
-[00:04:02]: [Say] (KU_jntKIE-z) Petrique: De quantod  dias?
-[00:04:05]: [Say] (KU_HuDeJaXv) Triers: 1
-[00:04:18]: [Say] (KU_XmwUs4ho) mhat2001: 13 pra acabar o inverno
-[00:04:22]: [Say] (KU_jntKIE-z) Petrique: Menos mau
-[00:04:40]: [Say] (KU_jntKIE-z) Petrique: Tá estranho pra criar a branch pra  dms eu vejo isso
-[00:04:43]: [Say] (KU_jntKIE-z) Petrique: Até
-[00:04:53]: [Say] (KU_HuDeJaXv) Triers: té
-[00:05:00]: [Leave Announcement] Petrique
-[00:05:24]: [Say] (KU_XmwUs4ho) mhat2001: estranhei q n tava aqui quando voltei
-[00:05:28]: [Say] (KU_XmwUs4ho) mhat2001: nas caves
-[00:05:42]: [Say] (KU_HuDeJaXv) Triers: pse
-[00:07:41]: [Say] (KU_XmwUs4ho) mhat2001: deixar as caves peladinha igual bum bumd e nene kkk
-[00:07:51]: [Say] (KU_HuDeJaXv) Triers: ahuahuhauhua
-[00:07:57]: [Say] (KU_HuDeJaXv) Triers: tem q limpar o mosaico
-[00:08:36]: [Say] (KU_XmwUs4ho) mhat2001: quando eu vorta eu do um jeito
-[00:12:52]: [Announcement] 󰀭〖 Deerclops 〗Got Killed By󰀍〖 Triers 〗󰀘
-[00:12:58]: [Say] (KU_XmwUs4ho) mhat2001: dale
-[00:22:23]: [Say] (KU_XmwUs4ho) mhat2001: a q bosta, chuva
-[00:25:05]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
-[00:25:11]: [Say] (KU_XmwUs4ho) mhat2001: DALE
-[00:25:16]: [Say] (KU_XmwUs4ho) mhat2001: deu saco dele ?
-[00:25:19]: [Say] (KU_XmwUs4ho) mhat2001: kkkk
-[00:25:26]: [Say] (KU_HuDeJaXv) Triers: n abri ainda
-[00:26:05]: [Say] (KU_XmwUs4ho) mhat2001: o Patrick disse q se queria ir em call, n tinha entrado ainda no mundo eu acho
-[00:26:13]: [Say] (KU_HuDeJaXv) Triers: podemos ir huhauha
-[00:26:17]: [Say] (KU_XmwUs4ho) mhat2001: ja é kk
-[01:08:44]: [Join Announcement] Petrique
-[01:16:22]: [Leave Announcement] mhat2001
-[01:18:24]: [Join Announcement] mhat2001
-[01:19:06]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 50 pomada de curas.
-[01:21:17]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 28 Área arenosas.
-[01:37:50]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 165 pomada de curas.
-[01:44:31]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 251 pomada de curas.
-[02:08:08]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 142 toras vivas.
-[02:28:22]: [Death Announcement] mhat2001 was killed by Starvation. He became a spooky ghost!
-[02:28:26]: [Resurrect Announcement] mhat2001 was resurrected by Life Giving Amulet.
-[02:40:08]: [Say] (KU_HuDeJaXv) Triers: brb
-[02:40:22]: [Leave Announcement] Triers
-[02:41:04]: [Leave Announcement] mhat2001
-[02:44:58]: [Join Announcement] Triers
-[02:47:11]: [Say] (KU_jntKIE-z) Petrique: Matheus foi toma banho
-[02:47:14]: [Say] (KU_HuDeJaXv) Triers: blz
-[02:47:14]: [Say] (KU_jntKIE-z) Petrique: Tb vou
-[02:47:55]: [Say] (KU_jntKIE-z) Petrique: O que é brb?
-[02:47:56]: [Say] (KU_jntKIE-z) Petrique: kk
-[02:56:57]: [Say] (KU_jntKIE-z) Petrique: Finalmente peguei tudo
-[02:56:59]: [Say] (KU_jntKIE-z) Petrique: Caralho
-[02:57:01]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 94 batatas, e este tem 88% de frescura.
-[02:57:02]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 86 milhos, e este tem 90% de frescura.
-[02:57:03]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 88 cenouras, e este tem 91% de frescura.
-[02:58:32]: [Say] (KU_jntKIE-z) Petrique: Até
-[02:58:43]: [Leave Announcement] Petrique
-[03:05:59]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
-[03:31:08]: [Join Announcement] mhat2001
-[03:31:57]: [Say] (KU_XmwUs4ho) mhat2001: teu beefalo morreu ?
-[03:32:00]: [Say] (KU_HuDeJaXv) Triers: n
-[03:32:05]: [Say] (KU_XmwUs4ho) mhat2001: deu chuva de sapo
-[03:32:13]: [Say] (KU_XmwUs4ho) mhat2001: eu e o patrck se fodimo
-[03:32:25]: [Say] (KU_XmwUs4ho) mhat2001: levamos pra sava
-[03:32:27]: [Say] (KU_XmwUs4ho) mhat2001:  I have 44 meats, and this one has 87% freshness.
-[03:32:29]: [Say] (KU_XmwUs4ho) mhat2001:  I have 3 beefalo horns, and this one has 100% durability.
-[03:32:31]: [Say] (KU_XmwUs4ho) mhat2001:  I have 33 beefalo wools.
-[03:32:32]: [Say] (KU_HuDeJaXv) Triers: HUASIOHFAHUFIA
-[03:32:33]: [Say] (KU_HuDeJaXv) Triers: mds
-[03:32:41]: [Say] (KU_XmwUs4ho) mhat2001:  I have 16 beard hairs.
-[03:32:47]: [Say] (KU_HuDeJaXv) Triers: ebaaaaaaaa
-[03:33:07]: [Say] (KU_XmwUs4ho) mhat2001: se precisar de mais eu pego dai
-[03:33:11]: [Say] (KU_XmwUs4ho) mhat2001: vai precisar?
-[03:33:15]: [Say] (KU_HuDeJaXv) Triers: acho que vai ser o suficiente uhauhauhauh
-[03:33:20]: [Say] (KU_HuDeJaXv) Triers: cada 1 faz 4 pisos
-[03:33:20]: [Say] (KU_XmwUs4ho) mhat2001: safe kk
-[03:34:06]: [Say] (KU_XmwUs4ho) mhat2001: eu to na call la, se quiser colar
-[03:34:15]: [Say] (KU_HuDeJaXv) Triers: é que vai ter reuniao do nw
-[03:34:17]: [Say] (KU_HuDeJaXv) Triers: dps eu colo
-[03:34:22]: [Say] (KU_XmwUs4ho) mhat2001: bl
-[03:39:21]: [Join Announcement] Petrique
-[03:40:23]: [Say] (KU_jntKIE-z) Petrique: vs
-[03:41:31]: [Say] (KU_HuDeJaXv) Triers: cabou a tempestade
-[03:41:37]: [Say] (KU_HuDeJaXv) Triers: vou matar o klaus e vamo df?
-[03:41:43]: [Say] (KU_XmwUs4ho) mhat2001: pode sr
-[03:42:13]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 33 lã de bífalos.
-[03:42:34]: [Say] (KU_jntKIE-z) Petrique: Lets
-[03:46:55]: [Say] (KU_jntKIE-z) Petrique: Só vou plantar
-[03:48:06]: [Announcement] 󰀭〖 Wet Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
-[03:59:15]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 guarda-olho com  5% de durabilidade.
-[03:59:40]: [Say] (KU_jntKIE-z) Petrique: Aonde tá o coisa pra arruma
-[03:59:43]: [Death Announcement] mhat2001 was killed by Bunnyman. He became a spooky ghost!
-[03:59:48]: [Say] (KU_HuDeJaXv) Triers: KKKKKKKKKKKKKKKKKKKK
-[03:59:53]: [Say] (KU_HuDeJaXv) Triers: onde vc ta
-[03:59:57]: [Say] (KU_HuDeJaXv) Triers: matheus
-[03:59:58]: [Say] (KU_HuDeJaXv) Triers: HUDAHOFIAHSIFH
-[04:00:03]: [Say] (KU_XmwUs4ho) mhat2001: to nus coelho
-[04:00:05]: [Say] (KU_XmwUs4ho) mhat2001: sfd
-[04:00:07]: [Say] (KU_XmwUs4ho) mhat2001: kkkkk
-[04:00:17]: [Say] (KU_HuDeJaXv) Triers: qual entrada de cave?
-[04:00:19]: [Say] (KU_XmwUs4ho) mhat2001: na floresta negra acima da beequen[
-[04:00:25]: [Say] (KU_HuDeJaXv) Triers: blz to inu
-[04:02:09]: [Say] (KU_XmwUs4ho) mhat2001: entro na caverma errada kkkkk eu ka sai
-[04:02:11]: [Say] (KU_XmwUs4ho) mhat2001: ja edsço
-[04:02:17]: [Say] (KU_HuDeJaXv) Triers: desci ja
-[04:02:18]: [Say] (KU_HuDeJaXv) Triers: pqp
-[04:02:29]: [Say] (KU_XmwUs4ho) mhat2001: eu vi, falei acima pq meu mapa tava virado
-[04:02:31]: [Say] (KU_XmwUs4ho) mhat2001: KKKKKKKK
-[04:02:50]: [Say] (KU_XmwUs4ho) mhat2001: vai subir ou quer q eu deça ?
-[04:02:54]: [Say] (KU_XmwUs4ho) mhat2001: desça
-[04:02:57]: [Say] (KU_HuDeJaXv) Triers: desce
-[04:03:24]: [Resurrect Announcement] mhat2001 was resurrected by Second Chance Watch.
-[04:03:35]: [Say] (KU_HuDeJaXv) Triers: deu bom?
-[04:03:41]: [Say] (KU_jntKIE-z) Petrique: S
-[04:03:45]: [Say] (KU_jntKIE-z) Petrique: Quase deu ruim kk
-[04:04:11]: [Say] (KU_HuDeJaXv) Triers: uahfoisahfuiasf
-[04:04:19]: [Say] (KU_jntKIE-z) Petrique: Tendeu?
-[04:04:20]: [Say] (KU_jntKIE-z) Petrique: kkk
-[04:04:26]: [Say] (KU_HuDeJaXv) Triers: n entendo codigo morse
-[04:04:39]: [Say] (KU_jntKIE-z) Petrique: Cabo o farm
-[04:04:42]: [Say] (KU_jntKIE-z) Petrique: Vamo de fight
-[04:04:44]: [Say] (KU_HuDeJaXv) Triers: dale
-[04:04:46]: [Say] (KU_HuDeJaXv) Triers: bora
-[04:04:58]: [Say] (KU_jntKIE-z) Petrique: Cabe o capacete?
-[04:05:07]: [Say] (KU_HuDeJaXv) Triers: ??
-[04:05:20]: [Say] (KU_jntKIE-z) Petrique: De batalha
-[04:05:22]: [Say] (KU_jntKIE-z) Petrique: Wig
-[04:05:25]: [Say] (KU_HuDeJaXv) Triers: ahh
-[04:05:27]: [Say] (KU_HuDeJaXv) Triers: vem ca
-[04:05:56]: [Say] (KU_jntKIE-z) Petrique: Caralho
-[04:06:00]: [Say] (KU_jntKIE-z) Petrique: Comba muito
-[04:06:06]: [Say] (KU_HuDeJaXv) Triers: ?
-[04:06:11]: [Say] (KU_jntKIE-z) Petrique: Olha minha cabeça
-[04:06:13]: [Say] (KU_jntKIE-z) Petrique: kk
-[04:06:14]: [Say] (KU_HuDeJaXv) Triers: ahhh
-[04:06:16]: [Say] (KU_HuDeJaXv) Triers: HUAHAUH
-[04:06:23]: [Say] (KU_jntKIE-z) Petrique: Bonnyarmor?
-[04:06:29]: [Say] (KU_HuDeJaXv) Triers: n sei onde ta
-[04:07:12]: [Say] (KU_jntKIE-z) Petrique: F
-[04:07:42]: [Say] (KU_jntKIE-z) Petrique: Nem iamos toma dano
-[04:07:51]: [Say] (KU_HuDeJaXv) Triers: ta com quem
-[04:08:04]: [Say] (KU_jntKIE-z) Petrique: Faz tempo que não vejo
-[04:08:09]: [Say] (KU_XmwUs4ho) mhat2001: n vi nm o chero
-[04:08:21]: [Say] (KU_HuDeJaXv) Triers: ja ate sei
-[04:08:25]: [Say] (KU_HuDeJaXv) Triers: cc deve ter quebrado
-[04:08:34]: [Say] (KU_jntKIE-z) Petrique: N tem como
-[04:08:35]: [Say] (KU_HuDeJaXv) Triers: pq o laser dele quebra tudo q ta no chao
-[04:08:41]: [Say] (KU_HuDeJaXv) Triers: tem sim
-[04:08:41]: [Say] (KU_XmwUs4ho) mhat2001: ela só zera
-[04:08:45]: [Say] (KU_HuDeJaXv) Triers: nnn
-[04:08:51]: [Say] (KU_XmwUs4ho) mhat2001: temq colocar nightmare fuel dai
-[04:08:51]: [Say] (KU_HuDeJaXv) Triers: item no chao ele quebra
-[04:08:58]: [Say] (KU_HuDeJaXv) Triers: desconstroi o item
-[04:08:59]: [Say] (KU_XmwUs4ho) mhat2001: oq
-[04:09:02]: [Say] (KU_HuDeJaXv) Triers: serio
-[04:09:10]: [Say] (KU_HuDeJaXv) Triers: se tiver NO CHAO ele quebra
-[04:09:17]: [Say] (KU_XmwUs4ho) mhat2001: aaa tendi
-[04:09:19]: [Say] (KU_HuDeJaXv) Triers: se tiver no SEU CORPO ai so zera
-[04:09:20]: [Say] (KU_XmwUs4ho) mhat2001: dropada
-[04:09:22]: [Say] (KU_HuDeJaXv) Triers: s
-[04:09:37]: [Say] (KU_jntKIE-z) Petrique: O que q quebra?
-[04:09:50]: [Say] (KU_jntKIE-z) Petrique: A armadura no casoq
-[04:10:01]: [Say] (KU_HuDeJaXv) Triers: sim
-[04:10:50]: [Say] (KU_XmwUs4ho) mhat2001: sua mae n pegou
-[04:10:52]: [Say] (KU_XmwUs4ho) mhat2001: ?
-[04:10:53]: [Say] (KU_HuDeJaXv) Triers: n
-[04:12:29]: [Say] (KU_XmwUs4ho) mhat2001: é de deixar zerada no chão ?
-[04:12:38]: [Say] (KU_HuDeJaXv) Triers: o que?
-[04:12:42]: [Say] (KU_jntKIE-z) Petrique: Nada
-[04:12:45]: [Say] (KU_jntKIE-z) Petrique: Dps conversamos
-[04:12:48]: [Say] (KU_XmwUs4ho) mhat2001: a bone armor
-[04:13:44]: [Say] (KU_XmwUs4ho) mhat2001: as paradas do beefalo foi po seco
-[04:13:50]: [Say] (KU_HuDeJaXv) Triers: foi n
-[04:14:07]: [Say] (KU_XmwUs4ho) mhat2001: aata, ta em outro lugar
-[04:14:08]: [Say] (KU_HuDeJaXv) Triers: ta aqui po
-[04:14:12]: [Say] (KU_XmwUs4ho) mhat2001: xd
-[04:14:14]: [Say] (KU_XmwUs4ho) mhat2001: hehehe
-[04:14:16]: [Say] (KU_HuDeJaXv) Triers: vou fazer um lugarzinho pra eles
-[04:14:32]: [Say] (KU_XmwUs4ho) mhat2001: tem marreta pronta ?
-[04:14:33]: [Say] (KU_jntKIE-z) Petrique: To triste mas vamos lá farma
-[04:14:40]: [Say] (KU_HuDeJaXv) Triers: tem ali
-[04:14:42]: [Say] (KU_HuDeJaXv) Triers: na farm
-[04:14:51]: [Say] (KU_jntKIE-z) Petrique: OU
-[04:14:59]: [Say] (KU_XmwUs4ho) mhat2001: vlww
-[04:15:00]: [Say] (KU_jntKIE-z) Petrique: CADA VEZ QUE PEGAR 1 MARETA EU QUERO 2
-[04:15:05]: [Say] (KU_HuDeJaXv) Triers: kkkkkkkkkkkkk
-[04:15:09]: [Say] (KU_XmwUs4ho) mhat2001: pa soca noseu cu
-[04:15:12]: [Say] (KU_XmwUs4ho) mhat2001: KkK
-[04:15:37]: [Say] (KU_XmwUs4ho) mhat2001: até falta recurso pra tocha tadin
-[04:15:51]: [Say] (KU_XmwUs4ho) mhat2001: vamo de Dragon Flyios ?
-[04:15:53]: [Say] (KU_HuDeJaXv) Triers: s
-[04:15:56]: [Say] (KU_jntKIE-z) Petrique: s
-[04:15:58]: [Say] (KU_HuDeJaXv) Triers: vou so pegar mooncaller
-[04:16:08]: [Say] (KU_jntKIE-z) Petrique: oooo
-[04:16:15]: [Say] (KU_XmwUs4ho) mhat2001: blindao, blindao, blindao, tem q ser blindao
-[04:16:16]: [Say] (KU_jntKIE-z) Petrique: Força tarefa pra pegar isso antes
-[04:16:20]: [Say] (KU_jntKIE-z) Petrique: Nem aqui
-[04:16:22]: [Say] (KU_jntKIE-z) Petrique: Pls
-[04:16:29]: [Say] (KU_jntKIE-z) Petrique: N aguente pega isso solo
-[04:16:45]: [Say] (KU_jntKIE-z) Petrique: Vem trei
-[04:16:46]: [Say] (KU_jntKIE-z) Petrique: kk
-[04:16:52]: [Say] (KU_jntKIE-z) Petrique: VEMVEMVEM
-[04:17:04]: [Say] (KU_jntKIE-z) Petrique: DW
-[04:17:26]: [Say] (KU_jntKIE-z) Petrique: Pegar plantação tri
-[04:17:27]: [Say] (KU_jntKIE-z) Petrique: Hel
-[04:17:30]: [Say] (KU_jntKIE-z) Petrique: p
-[04:17:31]: [Say] (KU_HuDeJaXv) Triers: oq
-[04:17:32]: [Say] (KU_HuDeJaXv) Triers: taaaa
-[04:18:05]: [Say] (KU_jntKIE-z) Petrique: Taporra
-[04:19:13]: [Say] (KU_jntKIE-z) Petrique: Af kkk
-[04:22:19]: [Say] (KU_jntKIE-z) Petrique: Exagerado, as vezes eu só mesmo ixagerado
-[04:22:32]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 95 batatas, e este tem 93% de frescura.
-[04:22:34]: [Say] (KU_XmwUs4ho) mhat2001: obeso
-[04:22:36]: [Say] (KU_XmwUs4ho) mhat2001: KKK
-[04:22:38]: [Say] (KU_HuDeJaXv) Triers:  I have 29 potatos, and this one has 95% freshness.
-[04:22:40]: [Say] (KU_HuDeJaXv) Triers:  I have 58 carrots, and this one has 98% freshness.
-[04:22:41]: [Say] (KU_HuDeJaXv) Triers:  I have 52 corns, and this one has 98% freshness.
-[04:22:44]: [Say] (KU_HuDeJaXv) Triers:  I have 58 carrots, and this one has 95% freshness.
-[04:22:52]: [Say] (KU_jntKIE-z) Petrique: Nice
-[04:25:04]: [Say] (KU_XmwUs4ho) mhat2001: farm de escama
-[04:25:11]: [Say] (KU_XmwUs4ho) mhat2001: q bosta
-[04:27:32]: [Say] (KU_jntKIE-z) Petrique: Játovlçot
-[04:31:14]: [Say] (KU_HuDeJaXv) Triers: deixa eu bater solo
-[04:31:32]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
-[04:31:32]: [Say] (KU_HuDeJaXv) Triers: HUAIOFHUASOIFAHIFHIOU
-[04:31:34]: [Say] (KU_XmwUs4ho) mhat2001: KKKKKKKKKKKKKKKKKKKKKKK
-[04:31:34]: [Say] (KU_jntKIE-z) Petrique: qkjdopsiuahdksiuaygdasygd
-[04:31:37]: [Say] (KU_jntKIE-z) Petrique: dsfagyhsakiUYDGSAYUGODSAUGIOH
-[04:31:39]: [Say] (KU_HuDeJaXv) Triers: huiofhasfouahsuoihooHIUHIUFOHASOHIFOASIUHIOUAFOUASOUFIAUIH
-[04:32:00]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
-[04:32:04]: [Say] (KU_jntKIE-z) Petrique: nICE
-[04:32:06]: [Say] (KU_HuDeJaXv) Triers: PQP
-[04:32:14]: [Say] (KU_XmwUs4ho) mhat2001: apanho igual lixo KKKKK
-[04:32:20]: [Say] (KU_jntKIE-z) Petrique: Com a bonnyarmor
-[04:32:20]: [Say] (KU_HuDeJaXv) Triers: queria tesyar PIFHDAOFIASDHFIAOHIFOA
-[04:32:24]: [Say] (KU_jntKIE-z) Petrique: Vc consegue
-[04:32:26]: [Say] (KU_HuDeJaXv) Triers: TESTAR
-[04:32:26]: [Say] (KU_jntKIE-z) Petrique: Solo
-[04:32:33]: [Say] (KU_jntKIE-z) Petrique: Vc perde tempo com o uso do relogio
-[04:33:04]: [Say] (KU_HuDeJaXv) Triers: mds
-[04:33:08]: [Say] (KU_HuDeJaXv) Triers: to rindo mt
-[04:33:09]: [Say] (KU_HuDeJaXv) Triers: HUDIOASHFHSAOHIFUSAIOFUAIFHOUAHIU
-[04:33:12]: [Say] (KU_jntKIE-z) Petrique: kkkk
-[04:33:12]: [Say] (KU_XmwUs4ho) mhat2001: KKKKKKKKKKKKKKKKKKK
-[04:33:24]: [Say] (KU_jntKIE-z) Petrique: Mando a boa tb kk
-[04:33:46]: [Say] (KU_XmwUs4ho) mhat2001: fez a brba pa deus ve
-[04:34:29]: [Say] (KU_jntKIE-z) Petrique: Testa com isso
-[04:34:31]: [Say] (KU_HuDeJaXv) Triers: pra que
-[04:34:35]: [Say] (KU_jntKIE-z) Petrique: Solo
-[04:34:37]: [Say] (KU_HuDeJaXv) Triers: nnn
-[04:34:47]: [Say] (KU_XmwUs4ho) mhat2001: KKKK
-[04:34:54]: [Say] (KU_XmwUs4ho) mhat2001: uma vez foi o sufiente kkk
-[04:34:54]: [Say] (KU_jntKIE-z) Petrique: Cabo os giv amulet
-[04:34:56]: [Say] (KU_jntKIE-z) Petrique: Vdd
-[04:34:58]: [Say] (KU_jntKIE-z) Petrique: suhsush
-[04:35:57]: [Say] (KU_HuDeJaXv) Triers: com vcs vai mt mais rapido hauuhauha
-[04:36:04]: [Say] (KU_jntKIE-z) Petrique: kkk
-[04:36:08]: [Say] (KU_jntKIE-z) Petrique: De fato
-[04:36:35]: [Say] (KU_XmwUs4ho) mhat2001: estrupado
-[04:43:41]: [Say] (KU_XmwUs4ho) mhat2001: Patrck vai trazer food
-[04:43:42]: [Say] (KU_jntKIE-z) Petrique: Cumida pra nois
-[04:43:44]: [Say] (KU_HuDeJaXv) Triers: obaaa
-[04:43:55]: [Say] (KU_XmwUs4ho) mhat2001: é rpa gente continuar o farm
-[04:43:59]: [Say] (KU_XmwUs4ho) mhat2001: nos
-[04:44:00]: [Say] (KU_XmwUs4ho) mhat2001: kkkkkkk
-[04:44:17]: [Say] (KU_HuDeJaXv) Triers: mano
-[04:44:19]: [Say] (KU_XmwUs4ho) mhat2001: huehuehue
-[04:44:20]: [Say] (KU_HuDeJaXv) Triers: cl´jjçiodfsajpõfsadpjfasf
-[04:44:22]: [Say] (KU_HuDeJaXv) Triers: cliquei errado
-[04:44:25]: [Say] (KU_XmwUs4ho) mhat2001: KKKKkk
-[04:44:57]: [Say] (KU_HuDeJaXv) Triers:  (Hunger: 25/175) Time will catch up to me quickly if I don't eat right now!
-[04:45:25]: [Say] (KU_XmwUs4ho) mhat2001: lasco, meu ultimo pirongo foi po patrick
-[04:46:17]: [Say] (KU_HuDeJaXv) Triers:  (Hunger: 163/175) I need time to digest all this food!
-[04:46:35]: [Say] (KU_jntKIE-z) Petrique: A
-[04:46:44]: [Say] (KU_jntKIE-z) Petrique:  (󰀎 74/150) Estou ficando com fome.
-[04:46:49]: [Say] (KU_HuDeJaXv) Triers: ue
-[04:46:50]: [Say] (KU_XmwUs4ho) mhat2001:  (Hunger: 179/200) Wolfgang is full and mighty!
-[04:46:53]: [Say] (KU_HuDeJaXv) Triers: era PRA GERAL???
-[04:47:01]: [Say] (KU_jntKIE-z) Petrique: N
-[04:47:05]: [Say] (KU_XmwUs4ho) mhat2001: oq, bater ou comer ?
-[04:47:11]: [Say] (KU_jntKIE-z) Petrique: Corri pra  trazer pra tu
-[04:47:17]: [Say] (KU_jntKIE-z) Petrique: a
-[04:47:43]: [Say] (KU_jntKIE-z) Petrique: Matjeus queria saber como ficaria a frace em português
-[04:48:08]: [Say] (KU_XmwUs4ho) mhat2001: eoq
-[04:48:15]: [Say] (KU_HuDeJaXv) Triers: ah ta
-[04:48:16]: [Say] (KU_HuDeJaXv) Triers: auhhahuahua
-[04:48:54]: [Say] (KU_XmwUs4ho) mhat2001: as poposuda, as preparada, o baile todo
-[04:49:10]: [Say] (KU_jntKIE-z) Petrique: Ela não anda é disfila
-[04:49:28]: [Say] (KU_HuDeJaXv) Triers: ela é top
-[04:49:30]: [Say] (KU_HuDeJaXv) Triers: capa de revista
-[04:49:39]: [Say] (KU_XmwUs4ho) mhat2001: ela  trupica, ela torta parece uma cabrita
-[04:49:47]: [Say] (KU_jntKIE-z) Petrique: é a mais mais
-[04:50:03]: [Say] (KU_HuDeJaXv) Triers: ai ja foi longe demais
-[04:50:07]: [Say] (KU_HuDeJaXv) Triers: n sei td isso n
-[04:50:08]: [Say] (KU_HuDeJaXv) Triers: auhiHIOHUIFASHUIFHUIOAF
-[04:50:11]: [Say] (KU_jntKIE-z) Petrique: kkk
-[04:50:15]: [Say] (KU_XmwUs4ho) mhat2001: ela fode ate no look, tira foto no espelho parecendo o incrivel hulk
-[04:50:21]: [Say] (KU_jntKIE-z) Petrique: Arrasa no luq
-[04:50:22]: [Say] (KU_HuDeJaXv) Triers: mds matheus
-[04:50:26]: [Say] (KU_XmwUs4ho) mhat2001: kkkkkkk
-[04:50:34]: [Say] (KU_XmwUs4ho) mhat2001: nunca viu essa versao ?
-[04:50:35]: [Say] (KU_jntKIE-z) Petrique: Isso é parodia
-[04:50:37]: [Say] (KU_jntKIE-z) Petrique: usadhgsaugdsag
-[04:51:14]: [Say] (KU_jntKIE-z) Petrique:  (󰀎 21/150) Estou morrendo de fome!
-[04:51:45]: [Say] (KU_XmwUs4ho) mhat2001: tras panelao gay
-[04:52:51]: [Say] (KU_HuDeJaXv) Triers: patrick desistiu
-[04:52:53]: [Say] (KU_HuDeJaXv) Triers: do farm
-[04:52:57]: [Say] (KU_XmwUs4ho) mhat2001: kkkk
-[04:52:59]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 5 cozido de carnes, e este tem 75% de frescura.
-[04:53:00]: [Say] (KU_HuDeJaXv) Triers: gostou n
-[04:53:01]: [Say] (KU_XmwUs4ho) mhat2001: tilto
-[04:53:04]: [Say] (KU_HuDeJaXv) Triers: HUDIASOHFSIUSA
-[04:53:13]: [Say] (KU_jntKIE-z) Petrique: Tudo ingrato
-[04:53:39]: [Say] (KU_XmwUs4ho) mhat2001: o cara tras meio pirongo e da 3 de dano
-[04:54:38]: [Say] (KU_HuDeJaXv) Triers: ai
-[04:54:42]: [Say] (KU_XmwUs4ho) mhat2001: tomo aééw
-[04:54:48]: [Say] (KU_HuDeJaXv) Triers: me da
-[04:54:51]: [Say] (KU_HuDeJaXv) Triers: seu capacete
-[04:55:22]: [Say] (KU_HuDeJaXv) Triers: ah vei
-[04:55:29]: [Say] (KU_XmwUs4ho) mhat2001: xds
-[04:56:08]: [Say] (KU_XmwUs4ho) mhat2001: tem q calibrar o smite revolta
-[04:56:10]: [Say] (KU_XmwUs4ho) mhat2001: kkkkk
-[04:56:13]: [Say] (KU_jntKIE-z) Petrique: sadhgsauidashuias
-[04:56:39]: [Say] (KU_HuDeJaXv) Triers: nao
-[04:56:44]: [Say] (KU_HuDeJaXv) Triers: aquui é o patrick
-[04:56:51]: [Say] (KU_jntKIE-z) Petrique: kkkk
-[04:57:26]: [Say] (KU_HuDeJaXv) Triers: traz fuel
-[04:57:44]: [Say] (KU_jntKIE-z) Petrique: Sem gazoza
-[04:58:07]: [Say] (KU_XmwUs4ho) mhat2001: falta quantas escamas ?
-[04:58:34]: [Say] (KU_HuDeJaXv) Triers: 4
-[04:58:45]: [Say] (KU_HuDeJaXv) Triers: ta com pressa?
-[04:58:54]: [Say] (KU_XmwUs4ho) mhat2001: nightmare pra dar sword
-[04:58:56]: [Say] (KU_XmwUs4ho) mhat2001:  I have 8 nightmare fuels.
-[05:00:24]: [Say] (KU_HuDeJaXv) Triers: a
-[05:00:30]: [Say] (KU_XmwUs4ho) mhat2001: i caraio
-[05:00:34]: [Say] (KU_XmwUs4ho) mhat2001: pera
-[05:01:41]: [Say] (KU_HuDeJaXv) Triers: hmm
-[05:01:44]: [Say] (KU_HuDeJaXv) Triers: tabom acho
-[05:01:49]: [Say] (KU_HuDeJaXv) Triers: querem matar?
-[05:01:54]: [Say] (KU_HuDeJaXv) Triers: pra arrumar a arena?
-[05:01:55]: [Say] (KU_jntKIE-z) Petrique: Pode ser
-[05:01:56]: [Say] (KU_XmwUs4ho) mhat2001: seis qm sabe
-[05:02:06]: [Say] (KU_HuDeJaXv) Triers: tem armadura?
-[05:02:12]: [Say] (KU_XmwUs4ho) mhat2001:  I have a log suit with 90% durability.
-[05:02:14]: [Say] (KU_XmwUs4ho) mhat2001:  I have 2 battle helms, and this one has 61% durability.
-[05:02:14]: [Say] (KU_jntKIE-z) Petrique: S
-[05:02:14]: [Say] (KU_HuDeJaXv) Triers: ok
-[05:02:19]: [Say] (KU_HuDeJaXv) Triers: bora
-[05:03:53]: [Death Announcement] Petrique was killed by Dragonfly. He became a spooky ghost!
-[05:03:55]: [Say] (KU_HuDeJaXv) Triers: UHAHUAHUAUHAUHAUHA
-[05:03:58]: [Say] (KU_jntKIE-z) Petrique: 2 PRA TANK
-[05:04:04]: [Say] (KU_jntKIE-z) Petrique: NA
-[05:04:09]: [Say] (KU_HuDeJaXv) Triers: ja te revivo
-[05:04:13]: [Say] (KU_XmwUs4ho) mhat2001: fedor
-[05:04:27]: [Resurrect Announcement] Petrique was resurrected by Touch Stone.
-[05:04:38]: [Announcement] 󰀭〖 Dragonfly 〗Got Killed By󰀍〖 mhat2001 〗󰀘
-[05:05:11]: [Say] (KU_XmwUs4ho) mhat2001: pq tem flor podre no chester ?
-[05:05:21]: [Say] (KU_HuDeJaXv) Triers: pra fazer embrulho
-[05:05:24]: [Say] (KU_HuDeJaXv) Triers: quando esse acabar
-[05:05:27]: [Say] (KU_XmwUs4ho) mhat2001: aah
-[05:05:30]: [Say] (KU_XmwUs4ho) mhat2001: engenhoso
-[05:06:13]: [Say] (KU_HuDeJaXv) Triers: matar esse fdp
-[05:08:34]: [Say] (KU_HuDeJaXv) Triers: e ai
-[05:09:00]: [Say] (KU_XmwUs4ho) mhat2001: chega ai, to com a termal
-[05:09:01]: [Say] (KU_jntKIE-z) Petrique: Tem que fazer armor
-[05:09:25]: [Say] (KU_HuDeJaXv) Triers: pera
-[05:10:30]: [Say] (KU_HuDeJaXv) Triers: quero as estacas
-[05:10:38]: [Say] (KU_HuDeJaXv) Triers:  I have a fire staff with 100% durability.
-[05:10:45]: [Say] (KU_XmwUs4ho) mhat2001: dale termal ?
-[05:10:46]: [Say] (KU_jntKIE-z) Petrique: Ok
-[05:10:48]: [Say] (KU_HuDeJaXv) Triers: go
-[05:11:11]: [Announcement] 󰀭〖 Antlion 〗Got Killed By󰀍〖 Petrique 〗󰀘
-[05:14:55]: [Say] (KU_jntKIE-z) Petrique: I need more
-[05:15:00]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 3 garrafa vazias.
-[05:15:09]: [Say] (KU_XmwUs4ho) mhat2001: cachaçero
-[05:16:45]: [Say] (KU_HuDeJaXv) Triers: ja volto
-[05:16:49]: [Say] (KU_XmwUs4ho) mhat2001: bl
-[05:16:50]: [Say] (KU_jntKIE-z) Petrique: Okay
-[05:16:56]: [Leave Announcement] Triers
-[05:23:10]: [Join Announcement] Triers
-[05:28:58]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 124 pomada de curas.
-[05:31:42]: [Say] (KU_XmwUs4ho) mhat2001:  I have 30 beard hairs.
-[05:38:22]: [Say] (KU_HuDeJaXv) Triers:  I have 20 blow darts.
-[06:04:23]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 130 sementes de pimentas, e este tem 98% de frescura.
-[06:04:24]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 118 sementes de alhos, e este tem 82% de frescura.
-[06:04:28]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 127 sementes de cebolas, e este tem 53% de frescura.
-[06:13:54]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 53 pedaço de madeira flutuantes.
-[06:19:39]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 11 pedaço de madeira flutuantes.
-[06:20:51]: [Say] (KU_HuDeJaXv) Triers:  I have a butter with 100% freshness.
-[06:24:23]: [Say] (KU_HuDeJaXv) Triers:  I have 20 butterfly wings, and this one has 96% freshness.
-[06:26:40]: [Say] (KU_XmwUs4ho) mhat2001:  We have 70 moon rocks in this scaled chest.
-[06:29:14]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
-[06:39:06]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 151 toras vivas.
-[06:39:32]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 290 toras vivas.
-[06:40:36]: [Leave Announcement] mhat2001
-[06:44:46]: [Say] (KU_HuDeJaXv) Triers:  We have 440 rocks in this scaled chest.
-[06:44:48]: [Say] (KU_HuDeJaXv) Triers:  We have 360 rocks in this chest.
-[06:44:50]: [Say] (KU_HuDeJaXv) Triers:  We have 351 rocks in this chest.
-[06:48:56]: [Leave Announcement] Petrique
-[06:49:09]: [Leave Announcement] Triers
+[00:02:38]: [Join Announcement] Triers
+[00:02:41]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[00:02:41]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:06:16]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[00:16:26]: [Join Announcement] Petrique
+[00:16:38]: [Say] (KU_HuDeJaXv) Triers: vish
+[00:16:42]: [Say] (KU_HuDeJaXv) Triers: olha o crack
+[00:16:53]: [Say] (KU_jntKIE-z) Petrique: sauhdsaudhsauh
+[00:16:58]: [Say] (KU_jntKIE-z) Petrique: É foda bixo
+[00:17:19]: [Say] (KU_jntKIE-z) Petrique: bicho*dqw
+[00:17:37]: [Say] (KU_HuDeJaXv) Triers: entao
+[00:17:41]: [Say] (KU_HuDeJaXv) Triers: preciso ir no pantano
+[00:17:44]: [Say] (KU_HuDeJaXv) Triers: mas ta com evento la
+[00:17:58]: [Say] (KU_jntKIE-z) Petrique: shushsusu
+[00:18:00]: [Say] (KU_HuDeJaXv) Triers: vai cmg?
+[00:18:08]: [Say] (KU_jntKIE-z) Petrique: Pdc
+[00:19:23]: [Say] (KU_HuDeJaXv) Triers: coloquei os eventos
+[00:19:28]: [Say] (KU_HuDeJaXv) Triers: do gato e do beefalo
+[00:19:33]: [Say] (KU_HuDeJaXv) Triers: ah e coloquei o mod do beefalo
+[00:19:34]: [Say] (KU_jntKIE-z) Petrique: Nice
+[00:19:36]: [Say] (KU_HuDeJaXv) Triers: dps olha la
+[00:19:46]: [Say] (KU_jntKIE-z) Petrique: E o do hallowwin
+[00:19:52]: [Say] (KU_jntKIE-z) Petrique: SEI LA como escreve isso kk
+[00:20:08]: [Say] (KU_HuDeJaXv) Triers: esse n
+[00:20:52]: [Say] (KU_jntKIE-z) Petrique: Ae caralho
+[00:21:03]: [Say] (KU_jntKIE-z) Petrique: Dificuldade pra colocar a arvore no mesmo lugar que antes kk
+[00:21:09]: [Say] (KU_HuDeJaXv) Triers: eu n ativei pq vc já fez living log uhahuauhau
+[00:21:16]: [Say] (KU_jntKIE-z) Petrique: Tendi kk
+[00:21:19]: [Say] (KU_HuDeJaXv) Triers: mas quando eu for contruir o bioma de log eu ativo
+[00:21:21]: [Say] (KU_HuDeJaXv) Triers: pode ser?
+[00:21:22]: [Say] (KU_jntKIE-z) Petrique: Futuramente eu quero
+[00:21:28]: [Say] (KU_HuDeJaXv) Triers: siim
+[00:21:30]: [Say] (KU_jntKIE-z) Petrique: Sim
+[00:21:32]: [Say] (KU_HuDeJaXv) Triers: tem coisas legais
+[00:21:52]: [Say] (KU_jntKIE-z) Petrique: Quero fazer um lugar com estatuas, cadavers, coração vai ficar top
+[00:22:02]: [Say] (KU_HuDeJaXv) Triers: siiim
+[00:22:04]: [Say] (KU_HuDeJaXv) Triers: boa
+[00:22:08]: [Say] (KU_HuDeJaXv) Triers: lugar de reviver
+[00:22:10]: [Say] (KU_HuDeJaXv) Triers: huauhauhauhhuahu
+[00:22:27]: [Say] (KU_jntKIE-z) Petrique: Isso
+[00:22:28]: [Say] (KU_jntKIE-z) Petrique: ushshuhs
+[00:23:34]: [Say] (KU_HuDeJaXv) Triers: go?
+[00:23:50]: [Say] (KU_jntKIE-z) Petrique: Go
+[00:24:17]: [Say] (KU_jntKIE-z) Petrique: Sem tp?
+[00:24:20]: [Say] (KU_jntKIE-z) Petrique: F ;-;
+[00:24:22]: [Say] (KU_HuDeJaXv) Triers: n tenho
+[00:24:24]: [Say] (KU_HuDeJaXv) Triers: la
+[00:24:26]: [Say] (KU_HuDeJaXv) Triers: vou colocar
+[00:24:27]: [Say] (KU_HuDeJaXv) Triers: pera
+[00:24:35]: [Say] (KU_jntKIE-z) Petrique: Mas tinha né?
+[00:24:38]: [Say] (KU_jntKIE-z) Petrique: nÃO TO LOCO
+[00:24:38]: [Say] (KU_HuDeJaXv) Triers: n
+[00:24:44]: [Say] (KU_HuDeJaXv) Triers: no pantano n
+[00:24:57]: [Say] (KU_jntKIE-z) Petrique: Bele
+[00:26:19]: [Say] (KU_HuDeJaXv) Triers:  I have 2 backtrek watchs, and this one has 100% charge.
+[00:26:23]: [Say] (KU_HuDeJaXv) Triers: pronto
+[00:26:41]: [Say] (KU_jntKIE-z) Petrique: Sgow
+[00:29:43]: [Say] (KU_jntKIE-z) Petrique: Cade esse veio
+[00:29:47]: [Say] (KU_jntKIE-z) Petrique: KK
+[00:29:51]: [Say] (KU_jntKIE-z) Petrique: aCHEI
+[00:30:30]: [Say] (KU_jntKIE-z) Petrique: KKKKKKKKKK
+[00:30:39]: [Say] (KU_HuDeJaXv) Triers: pqp
+[00:32:09]: [Say] (KU_jntKIE-z) Petrique: Acho que acabouw
+[00:32:15]: [Say] (KU_HuDeJaXv) Triers: ss
+[00:32:17]: [Say] (KU_HuDeJaXv) Triers: dale
+[00:33:11]: [Say] (KU_HuDeJaXv) Triers: mas de boa
+[00:33:14]: [Say] (KU_HuDeJaXv) Triers: so queria papiro msm
+[00:35:16]: [Say] (KU_HuDeJaXv) Triers: quase fui de base
+[00:35:20]: [Say] (KU_HuDeJaXv) Triers: pro tentaculo
+[00:35:22]: [Say] (KU_HuDeJaXv) Triers: ahuuhauhauhauhauh
+[00:35:32]: [Say] (KU_jntKIE-z) Petrique: suhsus eu desci pra 50
+[00:35:43]: [Say] (KU_jntKIE-z) Petrique: Deu quantos?
+[00:35:46]: [Say] (KU_HuDeJaXv) Triers:  I have 64 cut reeds.
+[00:36:00]: [Say] (KU_jntKIE-z) Petrique: Não é o ideal mas tá bom
+[00:36:06]: [Say] (KU_HuDeJaXv) Triers: sim huahuauha
+[00:37:13]: [Say] (KU_jntKIE-z) Petrique: Me puxa ae
+[00:39:14]: [Say] (KU_jntKIE-z) Petrique: Me puxa
+[00:39:16]: [Say] (KU_jntKIE-z) Petrique: ;-;
+[00:39:20]: [Say] (KU_HuDeJaXv) Triers: opa
+[00:39:21]: [Say] (KU_HuDeJaXv) Triers: puxo
+[00:39:37]: [Say] (KU_jntKIE-z) Petrique: Tk
+[00:40:48]: [Say] (KU_HuDeJaXv) Triers: volto ja
+[00:40:52]: [Say] (KU_jntKIE-z) Petrique: Blz
+[00:41:44]: [Leave Announcement] Triers
+[00:45:31]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 76 sementes de pimentas, e este tem 83% de frescura.
+[00:46:13]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 38 sementes de pimentas, e este tem 83% de frescura.
+[00:58:56]: [Announcement] 󰀏〖 Dragonfly 〗is Available Now󰀏
+[01:23:46]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 126 sementes de pimentas, e este tem 96% de frescura.
+[01:24:12]: [Leave Announcement] Petrique
+[06:46:17]: [Join Announcement] Triers
+[07:06:17]: [Join Announcement] Petrique
+[07:06:28]: [Say] (KU_jntKIE-z) Petrique: Sarve
+[07:06:31]: [Say] (KU_HuDeJaXv) Triers: saalve
+[07:07:44]: [Say] (KU_jntKIE-z) Petrique: Bora de call ou tá em call no new world?
+[07:07:48]: [Say] (KU_HuDeJaXv) Triers: bora
+[07:12:37]: [Join Announcement] mhat2001
+[07:13:14]: [Leave Announcement] Triers
+[07:15:20]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 133 pimentinhas, e este tem 83% de frescura.
+[07:17:06]: [Say] (KU_XmwUs4ho) mhat2001:  I have 56 kelp fronds, and this one has 100% freshness.
+[07:21:07]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 48 milhos, e este tem 90% de frescura.
+[07:48:06]: [Join Announcement] Triers
+[07:50:35]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 206 flocos picantes.
+[08:01:12]: [Say] (KU_HuDeJaXv) Triers:  I have 10 meats, and this one has 100% freshness.
+[08:02:53]: [Say] (KU_HuDeJaXv) Triers:  We have 18 meats in this salt box, and this one has 96% freshness.
+[08:11:00]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[08:19:52]: [Leave Announcement] Petrique
+[08:29:04]: [Announcement] 󰀭〖 Deerclops 〗Got Killed By󰀍〖 Triers 〗󰀘
+[08:30:40]: [Leave Announcement] mhat2001
+[08:30:44]: [Leave Announcement] Triers
