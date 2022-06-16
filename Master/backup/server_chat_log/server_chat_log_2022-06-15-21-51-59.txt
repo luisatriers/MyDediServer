@@ -1,0 +1,16 @@
+[00:02:27]: [Join Announcement] Triers
+[00:02:31]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:02:31]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[00:47:39]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[04:26:25]: [Announcement] 󰀏〖 Wet Loot Stash 〗is Available Now󰀏
+[05:19:26]: [Announcement] 󰀭〖 Antlion 〗Got Killed By󰀍〖 Triers 〗󰀘
+[05:19:29]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[05:19:46]: [Vote Announcement] rollback passed
+[05:20:41]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[05:20:41]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[05:21:02]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[05:21:05]: [Vote Announcement] rollback passed
+[05:21:33]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[05:21:33]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[05:25:40]: [Announcement] 󰀭〖 Antlion 〗Got Killed By󰀍〖 Triers 〗󰀘
+[07:11:47]: [Leave Announcement] Triers
