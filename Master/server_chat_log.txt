@@ -1,0 +1,24 @@
+[00:06:02]: [Join Announcement] Petrique
+[00:06:05]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[00:06:05]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:24:47]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 8 cajado do chamador de estrelas, e este tem 100% de durabilidade.
+[00:24:48]: [Say] (KU_jntKIE-z) Petrique:  Nós temos 6 cajado do chamador de estrelas neste baú de escamas, e este tem 100% de durabilidade.
+[00:42:21]: [Say] (KU_jntKIE-z) Petrique:  Nós temos 480 gravetos neste baú de escamas.
+[00:58:44]: [Join Announcement] mhat2001
+[01:00:51]: [Say] (KU_XmwUs4ho) mhat2001: lobo?
+[01:01:12]: [Say] (KU_jntKIE-z) Petrique: Talvez
+[01:01:31]: [Say] (KU_XmwUs4ho) mhat2001: noss
+[01:01:36]: [Say] (KU_XmwUs4ho) mhat2001: 3ddias
+[01:01:45]: [Say] (KU_jntKIE-z) Petrique: kk
+[01:06:10]: [Leave Announcement] mhat2001
+[01:06:57]: [Join Announcement] mhat2001
+[01:07:58]: [Leave Announcement] mhat2001
+[01:09:35]: [Join Announcement] mhat2001
+[01:15:22]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 40 gravetos.
+[01:37:30]: [Announcement] 󰀭〖 Wet Klaus 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[01:51:55]: [Announcement] 󰀭〖 Dragonfly 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[01:52:52]: [Announcement] 󰀏〖 Toadstool 〗is Available Now󰀏
+[01:58:08]: [Skin Announcement] mhat2001 legs_winona_frankenstein
+[02:03:28]: [Announcement] 󰀭〖 Bee Queen 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[02:04:49]: [Leave Announcement] mhat2001
+[02:25:14]: [Leave Announcement] Petrique
