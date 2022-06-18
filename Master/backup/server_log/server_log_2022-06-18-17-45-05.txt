@@ -1,0 +1,151 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 37%
+	Available Physical Memory: 10163m/16317m
+	Available Page File: 8755m/18749m
+	Available Virtual Memory: 134213509m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 167k
+	Quota Page Pool Usage: 167k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Sat Jun 18 17:44:15 2022
+
+[00:00:00]: Don't Starve Together: 510124 WIN32
+[00:00:00]: Build Date: 1097
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (11836)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:3.44
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'Ping Job Thread' (10092)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (10788)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64 bits
+  CPU                       
+    clockSpeed                3600
+    name                      Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    name                      Radeon RX 570 Series
+    driverVersion             26.20.15002.61
+    driverDate                20191204000000.000000-000
+    refreshRate               60
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: [string "scripts/util.lua"]:886: TheSim:GetPersistentString profile --> Failed to scan constant at starting position 1 from string <<<<<<< Updated upstream
+KLEI     1DAQAAABAAAAAtAQAAxQAAAHjaVY7RTsMwDEX/xc99oBtjWn4FTZZJPAikcYidVgPx70SlGtqjr6+Pzzd4yVYlKbjn8wAtJ/EfHHCRmsIr57848Bw9o6ei+AJu9zBA5Ry44mejFO0KbrxvEbheutAsNRrjJGH7UBJdMWY1yp7BPZ4GWKeUMIaOeTqMp/3hOB4H6Gk1XUFKC2Ze8E3UsMSuWMFdKCn/75p2nyKlldvKNzWZ4hdZlFwqK9umQc1Eae4GVtsGCVFXOwrv/W7ibHe4n19uF2wx
+=======
+KLEI     1DAQAAABAAAAAtAQAAygAAAHjaVY/RTsMwDEX/xc99oENlIr+CUOQl3gikcYidVgPx7/OqDcGj7aN7j78hcNHGWcC9vA4guPqYpGY8e4zvXXSmor5y7RXcEbPQAJGWFMgHrOIP4HYPAxxx4ZaU/MzxFvWXQnAGNSqRmv/smJOewY0DbEWpiGIJBG6y1Tbl7FM04mkanx+n/bg3NcWmsgVdLQut/o3F3FL4oPYrd791sar/3sHe4Tl9oSYutZGQ3lyxKwsuZqCtG9lLZkuNfuWW44nKFfu5AH9/bCo=
+>>>>>>> Stashed changes
+
+LUA ERROR stack traceback:
+        =[C] in function 'assert'
+        scripts/util.lua(886,1) in function 'tracked_assert'
+        scripts/json.lua(330,1)
+        =(tail call) ?
+        scripts/util.lua(889,1) in function 'TrackedAssert'
+        scripts/playerprofile.lua(1417,1) in function 'Set'
+        scripts/playerprofile.lua(1394,1)
+        =[C] in function 'GetPersistentString'
+        scripts/playerprofile.lua(1392,1) in function 'Load'
+        scripts/main.lua(174,1) in main chunk
+[00:00:01]: [string "scripts/mainfunctions.lua"]:852: variable 'TheMixer' is not declared
+LUA ERROR stack traceback:
+        =[C] in function 'error'
+        scripts/strict.lua(23,1)
+        scripts/mainfunctions.lua(852,1) in function 'SetPause'
+        scripts/mainfunctions.lua(1484,1)
+        =[C] in function 'GetPersistentString'
+        scripts/playerprofile.lua(1392,1) in function 'Load'
+        scripts/main.lua(174,1) in main chunk
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: Could not load modindex	
+[00:00:01]: File str is [<<<<<<< Updated upstream
+KLEI     1DAQAAABAAAAAODQAAlwEAAHjazVbbTuNADP0VxHNX8mVmbD/0SxCKAh0gop1ESUofqv77TrVFCwghhHDVPFqJT+xjH58xz9uxXO1X3dTerXMzDfm+a9dNfsllbnbtWLryuHxo11NePJd+V5p26JqXPE5dX5YIp+CmX03L/c31rh+fp6d++INkkUTM7Pp2uc/lmHx1yjPnzdB8Ejr9w2tsyvkj2mHxBkLJIAVW9kNQSgga/GpgUUxg8q6GedzmxWui5q79Itn/17py32+Gdu6OLO66+enISf735TvIygyIBMTgVhVGS4kJAztCKKqRBnWDsEq+qDJ+h5tPML9FzU/7GxNXIv0oFE0phghwccVHlqSRGfxmSy1U+QKJl8d8fVJUs3g+wVAIVQQxol/DSZiVMPnpRV0YqtdCPTcGAAyDX5sqETEYkCMRqJHIGOR840VBqsoaQjgfZkhJmIgub8EJAmMdI/HzHATVcnAS8NsFTmhWLQY4IjAisaOJIWYUUoboBxFJY0A+5+hrFVus19PPN3GIyepyqaP5ozpeJPa79+Jw+AtuVcWN
+=======
+KLEI     1DAQAAABAAAABgBAAA5wAAAHjazZLLasMwEEV/pWTtgt6Phb8kFKFE00bEloSkxAvjf0+MndJSClmZzHK4c89cZjLUSw5vo/PFHjowJcHR287AFUI1g83Bh6/203YFmnOIQzA2eXOFXHwMLUZrs4+utON+N8R8LqeY3gknijNMEdt9tCOE2dy1NV+gWVHOHKxbnQvAH+NvmQ/H2Cdb/bzf4OtppsEyOTU/mPhegiut+ZZMxQnRFMkNmUozojmST+Ws0CfzEC2tp5DL4EP6f4BfqxEmpVIab3l2KhUWSEu6HVIqITjjCL3cAZgQkhJCXuM1pukGpYWhDg==
+>>>>>>> Stashed changes
+]	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DoLuaFile Error: (null)
+[00:00:01]: LuaError but no error string
+[00:00:01]: Error loading main.lua
+[00:00:01]: Failed mSimulation->Reset()
+[00:00:01]: Error during game initialization!
+[00:00:01]: Collecting garbage...
+[00:00:01]: lua_gc took 0.05 seconds
+[00:00:01]: ~ShardLuaProxy()
+[00:00:01]: ~cEventLeaderboardProxy()
+[00:00:01]: ~ItemServerLuaProxy()
+[00:00:01]: ~InventoryLuaProxy()
+[00:00:01]: ~NetworkLuaProxy()
+[00:00:01]: ~SimLuaProxy()
+[00:00:01]: lua_close took 0.02 seconds
+[00:00:01]: CurlRequestManager::ClientThread::Main() complete
+[00:00:01]: HttpClient2 discarded 0 callbacks.
+[00:00:01]: Shutting down
