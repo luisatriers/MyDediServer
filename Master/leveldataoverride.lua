@@ -1,11 +1,11 @@
 return {
-  desc="A experiência padrão de Don't Starve",
+  desc="The standard Don't Starve experience.",
   hideminimap=false,
   id="SURVIVAL_TOGETHER",
   location="forest",
   max_playlist_position=999,
   min_playlist_position=0,
-  name="Floresta Padrão",
+  name="Standard Forest",
   numrandom_set_pieces=4,
   override_level_string=false,
   overrides={
@@ -36,7 +36,7 @@ return {
     chess="default",
     cookiecutters="default",
     crabking="default",
-    crow_carnival="default",
+    crow_carnival="enabled",
     day="default",
     deciduousmonster="default",
     deciduoustree_regrowth="default",
@@ -154,9 +154,9 @@ return {
     wobsters="default",
     world_size="huge",
     wormhole_prefab="wormhole",
-    year_of_the_beefalo="default",
+    year_of_the_beefalo="enabled",
     year_of_the_carrat="default",
-    year_of_the_catcoon="default",
+    year_of_the_catcoon="enabled",
     year_of_the_gobbler="default",
     year_of_the_pig="default",
     year_of_the_varg="default" 
@@ -184,12 +184,12 @@ return {
   },
   required_prefabs={ "multiplayer_portal" },
   required_setpieces={ "Sculptures_1", "Maxwell5" },
-  settings_desc="A experiência padrão de Don't Starve",
+  settings_desc="The standard Don't Starve experience.",
   settings_id="SURVIVAL_TOGETHER",
-  settings_name="Floresta Padrão",
+  settings_name="Standard Forest",
   substitutes={  },
   version=4,
-  worldgen_desc="A experiência padrão de Don't Starve",
+  worldgen_desc="The standard Don't Starve experience.",
   worldgen_id="SURVIVAL_TOGETHER",
-  worldgen_name="Floresta Padrão" 
+  worldgen_name="Standard Forest" 
 }

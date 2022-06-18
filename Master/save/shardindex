@@ -15,6 +15,39 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-1894295075"]={ configuration_options={  }, enabled=true },
+    ["workshop-2477889104"]={
+      configuration_options={
+        BADGE_BG_BRIGHTNESS=60,
+        BADGE_BG_OPACITY=100,
+        COLOR_DOMESTICATION_DEFAULT="WHITE",
+        COLOR_DOMESTICATION_ORNERY="ORANGE",
+        COLOR_DOMESTICATION_PUDGY="PURPLE",
+        COLOR_DOMESTICATION_RIDER="BLUE",
+        COLOR_OBEDIENCE="RED",
+        COLOR_TIMER="GREEN",
+        ClientConfig=false,
+        EnableSounds=false,
+        GapModifier=0,
+        HEALTH_BADGE_CLEAR_BG=false,
+        HungerThreshold=10,
+        OffsetX=0,
+        OffsetXFine=0,
+        OffsetXMult=1,
+        OffsetY=0,
+        OffsetYFine=0,
+        OffsetYMult=1,
+        SEPARATOR_BADGE_COLORS=1,
+        SEPARATOR_BADGE_SETTINGS=1,
+        SEPARATOR_GENERAL=1,
+        SEPARATOR_POSITIONING_X=1,
+        SEPARATOR_POSITIONING_Y=1,
+        Scale=1,
+        ShowByDefault=true,
+        Theme="Default",
+        ToggleKey="KEY_T" 
+      },
+      enabled=true 
+    },
     ["workshop-2528541304"]={
       configuration_options={ amount_given=4, amount_given2=4, planting_floor=true },
       enabled=true 
@@ -32,6 +65,7 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-466732225"]={ configuration_options={  }, enabled=true },
+    ["workshop-786654500"]={ configuration_options={ active=true }, enabled=true },
     ["workshop-926178831"]={
       configuration_options={
         BATCLOISTER="OFF",
@@ -85,13 +119,13 @@ KLEI     1 return {
   version=4,
   world={
     options={
-      desc="A experiência padrão de Don't Starve",
+      desc="The standard Don't Starve experience.",
       hideminimap=false,
       id="SURVIVAL_TOGETHER",
       location="forest",
       max_playlist_position=999,
       min_playlist_position=0,
-      name="Floresta Padrão",
+      name="Standard Forest",
       numrandom_set_pieces=4,
       override_level_string=false,
       overrides={
@@ -122,7 +156,7 @@ KLEI     1 return {
         chess="default",
         cookiecutters="default",
         crabking="default",
-        crow_carnival="default",
+        crow_carnival="enabled",
         day="default",
         deciduousmonster="default",
         deciduoustree_regrowth="default",
@@ -240,9 +274,9 @@ KLEI     1 return {
         wobsters="default",
         world_size="huge",
         wormhole_prefab="wormhole",
-        year_of_the_beefalo="default",
+        year_of_the_beefalo="enabled",
         year_of_the_carrat="default",
-        year_of_the_catcoon="default",
+        year_of_the_catcoon="enabled",
         year_of_the_gobbler="default",
         year_of_the_pig="default",
         year_of_the_varg="default" 
@@ -270,14 +304,14 @@ KLEI     1 return {
       },
       required_prefabs={ "multiplayer_portal" },
       required_setpieces={ "Sculptures_1", "Maxwell5" },
-      settings_desc="A experiência padrão de Don't Starve",
+      settings_desc="The standard Don't Starve experience.",
       settings_id="SURVIVAL_TOGETHER",
-      settings_name="Floresta Padrão",
+      settings_name="Standard Forest",
       substitutes={  },
       version=4,
-      worldgen_desc="A experiência padrão de Don't Starve",
+      worldgen_desc="The standard Don't Starve experience.",
       worldgen_id="SURVIVAL_TOGETHER",
-      worldgen_name="Floresta Padrão" 
+      worldgen_name="Standard Forest" 
     } 
   } 
 }

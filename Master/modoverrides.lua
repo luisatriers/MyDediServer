@@ -14,6 +14,39 @@ return {
     enabled=true 
   },
   ["workshop-1894295075"]={ configuration_options={  }, enabled=true },
+  ["workshop-2477889104"]={
+    configuration_options={
+      BADGE_BG_BRIGHTNESS=60,
+      BADGE_BG_OPACITY=100,
+      COLOR_DOMESTICATION_DEFAULT="WHITE",
+      COLOR_DOMESTICATION_ORNERY="ORANGE",
+      COLOR_DOMESTICATION_PUDGY="PURPLE",
+      COLOR_DOMESTICATION_RIDER="BLUE",
+      COLOR_OBEDIENCE="RED",
+      COLOR_TIMER="GREEN",
+      ClientConfig=false,
+      EnableSounds=false,
+      GapModifier=0,
+      HEALTH_BADGE_CLEAR_BG=false,
+      HungerThreshold=10,
+      OffsetX=0,
+      OffsetXFine=0,
+      OffsetXMult=1,
+      OffsetY=0,
+      OffsetYFine=0,
+      OffsetYMult=1,
+      SEPARATOR_BADGE_COLORS=1,
+      SEPARATOR_BADGE_SETTINGS=1,
+      SEPARATOR_GENERAL=1,
+      SEPARATOR_POSITIONING_X=1,
+      SEPARATOR_POSITIONING_Y=1,
+      Scale=1,
+      ShowByDefault=true,
+      Theme="Default",
+      ToggleKey="KEY_T" 
+    },
+    enabled=true 
+  },
   ["workshop-2528541304"]={
     configuration_options={ amount_given=4, amount_given2=4, planting_floor=true },
     enabled=true 
@@ -31,6 +64,7 @@ return {
     enabled=true 
   },
   ["workshop-466732225"]={ configuration_options={  }, enabled=true },
+  ["workshop-786654500"]={ configuration_options={ active=true }, enabled=true },
   ["workshop-926178831"]={
     configuration_options={
       BATCLOISTER="OFF",

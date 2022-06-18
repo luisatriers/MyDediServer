@@ -15,6 +15,39 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-1894295075"]={ configuration_options={  }, enabled=true },
+    ["workshop-2477889104"]={
+      configuration_options={
+        BADGE_BG_BRIGHTNESS=60,
+        BADGE_BG_OPACITY=100,
+        COLOR_DOMESTICATION_DEFAULT="WHITE",
+        COLOR_DOMESTICATION_ORNERY="ORANGE",
+        COLOR_DOMESTICATION_PUDGY="PURPLE",
+        COLOR_DOMESTICATION_RIDER="BLUE",
+        COLOR_OBEDIENCE="RED",
+        COLOR_TIMER="GREEN",
+        ClientConfig=false,
+        EnableSounds=false,
+        GapModifier=0,
+        HEALTH_BADGE_CLEAR_BG=false,
+        HungerThreshold=10,
+        OffsetX=0,
+        OffsetXFine=0,
+        OffsetXMult=1,
+        OffsetY=0,
+        OffsetYFine=0,
+        OffsetYMult=1,
+        SEPARATOR_BADGE_COLORS=1,
+        SEPARATOR_BADGE_SETTINGS=1,
+        SEPARATOR_GENERAL=1,
+        SEPARATOR_POSITIONING_X=1,
+        SEPARATOR_POSITIONING_Y=1,
+        Scale=1,
+        ShowByDefault=true,
+        Theme="Default",
+        ToggleKey="KEY_T" 
+      },
+      enabled=true 
+    },
     ["workshop-2528541304"]={
       configuration_options={ amount_given=4, amount_given2=4, planting_floor=true },
       enabled=true 
@@ -32,6 +65,7 @@ KLEI     1 return {
       enabled=true 
     },
     ["workshop-466732225"]={ configuration_options={  }, enabled=true },
+    ["workshop-786654500"]={ configuration_options={ active=true }, enabled=true },
     ["workshop-926178831"]={
       configuration_options={
         BATCLOISTER="OFF",
@@ -86,13 +120,13 @@ KLEI     1 return {
   world={
     options={
       background_node_range={ 0, 1 },
-      desc="Explorem as cavernas... Juntos!",
+      desc="Delve into the caves... together!",
       hideminimap=false,
       id="DST_CAVE",
       location="cave",
       max_playlist_position=999,
       min_playlist_position=0,
-      name="As Cavernas",
+      name="The Caves",
       numrandom_set_pieces=0,
       override_level_string=false,
       overrides={
@@ -111,7 +145,7 @@ KLEI     1 return {
         cave_spiders="default",
         cavelight="default",
         chess="default",
-        crow_carnival="default",
+        crow_carnival="enabled",
         day="default",
         dropeverythingondespawn="default",
         dustmoths="default",
@@ -183,22 +217,22 @@ KLEI     1 return {
         wormhole_prefab="tentacle_pillar",
         wormlights="default",
         worms="default",
-        year_of_the_beefalo="default",
+        year_of_the_beefalo="enabled",
         year_of_the_carrat="default",
-        year_of_the_catcoon="default",
+        year_of_the_catcoon="enabled",
         year_of_the_gobbler="default",
         year_of_the_pig="default",
         year_of_the_varg="default" 
       },
       required_prefabs={ "multiplayer_portal" },
-      settings_desc="Explorem as cavernas... Juntos!",
+      settings_desc="Delve into the caves... together!",
       settings_id="DST_CAVE",
-      settings_name="As Cavernas",
+      settings_name="The Caves",
       substitutes={  },
       version=4,
-      worldgen_desc="Explorem as cavernas... Juntos!",
+      worldgen_desc="Delve into the caves... together!",
       worldgen_id="DST_CAVE",
-      worldgen_name="As Cavernas" 
+      worldgen_name="The Caves" 
     } 
   } 
 }

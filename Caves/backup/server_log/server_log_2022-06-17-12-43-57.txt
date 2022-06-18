@@ -1,0 +1,373 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 68%
+	Available Physical Memory: 5193m/16301m
+	Available Page File: 8617m/25802m
+	Available Virtual Memory: 134213488m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 30m
+	Working Set Size: 30m
+	Quota Peak Page Pool Usage: 210k
+	Quota Page Pool Usage: 207k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 13k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/182526147/Cluster_2/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Fri Jun 17 12:43:35 2022
+
+[00:00:00]: Don't Starve Together: 510124 WIN32
+[00:00:00]: Build Date: 1097
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 12992 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -ownernetid 76561198142791875 -ownerdir 182526147 -clouddir 182526147 -backup_log_count 25 -backup_log_period 0 -ugc_directory C:\\Program Files (x86)\\Steam\\steamapps\\workshop -shard Caves -secondary_log_prefix caves -sigprefix DST_Secondary -token *********************************************************************************** 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (14552)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:02]: [Steam] SteamGameServer_Init success
+[00:00:03]: ProfileIndex:4.84
+[00:00:03]: [Connect] PendingConnection::Reset(true)
+[00:00:03]: Platform: 1
+[00:00:03]: THREAD - started 'Ping Job Thread' (9840)
+[00:00:03]: Network tick rate: U=15(2), D=0
+[00:00:03]: Network tick rate: U=15(2), D=0
+[00:00:03]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:03]: WindowsFirewall - Application already authorized
+[00:00:03]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/182526147/client_save/blocklist.txt (Failure)
+[00:00:03]: THREAD - started 'StreamInput' (9284)
+[00:00:03]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/182526147/client_save/adminlist.txt (Failure)
+[00:00:03]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/182526147/client_save/whitelist.txt (Failure)
+[00:00:03]: Offline user ID: OU_76561198142791875
+[00:00:03]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home Single Language
+    version                   10.0.19044
+    platformSpecific          SP 0.0
+    architecture              64 bits
+  CPU                       
+    clockSpeed                3696
+    name                      Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 cores
+    name                      NVIDIA GeForce GTX 1660
+    driverVersion             27.21.14.5671
+    driverDate                20200930000000.000000-000
+    refreshRate               60
+
+[00:00:03]: cGame::InitializeOnMainThread
+[00:00:03]: Renderer initialize: Okay
+[00:00:03]: AnimManager initialize: Okay
+[00:00:03]: Buffers initialize: Okay
+[00:00:03]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:03]: GameSpecific initialize: Okay
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: AppVersion::GetArchitecture() x64
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:11]: SUCCESS: Loaded modoverrides.lua	
+[00:00:11]: modoverrides.lua enabling workshop-2528541304	
+[00:00:11]: modoverrides.lua enabling workshop-1894295075	
+[00:00:11]: modoverrides.lua enabling workshop-2477889104	
+[00:00:11]: modoverrides.lua enabling workshop-466732225	
+[00:00:11]: modoverrides.lua enabling workshop-1111658995	
+[00:00:11]: modoverrides.lua enabling workshop-786654500	
+[00:00:11]: modoverrides.lua enabling workshop-926178831	
+[00:00:11]: modoverrides.lua enabling workshop-378160973	
+[00:00:11]: modoverrides.lua enabling workshop-1185229307	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786654500	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-926178831	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1894295075_CLIENT	
+[00:00:11]: Loading mod: workshop-1894295075 (Boss Announcement) Version:1.3.2 (Old API! (mod: nil game: 10) )	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:11]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-786654500_CLIENT	
+[00:00:11]: Loading mod: workshop-786654500 (FinderMod) Version:1.14	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-926178831_CLIENT	
+[00:00:11]: Loading mod: workshop-926178831 (Force Biomes) Version:2.1	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1111658995_CLIENT	
+[00:00:11]: Loading mod: workshop-1111658995 (Show Bundle) Version:3.0	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:11]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:57	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2477889104_CLIENT	
+[00:00:11]: Loading mod: workshop-2477889104 (Beefalo Status Bar) Version:1.2.0	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:11]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2528541304_CLIENT	
+[00:00:11]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.7-a	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-2528541304	
+[00:00:11]: Overriding mod workshop-2528541304's option amount_given2 with value 4	
+[00:00:11]: Overriding mod workshop-2528541304's option planting_floor with value true	
+[00:00:11]: Overriding mod workshop-2528541304's option amount_given with value 4	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-1894295075	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-2477889104	
+[00:00:11]: Overriding mod workshop-2477889104's option HEALTH_BADGE_CLEAR_BG with value false	
+[00:00:11]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_ORNERY with value ORANGE	
+[00:00:11]: Overriding mod workshop-2477889104's option OffsetYFine with value 0	
+[00:00:11]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_PUDGY with value PURPLE	
+[00:00:11]: Overriding mod workshop-2477889104's option ToggleKey with value KEY_T	
+[00:00:11]: Overriding mod workshop-2477889104's option ClientConfig with value false	
+[00:00:11]: Overriding mod workshop-2477889104's option BADGE_BG_OPACITY with value 100	
+[00:00:11]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_Y with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option ShowByDefault with value true	
+[00:00:11]: Overriding mod workshop-2477889104's option Scale with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option Theme with value Default	
+[00:00:11]: Overriding mod workshop-2477889104's option OffsetXMult with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option SEPARATOR_POSITIONING_X with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_COLORS with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option SEPARATOR_GENERAL with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option COLOR_TIMER with value GREEN	
+[00:00:11]: Overriding mod workshop-2477889104's option COLOR_OBEDIENCE with value RED	
+[00:00:11]: Overriding mod workshop-2477889104's option GapModifier with value 0	
+[00:00:11]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_DEFAULT with value WHITE	
+[00:00:11]: Overriding mod workshop-2477889104's option OffsetYMult with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option HungerThreshold with value 10	
+[00:00:11]: Overriding mod workshop-2477889104's option BADGE_BG_BRIGHTNESS with value 60	
+[00:00:11]: Overriding mod workshop-2477889104's option OffsetXFine with value 0	
+[00:00:11]: Overriding mod workshop-2477889104's option EnableSounds with value false	
+[00:00:11]: Overriding mod workshop-2477889104's option OffsetX with value 0	
+[00:00:11]: Overriding mod workshop-2477889104's option OffsetY with value 0	
+[00:00:11]: Overriding mod workshop-2477889104's option SEPARATOR_BADGE_SETTINGS with value 1	
+[00:00:11]: Overriding mod workshop-2477889104's option COLOR_DOMESTICATION_RIDER with value BLUE	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-466732225	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-1111658995	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-786654500	
+[00:00:11]: Overriding mod workshop-786654500's option active with value true	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-926178831	
+[00:00:11]: Overriding mod workshop-926178831's option MOOSEBREEDINGTASK with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option MOREALTARS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option KILLTHESPIDERS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option RABBITTOWN with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option KILLERBEES with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option SPIDERLAND with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:11]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:11]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:11]: Overriding mod workshop-926178831's option null with value 0	
+[00:00:11]: Overriding mod workshop-926178831's option MAKEABEEHAT with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option SACREDDANGER with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option FUNGALNOISEMEADOW with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option CAVEJUNGLE with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option THEHUNTERS with value ON	
+[00:00:11]: Overriding mod workshop-926178831's option CAVESWAMP with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option MOLECOLONYDECIDUOUS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option MAGICMEADOW with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option RABBITSPIDERWAR with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option BEFRIENDTHEPIGS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option SWAMPYSINKHOLE with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option RESIDENTIAL3 with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option MUDDYSACRED with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option UNDERGROUNDFOREST with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option RESIDENTIAL2 with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option FROGSANDBUGS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option RABBITCITY with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option PLEASANTSINKHOLE with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option MILITARYPITS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option MOLECOLONYROCKS with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option BATCLOISTER with value OFF	
+[00:00:11]: Overriding mod workshop-926178831's option FUNGALNOISEFOREST with value OFF	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:11]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:11]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:11]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:11]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:11]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:11]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:11]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:11]: applying configuration_options from modoverrides.lua to mod workshop-1185229307	
+[00:00:11]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:11]: Overriding mod workshop-1185229307's option  with value 	
+[00:00:11]: Overriding mod workshop-1185229307's option WETNESS_METER with value false	
+[00:00:11]: Overriding mod workshop-1185229307's option NOEPIC with value false	
+[00:00:11]: Overriding mod workshop-1185229307's option FRAME_PHASES with value true	
+[00:00:11]: Overriding mod workshop-1185229307's option DAMAGE_NUMBERS with value true	
+[00:00:11]: Overriding mod workshop-1185229307's option NONOEPIC with value false	
+[00:00:11]: Overriding mod workshop-1185229307's option DAMAGE_RESISTANCE with value true	
+[00:00:11]: Overriding mod workshop-1185229307's option HORIZONTAL_OFFSET with value 0	
+[00:00:11]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-1111658995 (Show Bundle)	Loading modmain.lua	
+[00:00:11]: modimport: ../mods/workshop-1111658995/main/util.lua	
+[00:00:11]: modimport: ../mods/workshop-1111658995/main/showbundle_widgetcreation.lua	
+[00:00:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:00:11]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modworldgenmain.lua	
+[00:00:11]: modimport: ../mods/workshop-2528541304/tile_adder.lua	
+[00:00:11]: Mod: workshop-2528541304 (Not Enough Turfs)	Loading modmain.lua	
+[00:00:11]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfsstrings	
+[00:00:11]: modimport: ../mods/workshop-2528541304/scripts/kyno_turfspostinits	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Warning: Calling Recipe from a mod is now deprecated. Please call AddRecipe from your modmain.lua file.	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-1894295075 (Boss Announcement)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-1894295075 (Boss Announcement)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-1894295075 (Boss Announcement)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-2477889104 (Beefalo Status Bar)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1894295075	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-786654500	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-926178831	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1111658995	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2477889104	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:11]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:11]: Mod: workshop-926178831 (Force Biomes)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-926178831 (Force Biomes)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-786654500 (FinderMod)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-786654500 (FinderMod)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-786654500 (FinderMod)	Loading modmain.lua	
+[00:00:11]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:13]: LOADING LUA SUCCESS
+[00:00:13]: Registering Server mod namespace "workshop-1111658995"
+[00:00:13]: Registering Server mod namespace "findermod"
+[00:00:13]: Registering Server mod namespace "workshop-378160973"
+[00:00:13]: Registering Client mod namespace "workshop-1111658995"
+[00:00:13]: PlayerDeaths could not load morgue	
+[00:00:13]: PlayerHistory could not load player_history	
+[00:00:13]: ServerPreferences could not load server_preferences	
+[00:00:13]: bloom_enabled	true	
+[00:00:13]: OnFilesLoaded()	
+[00:00:13]: OnUpdatePurchaseStateComplete	
+[00:00:13]: Klump load on boot started.	
+[00:00:13]: Klump files loaded: 	0	
+[00:00:15]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:15]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:15]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:15]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-1111658995 (Show Bundle)	Registering prefabs	
+[00:00:15]: Mod: workshop-1111658995 (Show Bundle)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	Registering prefabs	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_terraformer	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_terraformer_placer	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering prefab file: prefabs/k_webcreep	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	    turf_webcreep	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	    kyno_ground_webcreep	
+[00:00:15]: Mod: workshop-2528541304 (Not Enough Turfs)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:15]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-1894295075 (Boss Announcement)	Registering prefabs	
+[00:00:15]: Mod: workshop-1894295075 (Boss Announcement)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2477889104 (Beefalo Status Bar)	Registering prefabs	
+[00:00:15]: Mod: workshop-2477889104 (Beefalo Status Bar)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:15]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-926178831 (Force Biomes)	Registering prefabs	
+[00:00:15]: Mod: workshop-926178831 (Force Biomes)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-786654500 (FinderMod)	Registering prefabs	
+[00:00:15]: Mod: workshop-786654500 (FinderMod)	  Registering default mod prefab	
+[00:00:15]: 	Load FE	
+[00:00:15]: 	Load FE: done	
+[00:00:15]: THREAD - started 'FilesExistAsyncThread' (13596)
+[00:00:15]: FilesExistAsyncThread started (19981 files)...
+[00:00:15]: Check for write access: TRUE
+[00:00:15]: Check for read access: TRUE
+[00:00:15]: Available disk space for save files: 100490 MB
+[00:00:15]: ModIndex: Load sequence finished successfully.	
+[00:00:15]: Reset() returning
+[00:00:15]: [IPC] Signal 'DST_Secondary_Kill' opened  #0000000000000944
+[00:00:15]: [IPC] Registering handler for signal #0000000000000944
+[00:00:15]: [IPC] Handle #0000000000000944 added to the Eventhandles
+[00:00:15]: [IPC] Signal 'DST_Secondary_ShutdownNoSave' opened  #0000000000000888
+[00:00:15]: [IPC] Registering handler for signal #0000000000000888
+[00:00:15]: [IPC] Handle #0000000000000888 added to the Eventhandles
+[00:00:15]: [IPC] Signal 'DST_Secondary_Starting' opened  #0000000000000908
+[00:00:15]: [IPC] Sending signal... #0000000000000908
+[00:00:15]: [IPC] Received shutdown signal.
+[00:00:15]: Collecting garbage...
+[00:00:16]: lua_gc took 0.06 seconds
+[00:00:16]: ~ShardLuaProxy()
+[00:00:16]: ~cEventLeaderboardProxy()
+[00:00:16]: ~ItemServerLuaProxy()
+[00:00:16]: ~InventoryLuaProxy()
+[00:00:16]: ~NetworkLuaProxy()
+[00:00:16]: ~SimLuaProxy()
+[00:00:16]: FilesExistAsyncThread aborted.
+[00:00:16]: ... FilesExistAsyncThread complete
+[00:00:16]: lua_close took 0.08 seconds
+[00:00:16]: CurlRequestManager::ClientThread::Main() complete
+[00:00:16]: HttpClient2 discarded 0 callbacks.
+[00:00:16]: Shutting down

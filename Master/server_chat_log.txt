@@ -1,10 +1,119 @@
-[00:20:45]: [Join Announcement] Petrique
-[00:20:48]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
-[00:20:48]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
-[01:55:34]: [Leave Announcement] Petrique
-[02:01:03]: [Join Announcement] mhat2001
-[02:04:31]: [Leave Announcement] mhat2001
-[02:05:59]: [Join Announcement] Petrique
-[02:11:51]: [Join Announcement] mhat2001
-[02:15:34]: [Join Announcement] Triers
-[02:58:58]: [Leave Announcement] Triers
+[05:19:21]: [Join Announcement] Triers
+[05:19:28]: [Announcement] 󰀏〖 Wet Loot Stash 〗is Available Now󰀏
+[05:19:28]: [Announcement] 󰀏〖 Wet Crab King 〗is Available Now󰀏
+[05:34:18]: [Join Announcement] Petrique
+[05:34:23]: [Say] (KU_HuDeJaXv) Triers: aoba
+[05:34:39]: [Say] (KU_jntKIE-z) Petrique: Aoba
+[05:34:59]: [Say] (KU_jntKIE-z) Petrique: O beefalo fico ali esse tempo todo?
+[05:35:00]: [Say] (KU_jntKIE-z) Petrique: kkk
+[05:35:03]: [Say] (KU_HuDeJaXv) Triers: o seu n
+[05:35:06]: [Say] (KU_HuDeJaXv) Triers: sumiu com vc uhauhau
+[05:35:10]: [Say] (KU_jntKIE-z) Petrique: sadihsaiodugsahduiysa
+[05:35:20]: [Say] (KU_jntKIE-z) Petrique: Bom saber suhsuhshus
+[05:35:39]: [Say] (KU_jntKIE-z) Petrique: Tentei arrumar as cabras
+[05:35:43]: [Say] (KU_jntKIE-z) Petrique: Já foi triste
+[05:35:55]: [Say] (KU_jntKIE-z) Petrique: For you
+[05:35:59]: [Say] (KU_HuDeJaXv) Triers: uuuuuuuuh
+[05:36:01]: [Say] (KU_HuDeJaXv) Triers: nice
+[05:36:03]: [Say] (KU_HuDeJaXv) Triers: e sapo?
+[05:36:15]: [Say] (KU_jntKIE-z) Petrique: Q
+[05:36:19]: [Say] (KU_HuDeJaXv) Triers: temo q matar
+[05:36:25]: [Say] (KU_jntKIE-z) Petrique: SS
+[05:36:46]: [Say] (KU_jntKIE-z) Petrique: Call?
+[05:36:49]: [Say] (KU_HuDeJaXv) Triers: go
+[05:46:06]: [Announcement] 󰀭〖 Wet Moose 〗Got Killed By󰀍〖 Frog 〗󰀘
+[05:49:29]: [Skin Announcement] Triers webber_beard_magma
+[06:05:09]: [Skin Announcement] Petrique legs_tweed_knickerbocker_brown_chocolate
+[06:27:38]: [Say] (KU_HuDeJaXv) Triers:  I have a shadow thurible with 81% durability.
+[06:28:16]: [Leave Announcement] Petrique
+[06:30:29]: [Join Announcement] Petrique
+[06:31:48]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 7 dor climáticas, e este tem 100% de durabilidade.
+[06:34:27]: [Join Announcement] mhat2001
+[06:40:14]: [Leave Announcement] mhat2001
+[06:41:46]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 28 carne de cactos, e este tem 95% de frescura.
+[06:42:01]: [Join Announcement] mhat2001
+[06:48:47]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 chave ancestral.
+[06:50:24]: [Skin Announcement] Triers body_cardigan_red_cardinal
+[06:51:12]: [Leave Announcement] Petrique
+[06:51:13]: [Leave Announcement] mhat2001
+[06:52:05]: [Join Announcement] Petrique
+[06:53:16]: [Join Announcement] mhat2001
+[06:59:12]: [Announcement] 󰀭〖 Wet Klaus 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[07:10:26]: [Join Announcement] Petrique
+[07:10:59]: [Say] (KU_XmwUs4ho) mhat2001:  I have 9 light bulbs, and this one has 82% freshness.
+[07:18:30]: [Announcement] 󰀭〖 Misery Toadstool 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[07:18:34]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[07:18:48]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[07:20:55]: [Say] (KU_XmwUs4ho) mhat2001:  I have 6 gift wraps.
+[07:25:20]: [Say] (KU_HuDeJaXv) Triers:  I have a nightmare amulet with 86% durability.
+[07:27:11]: [Announcement] 󰀭〖 Ancient Fuelweaver 〗Got Killed By󰀍〖 Triers 〗󰀘
+[07:28:42]: [Say] (KU_HuDeJaXv) Triers:  I have 3 backtrek watchs, and this one has 1m19s until charged (83%).
+[07:30:23]: [Say] (KU_XmwUs4ho) mhat2001:  I have a bone armor with 100% durability.
+[07:30:24]: [Say] (KU_XmwUs4ho) mhat2001:  I have a bone helm with 100% durability.
+[07:32:48]: [Announcement] 󰀭〖 Ancient Guardian 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[07:34:30]: [Skin Announcement] Petrique feet_wendy_handmedown
+[07:35:05]: [Say] (KU_XmwUs4ho) mhat2001:  I have a star caller's staff with 95% durability.
+[07:37:26]: [Leave Announcement] Triers
+[07:38:10]: [Join Announcement] Triers
+[07:38:17]: [Announcement] 󰀭〖 Antlion 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[07:42:35]: [Skin Announcement] mhat2001 hand_shortgloves_red_higgsbury
+[07:47:56]: [Leave Announcement] Triers
+[07:50:33]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 20 meleca de gosmentos.
+[07:50:45]: [Join Announcement] Triers
+[07:52:29]: [Whisper] (KU_jntKIE-z) Petrique: Bora?
+[07:58:47]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[07:59:06]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[08:01:44]: [Leave Announcement] mhat2001
+[08:05:02]: [Leave Announcement] Petrique
+[08:07:44]: [Join Announcement] mhat2001
+[08:09:44]: [Leave Announcement] mhat2001
+[08:09:58]: [Skin Announcement] Triers feet_wx78_magma
+[08:13:02]: [Join Announcement] mhat2001
+[08:13:27]: [Join Announcement] Petrique
+[08:27:11]: [Say] (KU_HuDeJaXv) Triers:  I have 4 green gems.
+[08:32:11]: [Say] (KU_XmwUs4ho) mhat2001:  I have 2 gift wraps.
+[08:32:19]: [Say] (KU_XmwUs4ho) mhat2001:  I have 10 glow berrys, and this one has 98% freshness.
+[08:37:33]: [Say] (KU_XmwUs4ho) mhat2001:  I have 8 beard hairs.
+[08:44:30]: [Say] (KU_XmwUs4ho) mhat2001:  I have 40 beard hairs.
+[08:51:43]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 46 banana da cavernas, e este tem 85% de frescura.
+[08:55:51]: [Skin Announcement] Petrique abigail_handmedown
+[08:59:44]: [Say] (KU_HuDeJaXv) Triers:  I have 2 toadstool figure sketchs.
+[08:59:46]: [Say] (KU_HuDeJaXv) Triers:  I have 2 ancient fuelweaver figure sketchs.
+[09:06:52]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 magiluminescência com 55% de durabilidade.
+[09:08:11]: [Say] (KU_HuDeJaXv) Triers:  I have 43 frazzled wires.
+[09:08:12]: [Say] (KU_HuDeJaXv) Triers:  I have 17 melty marbles.
+[09:09:43]: [Say] (KU_XmwUs4ho) mhat2001:  I have 67 frazzled wires.
+[09:14:55]: [Say] (KU_XmwUs4ho) mhat2001:  (Health: 30/200) Wolfgang might die...
+[09:16:41]: [Skin Announcement] Triers hand_waxwell_yule
+[09:20:49]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 101 mels, e este tem 100% de frescura.
+[09:27:49]: [Announcement] 󰀭〖 Bee Queen 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[09:29:23]: [Say] (KU_HuDeJaXv) Triers:  I have 2 honeycombs.
+[09:32:32]: [Death Announcement] mhat2001 was killed by Volt Goat. He became a spooky ghost!
+[09:32:52]: [Resurrect Announcement] mhat2001 was resurrected by Life Giving Amulet.
+[09:42:27]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[09:43:33]: [Skin Announcement] mhat2001 feet_wx78_magma
+[09:49:05]: [Say] (KU_XmwUs4ho) mhat2001:  I have a desert goggles with 78% durability.
+[09:50:18]: [Say] (KU_XmwUs4ho) mhat2001:  I have 2 incomplete experiment blueprints.
+[09:50:19]: [Say] (KU_XmwUs4ho) mhat2001:  I have 2 astroggles blueprints.
+[09:50:48]: [Say] (KU_HuDeJaXv) Triers:  I have 6 bug nets, and this one has 70% durability.
+[09:53:51]: [Say] (KU_XmwUs4ho) mhat2001:  I have a strange tool.
+[09:58:37]: [Announcement] 󰀏〖 Toadstool 〗is Available Now󰀏
+[10:07:44]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 2 cajado telelocalizadors, e este tem 80% de durabilidade.
+[10:07:52]: [Skin Announcement] Petrique feet_willow_victorian
+[10:12:15]: [Announcement] 󰀏〖 Ancient Gateway 〗is Available Now󰀏
+[10:18:15]: [Say] (KU_XmwUs4ho) mhat2001:  I have a star caller's staff with 90% durability.
+[10:20:12]: [Say] (KU_XmwUs4ho) mhat2001:  I have a magnificent adornment.
+[10:26:51]: [Death Announcement] mhat2001 was killed by Minor Gestalt. He became a spooky ghost!
+[10:28:23]: [Resurrect Announcement] mhat2001 was resurrected by Life Giving Amulet.
+[10:33:10]: [Death Announcement] mhat2001 was killed by Celestial Champion. He became a spooky ghost!
+[10:34:41]: [Skin Announcement] Triers hand_longgloves_white_pure
+[10:37:04]: [Resurrect Announcement] mhat2001 was resurrected by Second Chance Watch.
+[10:40:32]: [Say] (KU_XmwUs4ho) mhat2001:  We have 5 shroom skins in this scaled chest.
+[10:42:20]: [Say] (KU_XmwUs4ho) mhat2001:  I have 3 magnificent adornments.
+[10:42:57]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 armadura de ossos com 63% de durabilidade.
+[10:45:22]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 1 cajado telelocalizador com 100% de durabilidade.
+[10:50:38]: [Skin Announcement] mhat2001 webber_beard_ice
+[11:01:52]: [Skin Announcement] Petrique legs_swing_pants_tan_khaki
+[11:07:03]: [Leave Announcement] mhat2001
+[11:08:27]: [Leave Announcement] Triers
+[11:09:19]: [Leave Announcement] Petrique
