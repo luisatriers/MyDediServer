@@ -1,0 +1,88 @@
+[00:01:44]: [Join Announcement] Triers
+[00:01:48]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:02:02]: [Join Announcement] mhat2001
+[00:03:16]: [Join Announcement] Petrique
+[00:14:19]: [Say] (KU_XmwUs4ho) mhat2001:  I have 6 bug nets, and this one has 100% durability.
+[00:21:13]: [Say] (KU_XmwUs4ho) mhat2001:  I have a gembell with 59% durability.
+[00:21:30]: [Say] (KU_XmwUs4ho) mhat2001:  I have a top hat with 76% durability.
+[00:33:23]: [Whisper] (KU_jntKIE-z) Petrique: Acho que o tilte é fake até agora
+[00:33:33]: [Whisper] (KU_jntKIE-z) Petrique: Quando começar o evento ele vai ficar muito putaço
+[00:33:49]: [Whisper] (KU_jntKIE-z) Petrique: putasso*
+[00:37:30]: [Say] (KU_XmwUs4ho) mhat2001:  I have a funky tool.
+[00:37:31]: [Say] (KU_XmwUs4ho) mhat2001:  I have a bizarre tool.
+[00:37:32]: [Say] (KU_XmwUs4ho) mhat2001:  I have a weird tool.
+[00:45:39]: [Announcement] 󰀭〖 Wet Goose 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[00:52:16]: [Announcement] 󰀭〖 Wet Goose 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[00:54:07]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[00:55:00]: [Say] (KU_XmwUs4ho) mhat2001:  I have 25 down feathers.
+[00:56:11]: [Say] (KU_XmwUs4ho) mhat2001:  I have 25 down feathers.
+[00:57:00]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[00:58:58]: [Say] (KU_XmwUs4ho) mhat2001:  I have 25 down feathers.
+[01:17:19]: [Say] (KU_XmwUs4ho) mhat2001:  We have 42 down feathers in this scaled chest.
+[01:17:45]: [Announcement] 󰀏〖 Dragonfly 〗is Available Now󰀏
+[01:24:03]: [Announcement] 󰀏〖 Honey Patch 〗is Available Now󰀏
+[01:26:57]: [Announcement] 󰀭〖 Wet Dragonfly 〗Got Killed By󰀍〖 Triers 〗󰀘
+[01:28:06]: [Announcement] This is going to be a terrible night...
+[01:28:16]: [Announcement] The Twins turn their gaze toward Petrique
+[01:30:25]: [Announcement] 󰀭〖 Wet Bee Queen 〗Got Killed By󰀍〖 Triers 〗󰀘
+[01:31:32]: [Say] (KU_XmwUs4ho) mhat2001:  I have 9 desert stones.
+[01:35:33]: [Say] (KU_HuDeJaXv) Triers:  I have a shield of terror with 100% durability.
+[01:36:04]: [Announcement] 󰀏〖 Wet Loot Stash 〗is Available Now󰀏
+[01:37:58]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[01:38:18]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[01:40:02]: [Leave Announcement] mhat2001
+[01:42:19]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[01:44:11]: [Death Announcement] Petrique was killed by Merm. He became a spooky ghost!
+[01:44:14]: [Resurrect Announcement] Petrique was resurrected by Life Giving Amulet.
+[01:50:06]: [Say] (KU_HuDeJaXv) Triers:  I have 185 cut grass.
+[02:09:34]: [Join Announcement] mhat2001
+[02:13:28]: [Leave Announcement] mhat2001
+[02:19:46]: [Join Announcement] mhat2001
+[02:29:47]: [Leave Announcement] Triers
+[02:33:35]: [Join Announcement] Triers
+[02:36:31]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 40 bolo de pólvoras, e este tem 79% de frescura.
+[02:41:35]: [Say] (KU_XmwUs4ho) mhat2001:  We have 72 corns in this salt box, and this one has 48% freshness.
+[02:46:21]: [Announcement] 󰀭〖 Antlion 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[02:47:07]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 40 bolo de pólvora doces, e este tem 79% de frescura.
+[03:07:20]: [Say] (KU_XmwUs4ho) mhat2001:  I have 40 honeys, and this one has 95% freshness.
+[03:14:06]: [Say] (KU_XmwUs4ho) mhat2001:  I have 2 moggles, and this one has 62% durability.
+[03:20:18]: [Say] (KU_XmwUs4ho) mhat2001:  I have 37 jelly salads, and this one has 77% freshness.
+[03:24:02]: [Say] (KU_XmwUs4ho) mhat2001:  (Sanity: 38/200) Wolfgang see scary monster...
+[03:29:34]: [Announcement] 󰀭〖 Ancient Fuelweaver 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[03:30:56]: [Say] (KU_XmwUs4ho) mhat2001:  I have 4 jelly salads, and this one has 64% freshness.
+[03:32:34]: [Say] (KU_HuDeJaXv) Triers:  We have a backtrek watch in this scaled chest with 1m33s until charged (80%).
+[03:37:30]: [Announcement] 󰀭〖 Ancient Guardian 〗Got Killed By󰀍〖 Triers 〗󰀘
+[03:38:09]: [Say] (KU_HuDeJaXv) Triers:  (Sanity: 170/200) Everything looks normal in this timeline!
+[03:39:24]: [Say] (KU_XmwUs4ho) mhat2001:  I have 4 glow berrys, and this one has 43% freshness.
+[03:42:00]: [Say] (KU_HuDeJaXv) Triers:  I have 2 bone armors, and this one has 88% durability.
+[03:42:03]: [Say] (KU_XmwUs4ho) mhat2001:  I have a bone armor with 100% durability.
+[03:43:50]: [Say] (KU_XmwUs4ho) mhat2001:  I have 4 glow berrys, and this one has 37% freshness.
+[03:49:59]: [Say] (KU_XmwUs4ho) mhat2001:  I have 2 sweet powdercakes, and this one has 79% freshness.
+[03:51:06]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[03:51:18]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[03:53:17]: [Death Announcement] mhat2001 was killed by Terrorbeak. He became a spooky ghost!
+[03:55:21]: [Resurrect Announcement] mhat2001 was resurrected by Life Giving Amulet.
+[04:07:12]: [Announcement] 󰀏〖 Dragonfly 〗is Available Now󰀏
+[04:10:46]: [Announcement] 󰀏〖 Honey Patch 〗is Available Now󰀏
+[04:17:18]: [Say] (KU_HuDeJaXv) Triers:  I have 8 green gems.
+[04:22:52]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[04:24:09]: [Leave Announcement] mhat2001
+[04:24:30]: [Join Announcement] mhat2001
+[04:26:58]: [Leave Announcement] mhat2001
+[04:30:48]: [Say] (KU_jntKIE-z) Petrique:  Eu tenho 80 carnes, e este tem 85% de frescura.
+[04:32:31]: [Say] (KU_HuDeJaXv) Triers:  I have a bundled supplies.
+[04:35:45]: [Say] (KU_HuDeJaXv) Triers:  I have 7 backtrek watchs, and this one has 100% charge.
+[04:50:04]: [Say] (KU_HuDeJaXv) Triers:  I have 2 bone armors, and this one has 88% durability.
+[04:53:11]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[04:53:12]: [Announcement] 󰀭〖 Dragonfly 〗Got Killed By󰀍〖 Petrique 〗󰀘
+[04:54:00]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[04:57:34]: [Announcement] 󰀭〖 Wet Bee Queen 〗Got Killed By󰀍〖 Triers 〗󰀘
+[05:05:51]: [Leave Announcement] Petrique
+[05:07:17]: [Join Announcement] Petrique
+[05:18:45]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Triers 〗󰀘
+[05:23:59]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[05:24:17]: [Resurrect Announcement] Triers was resurrected by Life Giving Amulet.
+[05:32:50]: [Leave Announcement] Petrique
+[05:33:01]: [Leave Announcement] Triers
+[18:51:27]: [Join Announcement] Triers
+[18:54:32]: [Leave Announcement] Triers
