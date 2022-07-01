@@ -1,9 +1,55 @@
-[00:17:42]: [Join Announcement] Patrick SM
-[00:17:45]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
-[00:17:45]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
-[00:22:35]: [Announcement] 󰀏〖 Ancient Gateway 〗is Available Now󰀏
-[01:39:51]: [Announcement] 󰀭〖 Bee Queen 〗Got Killed By󰀍〖 Patrick SM 〗󰀘
-[01:43:08]: [Skin Announcement] Patrick SM feet_winona_nature
-[01:46:29]: [Announcement] 󰀭〖 Dragonfly 〗Got Killed By󰀍〖 Patrick SM 〗󰀘
-[01:49:54]: [Announcement] 󰀭〖 Klaus 〗Got Killed By󰀍〖 Patrick SM 〗󰀘
-[02:38:14]: [Leave Announcement] Patrick SM
+[00:05:15]: [Join Announcement] Patrick SM
+[00:05:42]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[00:11:14]: [Join Announcement] mhat2001
+[00:26:16]: [Announcement] 󰀭〖 Deerclops 〗Got Killed By󰀍〖 mhat2001 〗󰀘
+[00:48:36]: [Say] (KU_jntKIE-z) Patrick SM:  Eu tenho 37 moongleams, e este tem 85% de frescura.
+[00:48:39]: [Say] (KU_XmwUs4ho) mhat2001:  I have a walrus tusk.
+[00:54:29]: [Skin Announcement] mhat2001 hand_walter_nature
+[00:59:44]: [Skin Announcement] Patrick SM hand_beltedgloves_orange_sienna
+[01:01:41]: [Join Announcement] Triers
+[01:03:27]: [Say] (KU_XmwUs4ho) mhat2001:  We have 2 ice staffs in this scaled chest, and this one has 100% durability.
+[01:07:24]: [Say] (KU_jntKIE-z) Patrick SM:  Eu tenho 63 moongleams, e este tem 88% de frescura.
+[01:07:43]: [Say] (KU_XmwUs4ho) mhat2001: nm vi a parada de geleia q tu disse pra deixar no barco
+[01:07:44]: [Say] (KU_XmwUs4ho) mhat2001: sla
+[01:08:11]: [Say] (KU_jntKIE-z) Patrick SM: w
+[01:09:00]: [Say] (KU_XmwUs4ho) mhat2001: era pra deixar na arvore ?
+[01:09:14]: [Say] (KU_XmwUs4ho) mhat2001: tendeu
+[01:11:59]: [Say] (KU_jntKIE-z) Patrick SM:  Eu tenho 4 sprouting stone fruits.
+[01:12:46]: [Leave Announcement] mhat2001
+[01:13:18]: [Join Announcement] mhat2001
+[01:14:59]: [Say] (KU_jntKIE-z) Patrick SM:  Eu tenho 262 ripe stone fruits, e este tem 87% de frescura.
+[01:18:57]: [Leave Announcement] mhat2001
+[01:20:29]: [Join Announcement] mhat2001
+[01:20:48]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[01:21:00]: [Leave Announcement] mhat2001
+[01:21:42]: [Join Announcement] mhat2001
+[01:24:57]: [Leave Announcement] mhat2001
+[01:29:53]: [Leave Announcement] Patrick SM
+[01:30:30]: [Leave Announcement] Triers
+[01:35:25]: [Join Announcement] mhat2001
+[01:36:25]: [Join Announcement] Patrick SM
+[01:36:51]: [Join Announcement] Triers
+[01:46:13]: [Death Announcement] Triers was killed by the passage of time. She became a spooky ghost!
+[01:48:26]: [Announcement] 󰀏〖 Crab King 〗is Available Now󰀏
+[01:56:55]: [Say] (KU_XmwUs4ho) mhat2001:  I have an accursed trinket.
+[02:03:17]: [Say] (KU_XmwUs4ho) mhat2001:  I have 6 accursed trinkets.
+[02:08:18]: [Leave Announcement] Triers
+[02:09:25]: [Join Announcement] Triers
+[02:10:23]: [Say] (KU_jntKIE-z) Patrick SM:  (Vida: 75/125) Estou ferido.
+[02:11:30]: [Say] (KU_jntKIE-z) Patrick SM:  Eu tenho 37 bananas, e este tem 69% de frescura.
+[02:13:30]: [Say] (KU_XmwUs4ho) mhat2001:  I have 5 gift wraps.
+[02:15:56]: [Skin Announcement] Triers body_flannel_red_higgsbury
+[02:16:01]: [Announcement] 󰀏〖 Honey Patch 〗is Available Now󰀏
+[02:16:02]: [Say] (KU_XmwUs4ho) mhat2001:  I have 5 palmcone sprouts.
+[02:19:17]: [Say] (KU_XmwUs4ho) mhat2001:  I have 14 palmcone sprouts.
+[02:19:26]: [Skin Announcement] Patrick SM body_tshirt_orange_pumpkin
+[02:22:34]: [Announcement] 󰀏〖 Dragonfly 〗is Available Now󰀏
+[02:26:28]: [Announcement] 󰀏〖 Loot Stash 〗is Available Now󰀏
+[02:30:11]: [Leave Announcement] Triers
+[02:31:10]: [Join Announcement] Triers
+[02:32:51]: [Say] (KU_jntKIE-z) Patrick SM:  Eu tenho 28 monkeytails.
+[02:40:57]: [Skin Announcement] mhat2001 legs_winona_frankenstein
+[02:43:32]: [Say] (KU_XmwUs4ho) mhat2001:  I have 23 banana bushs.
+[02:43:36]: [Say] (KU_XmwUs4ho) mhat2001:  I have 52 palmcone sprouts.
+[02:53:53]: [Leave Announcement] Patrick SM
+[02:54:02]: [Leave Announcement] Triers
